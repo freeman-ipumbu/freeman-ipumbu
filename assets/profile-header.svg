@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Freeman Ipumbu</title>
+  <desc id="desc">Systems, networks, design science and product engineering from Windhoek, Namibia.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070c12"/>
+      <stop offset="0.56" stop-color="#101b25"/>
+      <stop offset="1" stop-color="#081018"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.18" cy="0.05" r="0.88">
+      <stop offset="0" stop-color="#5ee7ff" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#5ee7ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#5ee7ff" stroke-opacity="0.055"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#glow)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <path d="M0 1H1200" stroke="#5ee7ff" stroke-opacity="0.35"/>
+  <path d="M0 319H1200" stroke="#ffb020" stroke-opacity="0.3"/>
+
+  <g opacity="0.75">
+    <path d="M830 78L925 123L1012 74L1123 145L1028 234L909 202L816 256" fill="none" stroke="#5ee7ff" stroke-opacity="0.23"/>
+    <path d="M925 123L909 202M1012 74L1028 234M1123 145L909 202" fill="none" stroke="#7c8cff" stroke-opacity="0.18"/>
+    <g fill="#0c151e" stroke="#5ee7ff">
+      <circle cx="830" cy="78" r="6"/><circle cx="925" cy="123" r="8"/><circle cx="1012" cy="74" r="5"/>
+      <circle cx="1123" cy="145" r="7"/><circle cx="1028" cy="234" r="6"/><circle cx="909" cy="202" r="5"/><circle cx="816" cy="256" r="7"/>
+    </g>
+    <circle cx="925" cy="123" r="3" fill="#5ee7ff" filter="url(#softGlow)"/>
+    <circle cx="1123" cy="145" r="3" fill="#ffb020" filter="url(#softGlow)"/>
+  </g>
+
+  <g transform="translate(66 55)">
+    <rect width="68" height="68" rx="14" fill="#111c25" stroke="#5ee7ff" stroke-opacity="0.5"/>
+    <path d="M18 23H42L51 34L42 45H18M30 14L21 54" fill="none" stroke="#eafcff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="51" cy="50" r="7" fill="#ffb020"/>
+  </g>
+
+  <text x="66" y="174" fill="#f1f7fa" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-1">FREEMAN IPUMBU</text>
+  <text x="69" y="211" fill="#8ea6b5" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">SYSTEMS  ·  NETWORKS  ·  DESIGN SCIENCE  ·  PRODUCT ENGINEERING</text>
+  <g transform="translate(69 248)">
+    <circle cx="6" cy="-5" r="5" fill="#5ee7ff" filter="url(#softGlow)"/>
+    <text x="22" y="0" fill="#5ee7ff" font-family="Courier New, monospace" font-size="13" letter-spacing="2">WINDHOEK / NAMIBIA</text>
+    <text x="263" y="0" fill="#ffb020" font-family="Courier New, monospace" font-size="13" letter-spacing="2">BUILD STATUS: ACTIVE</text>
+  </g>
+  <text x="1128" y="290" text-anchor="end" fill="#566d7d" font-family="Courier New, monospace" font-size="11" letter-spacing="2">FI // 2026</text>
+</svg>
