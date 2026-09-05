@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://freeman-ipumbu.github.io/freeman-ipumbu-portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-Visit-5EE7FF?style=for-the-badge&labelColor=0B1219"></a>
+  <a href="https://freeman-ipumbu.pages.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-Visit-5EE7FF?style=for-the-badge&labelColor=0B1219"></a>
   <a href="https://www.linkedin.com/in/freeman-paul-ipumbu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Connect-FFB020?style=for-the-badge&labelColor=0B1219"></a>
   <a href="mailto:freeman.ipumbu@outlook.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-Open_channel-E7EDF1?style=for-the-badge&labelColor=0B1219"></a>
 </p>
@@ -57,7 +57,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
       <h3>Public proof. Private systems.</h3>
       <p>The case studies make the thinking, product decisions and engineering depth inspectable while credentials, production infrastructure and commercially sensitive source stay protected.</p>
       <p><b>Principle:</b> openness should build confidence without creating operational exposure.</p>
-      <p><a href="https://freeman-ipumbu.github.io/freeman-ipumbu-portfolio/"><b>Explore the full portfolio ↗</b></a></p>
+      <p><a href="https://freeman-ipumbu.pages.dev/"><b>Explore the full portfolio ↗</b></a></p>
     </td>
   </tr>
 </table>
@@ -92,7 +92,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
       <h3>Technical Portfolio</h3>
       <p>An interactive view of the systems, networking, security, research and product work behind the job titles.</p>
       <p><b>Signal:</b> ten years of field experience, documented and made inspectable.</p>
-      <p><a href="https://freeman-ipumbu.github.io/freeman-ipumbu-portfolio/"><b>Explore portfolio ↗</b></a> · <a href="https://github.com/freeman-ipumbu/freeman-ipumbu-portfolio">Repository ↗</a></p>
+      <p><a href="https://freeman-ipumbu.pages.dev/"><b>Explore portfolio ↗</b></a> · <a href="https://github.com/freeman-ipumbu/freeman-ipumbu-portfolio">Repository ↗</a></p>
     </td>
   </tr>
 </table>
@@ -126,6 +126,6 @@ AI is part of the toolchain. Judgment, accountability and final ownership remain
 
 I am open to conversations around resilient infrastructure, systems administration, network security, research collaboration and ambitious product work—especially ideas capable of creating practical value in Namibia.
 
-**[Portfolio](https://freeman-ipumbu.github.io/freeman-ipumbu-portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/freeman-paul-ipumbu/)** · **[Research](https://doi.org/10.5281/zenodo.21840440)** · **[Email](mailto:freeman.ipumbu@outlook.com)**
+**[Portfolio](https://freeman-ipumbu.pages.dev/)** · **[LinkedIn](https://www.linkedin.com/in/freeman-paul-ipumbu/)** · **[Research](https://doi.org/10.5281/zenodo.21840440)** · **[Email](mailto:freeman.ipumbu@outlook.com)**
 
 <sub>Built from Windhoek. Tested against reality.</sub>
