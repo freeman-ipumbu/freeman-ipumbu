@@ -53,11 +53,11 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
       <p><a href="https://github.com/freeman-ipumbu/dream-high-learning-institute"><b>Repository ↗</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/profile-header.svg" alt="Freeman Ipumbu systems and product engineering" width="100%">
-      <h3>Public proof. Private systems.</h3>
-      <p>The case studies make the thinking, product decisions and engineering depth inspectable while credentials, production infrastructure and commercially sensitive source stay protected.</p>
-      <p><b>Principle:</b> openness should build confidence without creating operational exposure.</p>
-      <p><a href="https://freeman-ipumbu.pages.dev/"><b>Explore the full portfolio ↗</b></a></p>
+      <img src="assets/nammar-command.svg" alt="NamMar Command" width="100%">
+      <h3>NamMar Command</h3>
+      <p>A vessel-operations command centre unifying voyages, crew readiness, live coastal conditions, public vessel status and departure assurance.</p>
+      <p><b>Role:</b> product strategy, systems design, command UX, React engineering and marine-operational research.</p>
+      <p><a href="https://github.com/freeman-ipumbu/nammar-command-case-study"><b>Public case study ↗</b></a></p>
     </td>
   </tr>
 </table>
