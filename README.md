@@ -67,8 +67,8 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
     <td width="50%" valign="top">
       <img src="assets/runnerz.png" alt="Runnerz Namibia" width="100%">
       <h3>Runnerz Namibia</h3>
-      <p>A route-driven social running network built in Windhoek around compatible pace, intent, place, timing and earned trust—not empty follower counts.</p>
-      <p><b>Role:</b> founder, product strategy, design research, Android engineering, web experience, mapping and safety architecture.</p>
+      <p>A route-driven social running network built in Windhoek around compatible pace, intent, place, timing and earned trust—not empty follower counts. Its live Founder operations command turns early demand and product signals into accountable action.</p>
+      <p><b>Role:</b> founder, product strategy, design research, Android and web engineering, mapping, safety architecture, secure operations and infrastructure.</p>
       <p><a href="https://runnerznamibia.com"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/runnerz-android-case-study">Android case study ↗</a> · <a href="https://github.com/freeman-ipumbu/runnerz-namibia-website-case-study">Web case study ↗</a></p>
     </td>
     <td width="50%" valign="top">
