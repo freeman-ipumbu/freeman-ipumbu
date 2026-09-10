@@ -48,9 +48,9 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
     <td width="50%" valign="top">
       <img src="assets/dream-high.png" alt="Dream High Learning Institute website" width="100%">
       <h3>Dream High Learning Institute</h3>
-      <p>A premium responsive digital experience unifying early learning, tutoring, vocational training and counselling into one clear institutional journey.</p>
-      <p><b>Role:</b> digital experience design and frontend engineering.</p>
-      <p><a href="https://github.com/freeman-ipumbu/dream-high-learning-institute"><b>Repository ↗</b></a></p>
+      <p>A research-led digital identity and responsive institutional experience unifying early learning, school support, vocational training and counselling.</p>
+      <p><b>Role:</b> design research, strategy, visual direction, frontend engineering, content systems and deployment.</p>
+      <p><a href="https://dream-high-learning.pages.dev/"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/dream-high-learning-case-study">Public case study ↗</a></p>
     </td>
     <td width="50%" valign="top">
       <img src="assets/nammar-command.svg" alt="NamMar Command" width="100%">
