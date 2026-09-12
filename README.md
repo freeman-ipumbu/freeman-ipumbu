@@ -70,15 +70,11 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
       <p><a href="https://borizago.freeman-ipumbu634390.chatgpt.site"><b>Live booking app ↗</b></a> · <a href="https://borizashuttles.pages.dev">Fallback website ↗</a> · <a href="https://github.com/freeman-ipumbu/borizago-case-study">Public case study ↗</a></p>
     </td>
     <td width="50%" valign="top">
+      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/SamNujomaStadium.JPG/960px-SamNujomaStadium.JPG" alt="Sam Nujoma Stadium in Windhoek" width="100%">
       <h3>KICKOFF NAM</h3>
       <p>A public, source-linked Namibian football archive covering players, clubs, competitions, regions, coaches, agents, match history and photographic context.</p>
       <p><b>Role:</b> product strategy, archival research, data modelling, UX/UI, full-stack engineering, security architecture and Cloudflare launch.</p>
       <p><a href="https://kickoff-nam.pages.dev/"><b>Live archive ↗</b></a> · <a href="https://github.com/freeman-ipumbu/kickoff-nam-case-study">Public case study ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Namibian digital systems</h3>
-      <p>Across mobility, sport, aviation, public-interest coordination, research and farm operations, I build products that keep their evidence, boundaries and operational reality visible.</p>
-      <p><b>Standard:</b> simple enough to understand, strong enough to trust, and documented well enough to survive the person who built it.</p>
     </td>
   </tr>
 </table>
