@@ -63,6 +63,13 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img src="assets/borizago.png" alt="Borizago — Boriza Shuttle & Tours" width="100%">
+      <h3>Borizago — Boriza Shuttle & Tours</h3>
+      <p>An installable mobile booking website for scheduled shuttles between Windhoek, Swakopmund and Walvis Bay, built for fast WhatsApp-led customer journeys.</p>
+      <p><b>Role:</b> product strategy, UX/UI, full-stack engineering, booking integrity, mobile hardening, Cloudflare deployment and launch.</p>
+      <p><a href="https://borizago.freeman-ipumbu634390.chatgpt.site"><b>Live booking app ↗</b></a> · <a href="https://borizashuttles.pages.dev">Fallback website ↗</a> · <a href="https://github.com/freeman-ipumbu/borizago-case-study">Public case study ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>KICKOFF NAM</h3>
       <p>A public, source-linked Namibian football archive covering players, clubs, competitions, regions, coaches, agents, match history and photographic context.</p>
       <p><b>Role:</b> product strategy, archival research, data modelling, UX/UI, full-stack engineering, security architecture and Cloudflare launch.</p>
