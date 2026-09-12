@@ -24,6 +24,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 - **Product builder** — products spanning trusted mobility, social running, aviation coordination and public-interest command systems
 - **Published design science researcher** — IT handover continuity, with an open DOI-backed research record
 - **Builder within SolarSpin Technologies** — creating practical Namibian digital products with operational depth
+- **Football archive builder** — creating KICKOFF NAM, a source-linked Namibian football intelligence archive
 
 ## Selected proof of work
 
@@ -58,6 +59,19 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
       <p>A vessel-operations command centre unifying voyages, crew readiness, live coastal conditions, public vessel status and departure assurance.</p>
       <p><b>Role:</b> product strategy, systems design, command UX, React engineering and marine-operational research.</p>
       <p><a href="https://github.com/freeman-ipumbu/nammar-command-case-study"><b>Public case study ↗</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>KICKOFF NAM</h3>
+      <p>A public, source-linked Namibian football archive covering players, clubs, competitions, regions, coaches, agents, match history and photographic context.</p>
+      <p><b>Role:</b> product strategy, archival research, data modelling, UX/UI, full-stack engineering, security architecture and Cloudflare launch.</p>
+      <p><a href="https://kickoff-nam.pages.dev/"><b>Live archive ↗</b></a> · <a href="https://github.com/freeman-ipumbu/kickoff-nam-case-study">Public case study ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Namibian digital systems</h3>
+      <p>Across mobility, sport, aviation, public-interest coordination, research and farm operations, I build products that keep their evidence, boundaries and operational reality visible.</p>
+      <p><b>Standard:</b> simple enough to understand, strong enough to trust, and documented well enough to survive the person who built it.</p>
     </td>
   </tr>
 </table>
