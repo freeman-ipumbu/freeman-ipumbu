@@ -63,11 +63,11 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/borizago.jpg" alt="Borizago — Boriza Shuttle & Tours" width="100%">
+      <img src="assets/borizago-2026.png" alt="Borizago — Boriza Shuttle & Tours" width="100%">
       <h3>Borizago — Boriza Shuttle & Tours</h3>
-      <p>An installable booking web app connecting seven Namibian towns through live capacity, server-priced bookings, WhatsApp hand-offs and a private operations dashboard.</p>
-      <p><b>Role:</b> product strategy, UX/UI, full-stack engineering, booking integrity, mobile hardening, Cloudflare deployment and launch.</p>
-      <p><a href="https://borizashuttles.pages.dev/"><b>Live booking app ↗</b></a> · <a href="https://github.com/freeman-ipumbu/borizago-case-study">Public case study ↗</a></p>
+      <p>An installable transport app connecting seven Namibian towns through live capacity and server-priced bookings, with tour, airport, private-transfer and parcel requests, persistent operations alerts and direct customer confirmations.</p>
+      <p><b>Role:</b> product strategy, UX/UI, full-stack engineering, booking integrity, mobile hardening, Cloudflare deployment, DNS and launch.</p>
+      <p><a href="https://borizashuttles.pages.dev/"><b>Live app ↗</b></a> · <a href="https://github.com/freeman-ipumbu/borizago-case-study">Public case study ↗</a></p>
     </td>
     <td width="50%" valign="top">
       <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/SamNujomaStadium.JPG/960px-SamNujomaStadium.JPG" alt="Sam Nujoma Stadium in Windhoek" width="100%">
