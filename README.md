@@ -65,8 +65,8 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
     <td width="50%" valign="top">
       <img src="assets/borizago-2026.png" alt="Borizago — Boriza Shuttle & Tours" width="100%">
       <h3>Borizago — Boriza Shuttle & Tours</h3>
-      <p>An installable transport app connecting seven Namibian towns through live capacity and server-priced bookings, with tour, airport, private-transfer and parcel requests, persistent operations alerts and direct customer confirmations.</p>
-      <p><b>Role:</b> product strategy, UX/UI, full-stack engineering, booking integrity, mobile hardening, Cloudflare deployment, DNS and launch.</p>
+      <p>An installable transport platform connecting seven Namibian towns through live capacity and server-priced bookings, with tour, airport, private-transfer and parcel requests, downloadable travel guides, operations alerts and direct customer confirmations.</p>
+      <p><b>Role:</b> product strategy, UX/UI, full-stack engineering, booking integrity, operations workflow, mobile hardening, Cloudflare deployment and launch.</p>
       <p><a href="https://borizashuttles.pages.dev/"><b>Live app ↗</b></a> · <a href="https://github.com/freeman-ipumbu/borizago-case-study">Public case study ↗</a></p>
     </td>
     <td width="50%" valign="top">
