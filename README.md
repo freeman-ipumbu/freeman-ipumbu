@@ -65,7 +65,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
     <td width="50%" valign="top">
       <img src="assets/borizago-2026.png" alt="Borizago — Boriza Shuttle & Tours" width="100%">
       <h3>Borizago — Boriza Shuttle & Tours</h3>
-      <p>An installable transport platform connecting seven Namibian towns through live capacity and server-priced bookings, with tour, airport, private-transfer and parcel requests, downloadable travel guides, operations alerts and direct customer confirmations.</p>
+      <p>An installable transport platform connecting seven Namibian towns through live capacity and server-priced scheduled-shuttle bookings, with guided enquiry paths for tour, airport, private-transfer and parcel services, downloadable travel guides, operations alerts and direct customer confirmations.</p>
       <p><b>Role:</b> product strategy, UX/UI, full-stack engineering, booking integrity, operations workflow, mobile hardening, Cloudflare deployment and launch.</p>
       <p><a href="https://borizashuttles.pages.dev/"><b>Live app ↗</b></a> · <a href="https://github.com/freeman-ipumbu/borizago-case-study">Public case study ↗</a></p>
     </td>
@@ -82,12 +82,21 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="assets/omutambo-mark.svg" alt="Omutambo Herd Operations" width="100%">
+      <h3>Omutambo Herd Operations</h3>
+      <p>A Namibia-first livestock operations workspace that brings cattle identity, health, breeding, camps, water points, movements, tasks, costs and field evidence into one reviewable operating picture.</p>
+      <p><b>Role:</b> product strategy, design science, information architecture, full-stack engineering, offline-first UX, access controls and Cloudflare deployment.</p>
+      <p><a href="https://omutambo.pages.dev"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/omutambo-herd-case-study">Public case study ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
       <img src="assets/runnerz.png" alt="Runnerz Namibia" width="100%">
       <h3>Runnerz Namibia</h3>
       <p>A route-driven social running network built in Windhoek around compatible pace, intent, place, timing and earned trust—not empty follower counts. Its live Founder operations command turns early demand and product signals into accountable action.</p>
       <p><b>Role:</b> founder, product strategy, design research, Android and web engineering, mapping, safety architecture, secure operations and infrastructure.</p>
       <p><a href="https://runnerznamibia.com"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/runnerz-android-case-study">Android case study ↗</a> · <a href="https://github.com/freeman-ipumbu/runnerz-namibia-website-case-study">Web case study ↗</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="assets/airmed-command.svg" alt="MOHSS AIRMED COMMAND" width="100%">
       <h3>MOHSS AIRMED COMMAND</h3>
@@ -95,8 +104,6 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
       <p><b>Role:</b> systems design, design research, command UX, React engineering and Kotlin/Spring backend foundation.</p>
       <p><a href="https://github.com/freeman-ipumbu/mohss-airmed-command-case-study"><b>Public case study ↗</b></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <img src="assets/namair-command.svg" alt="NamAir Command" width="100%">
       <h3>NamAir Command</h3>
@@ -104,6 +111,8 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
       <p><b>Role:</b> product design, systems engineering, interaction design and prototype development.</p>
       <p><a href="https://github.com/freeman-ipumbu/namair-command-case-study"><b>Public case study ↗</b></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="assets/portfolio.png" alt="Freeman Ipumbu technical portfolio" width="100%">
       <h3>Technical Portfolio</h3>
