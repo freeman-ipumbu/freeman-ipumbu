@@ -62,6 +62,15 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/ml-occupational-safety.jpg" alt="M &amp; L Occupational Safety digital experience" width="100%">
+      <h3>M &amp; L Occupational Safety</h3>
+      <p>A bold, mobile-hardened business website for a Windhoek occupational health and safety consultancy—turning a dense working overview into a clear service story with a refined industrial identity and a distinctly Namibian sense of place.</p>
+      <p><b>Role:</b> business positioning, identity refinement, UX/UI, content architecture, frontend engineering, mobile hardening, performance and Cloudflare Pages deployment.</p>
+      <p><a href="https://ml-occupational-safety.pages.dev"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/ml-occupational-safety-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="assets/borizago-2026.png" alt="Borizago — Boriza Shuttle & Tours" width="100%">
       <h3>Borizago — Boriza Shuttle & Tours</h3>
