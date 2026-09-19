@@ -21,7 +21,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 ### Current signal
 
 - **Senior IT Systems Administrator** — The Free Press of Namibia / The Namibian / Namibia Media Trust
-- **Product builder** — products spanning trusted mobility, social running, aviation coordination and public-interest command systems
+- **Product builder** — products spanning trusted mobility, social running, local-first music, aviation coordination and public-interest command systems
 - **Published design science researcher** — IT handover continuity, with an open DOI-backed research record
 - **Builder within SolarSpin Technologies** — creating practical Namibian digital products with operational depth
 - **Football archive builder** — creating KICKOFF NAM, a source-linked Namibian football intelligence archive
@@ -119,6 +119,13 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
       <p>An interactive view of the systems, networking, security, research and product work behind the job titles.</p>
       <p><b>Signal:</b> ten years of field experience, documented and made inspectable.</p>
       <p><a href="https://freeman-ipumbu.pages.dev/"><b>Explore portfolio ↗</b></a> · <a href="https://github.com/freeman-ipumbu/freeman-ipumbu-portfolio">Repository ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/unified-music.svg" alt="UNIFIED Music" width="100%">
+      <h3>UNIFIED Music</h3>
+      <p>A local-first Kotlin Multiplatform music experience bringing library discovery, queues, playlists, playback state, sound shaping and audio-reactive visualisation into one coherent product direction.</p>
+      <p><b>Role:</b> product design, interaction system, Kotlin Multiplatform architecture, Android audio engineering and visual design.</p>
+      <p><a href="https://github.com/freeman-ipumbu/unified-music-case-study"><b>Public case study ↗</b></a></p>
     </td>
   </tr>
 </table>
