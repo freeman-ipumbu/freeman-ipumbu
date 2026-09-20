@@ -30,6 +30,15 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/utuseb.svg" alt="Utuseb Bar and Delivery mobile commerce platform" width="100%">
+      <h3>Utuseb — Bar &amp; Delivery</h3>
+      <p>A mobile commerce and operations platform for a private Namibian drinks business: delivery or arranged pickup, 46 product-specific catalogue lines, cash and eWallet checkout, installable PWA, live order workflow and stock controls.</p>
+      <p><b>Role:</b> product strategy, UX/UI, product photography system, full-stack engineering, PWA performance, security hardening, Cloudflare D1 and launch.</p>
+      <p><a href="https://utuseb.pages.dev"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/utuseb-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <img src="assets/rightmatch.png" alt="RightMatch Namibia" width="100%">
       <h3>RightMatch Namibia</h3>
