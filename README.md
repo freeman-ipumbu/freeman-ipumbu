@@ -25,6 +25,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 - **Published design science researcher** — IT handover continuity, with an open DOI-backed research record
 - **Builder within SolarSpin Technologies** — creating practical Namibian digital products with operational depth
 - **Football archive builder** — creating KICKOFF NAM, a source-linked Namibian football intelligence archive with a national football atlas
+- **Community digital steward** — helping grassroots initiatives like Magic Boys FC earn visibility without trading away young people’s privacy
 
 ## Start here
 
@@ -39,6 +40,15 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 ## Selected proof of work
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/magic-boys-fc.webp" alt="Magic Boys FC community football team" width="100%">
+      <h3>Magic Boys FC</h3>
+      <p>A joyful, mobile-first identity and public home for a Namibian community football team founded to keep young people active, disciplined and connected to something positive.</p>
+      <p><b>Role:</b> discovery, brand direction, identity design, UX/UI, frontend engineering, accessibility, safeguarding boundary and Cloudflare launch.</p>
+      <p><a href="https://magicboys.pages.dev/"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/magic-boys-fc-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
   <tr>
     <td colspan="2" valign="top">
       <img src="assets/utuseb.svg" alt="Utuseb Drinks and Delivery mobile commerce platform" width="100%">
