@@ -42,7 +42,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <img src="assets/magic-boys-fc.webp" alt="Magic Boys FC community football team" width="100%">
+      <img src="assets/magic-boys-fc-showcase.png" alt="Magic Boys FC crest with the words Magic Boys FC, established 2018, and Play. Learn. Rise." width="100%">
       <h3>Magic Boys FC</h3>
       <p>A joyful, mobile-first identity and public home for a Namibian community football team founded to keep young people active, disciplined and connected to something positive.</p>
       <p><b>Role:</b> discovery, brand direction, identity design, UX/UI, frontend engineering, accessibility, safeguarding boundary and Cloudflare launch.</p>
@@ -92,7 +92,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <img src="assets/ml-occupational-safety.jpg" alt="M &amp; L Occupational Safety digital experience" width="100%">
+      <img src="assets/ml-occupational-safety-showcase.jpg" alt="M &amp; L Occupational Safety badge over the Namib coast" width="100%">
       <h3>M &amp; L Occupational Safety</h3>
       <p>A bold, mobile-hardened business website for a Windhoek occupational health and safety consultancy—turning a dense working overview into a clear service story with a refined industrial identity and a distinctly Namibian sense of place.</p>
       <p><b>Role:</b> business positioning, identity refinement, UX/UI, content architecture, frontend engineering, mobile hardening, performance and Cloudflare Pages deployment.</p>
