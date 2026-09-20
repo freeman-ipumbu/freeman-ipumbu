@@ -24,7 +24,17 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 - **Product builder** — products spanning trusted mobility, social running, local-first music, aviation coordination and public-interest command systems
 - **Published design science researcher** — IT handover continuity, with an open DOI-backed research record
 - **Builder within SolarSpin Technologies** — creating practical Namibian digital products with operational depth
-- **Football archive builder** — creating KICKOFF NAM, a source-linked Namibian football intelligence archive
+- **Football archive builder** — creating KICKOFF NAM, a source-linked Namibian football intelligence archive with a national football atlas
+
+## Start here
+
+| What you want to inspect | Best entry point |
+|---|---|
+| Shipped products and working demos | **[Interactive portfolio](https://freeman-ipumbu.pages.dev/)** |
+| Research method and published evidence | **[IT Handover Continuance](https://doi.org/10.5281/zenodo.21840440)** |
+| Product decisions without exposing private production code | **[Public case-study repositories](https://github.com/freeman-ipumbu?tab=repositories)** |
+| Namibian football data and its original sources | **[KICKOFF NAM](https://kickoff-nam.pages.dev/)** |
+| A direct conversation | **[LinkedIn](https://www.linkedin.com/in/freeman-paul-ipumbu/)** or **[email](mailto:freeman.ipumbu@outlook.com)** |
 
 ## Selected proof of work
 
@@ -88,9 +98,9 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
       <p><a href="https://borizashuttles.pages.dev/"><b>Live app ↗</b></a> · <a href="https://github.com/freeman-ipumbu/borizago-case-study">Public case study ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/SamNujomaStadium.JPG/960px-SamNujomaStadium.JPG" alt="Sam Nujoma Stadium in Windhoek" width="100%">
+      <img src="assets/kickoff-nam.png" alt="KICKOFF NAM — Namibia Football Archive" width="100%">
       <h3>KICKOFF NAM</h3>
-      <p>A public, source-linked Namibian football archive covering players, clubs, competitions, regions, coaches, agents, match history and photographic context.</p>
+      <p>A public, source-linked Namibian football archive covering players, clubs, competitions, regions, coaches, agents, match history, photographic context and a concise national football atlas.</p>
       <p><b>Role:</b> product strategy, archival research, data modelling, UX/UI, full-stack engineering, security architecture and Cloudflare launch.</p>
       <p><a href="https://kickoff-nam.pages.dev/"><b>Live archive ↗</b></a> · <a href="https://github.com/freeman-ipumbu/kickoff-nam-case-study">Public case study ↗</a></p>
     </td>
