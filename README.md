@@ -43,10 +43,10 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <img src="assets/ontoko-foods.png" alt="Ontoko Foods — proudly Namibian food grown from Groot Aub" width="100%">
+      <img src="assets/ontoko-foods.jpg" alt="Authentic Ontoko Foods egg packaging presented in the renewed product photography system" width="100%">
       <h3>Ontoko Foods</h3>
-      <p>A premium, founder-led digital home for Jane Auala’s growing agricultural business—bringing Ontoko’s real identity, products, farm archive and food-security purpose together in one unmistakably Namibian experience.</p>
-      <p><b>Role:</b> public-source research, story architecture, brand translation, art direction, UX/UI, frontend engineering, interaction design, accessibility and Cloudflare launch.</p>
+      <p>A premium, founder-led digital home for Jane Auala’s growing agricultural business—bringing Ontoko’s real identity, editorial product imagery, farm archive and food-security purpose together in one unmistakably Namibian experience.</p>
+      <p><b>Role:</b> public-source research, story architecture, brand translation, product art direction, UX/UI, frontend engineering, interaction design, mobile hardening, accessibility and Cloudflare launch.</p>
       <p><a href="https://ontoko-foods.pages.dev/"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/ontoko-foods-case-study">Public case study ↗</a></p>
     </td>
   </tr>
