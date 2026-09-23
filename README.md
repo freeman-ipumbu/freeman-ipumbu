@@ -44,6 +44,8 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
   <img src="assets/unified-runnerz-player.svg" width="100%" alt="UNIFIED × Runnerz — the official Runnerz music player">
 </p>
 
+<p align="center"><sub>Original ecosystem artwork for the 8.0 candidate—not a handset capture.</sub></p>
+
 **UNIFIED × Runnerz** is the official music layer for Runnerz: a local-first Kotlin Multiplatform player with duration-aware 30, 45, 60 and 90-minute run mixes, five private Session Studio modes, Track Radio, a persistent Listening Universe with nine badges and five archetypes, and a checksummed two-generation Library Vault. Starting a run begins playback in UNIFIED and sends only the session title, target duration and track count to Runnerz—never track identities or the listener’s full history.
 
 The 8.0 Android candidate and matching Runnerz live/field-test receivers compile successfully. The cross-app contract still has a clearly stated physical-device validation gate, Apple Music and Spotify production adapters still require registered provider infrastructure, and the ShowTime ambassador channel discovers metadata-matched local tracks without treating a match as rights approval; it does not bundle or claim rights to artist media.
