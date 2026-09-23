@@ -43,6 +43,15 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 <table>
   <tr>
     <td colspan="2" valign="top">
+      <img src="assets/oshmed-ema-namibia.png" alt="OSH-Med and E.M.A. Namibia unified emergency and safety experience" width="100%">
+      <h3>OSH-Med + E.M.A. Namibia — Safety to Rescue</h3>
+      <p>A unified, emergency-first platform connecting OSH-Med International’s professional training, occupational safety and medical services with E.M.A.’s independent nonprofit community-response mission. It combines one-tap 9112 access, private GPS sharing, traffic-warning reporting, constrained smart guidance, live Kosmos 94.1 radio, COPPS and 9-1-1-2 video, sponsor pathways and offline-capable PWA access.</p>
+      <p><b>Role:</b> research, positioning, information architecture, UX strategy, art direction, interaction design, frontend engineering, emergency-safety design, PWA implementation, Cloudflare deployment and launch.</p>
+      <p><a href="https://oshmed-ema-namibia.pages.dev/"><b>Live experience ↗</b></a> · <a href="https://github.com/freeman-ipumbu/oshmed-ema-namibia-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <img src="assets/ontoko-foods.jpg" alt="Authentic Ontoko Foods egg packaging presented in the renewed product photography system" width="100%">
       <h3>Ontoko Foods</h3>
       <p>A premium, founder-led digital home for Jane Auala’s growing agricultural business—bringing Ontoko’s real identity, editorial product imagery, farm archive and food-security purpose together in one unmistakably Namibian experience.</p>
