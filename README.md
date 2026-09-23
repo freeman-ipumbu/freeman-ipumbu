@@ -21,7 +21,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 ### Current signal
 
 - **Senior IT Systems Administrator** — The Free Press of Namibia / The Namibian / Namibia Media Trust
-- **Product builder** — products spanning trusted mobility, social running, local-first music, aviation coordination and public-interest command systems
+- **Product builder** — products spanning trusted mobility, the Runnerz social-running ecosystem and its official local-first music player, aviation coordination and public-interest command systems
 - **Published design science researcher** — IT handover continuity, with an open DOI-backed research record
 - **Builder within SolarSpin Technologies** — creating practical Namibian digital products with operational depth
 - **Football archive builder** — creating KICKOFF NAM, a source-linked Namibian football intelligence archive spanning 103 player profiles, 28 club-directory entries and all 14 regional associations
@@ -37,6 +37,18 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 | Product decisions without exposing private production code | **[Public case-study repositories](https://github.com/freeman-ipumbu?tab=repositories)** |
 | Namibian football data and its original sources | **[KICKOFF NAM](https://kickoff-nam.pages.dev/)** |
 | A direct conversation | **[LinkedIn](https://www.linkedin.com/in/freeman-paul-ipumbu/)** or **[email](mailto:freeman.ipumbu@outlook.com)** |
+
+## Current flagship — one Runnerz ecosystem
+
+<p align="center">
+  <img src="assets/unified-runnerz-player.svg" width="100%" alt="UNIFIED × Runnerz — the official Runnerz music player">
+</p>
+
+**UNIFIED × Runnerz** is the official music layer for Runnerz: a local-first Kotlin Multiplatform player with duration-aware 30, 45, 60 and 90-minute run mixes, five private Session Studio modes, Track Radio, a persistent Listening Universe with nine badges and five archetypes, and a checksummed two-generation Library Vault. Starting a run begins playback in UNIFIED and sends only the session title, target duration and track count to Runnerz—never track identities or the listener’s full history.
+
+The 8.0 Android candidate and matching Runnerz live/field-test receivers compile successfully. The cross-app contract still has a clearly stated physical-device validation gate, Apple Music and Spotify production adapters still require registered provider infrastructure, and the ShowTime ambassador channel discovers metadata-matched local tracks without treating a match as rights approval; it does not bundle or claim rights to artist media.
+
+**[Inspect the public engineering case study ↗](https://github.com/freeman-ipumbu/unified-music-case-study)** · **[Open Runnerz Namibia ↗](https://runnerznamibia.com)**
 
 ## Selected proof of work
 
@@ -148,7 +160,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
     <td width="50%" valign="top">
       <img src="assets/runnerz.png" alt="Runnerz Namibia" width="100%">
       <h3>Runnerz Namibia</h3>
-      <p>A route-driven social running network built in Windhoek around compatible pace, intent, place, timing and earned trust—not empty follower counts. Its live Founder operations command turns early demand and product signals into accountable action.</p>
+      <p>A route-driven social running network built in Windhoek around compatible pace, intent, place, timing and earned trust—not empty follower counts. Its ecosystem now includes UNIFIED as the official Runnerz music player, with an explicit privacy-light session handoff between playback and route tracking.</p>
       <p><b>Role:</b> founder, product strategy, design research, Android and web engineering, mapping, safety architecture, secure operations and infrastructure.</p>
       <p><a href="https://runnerznamibia.com"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/runnerz-android-case-study">Android case study ↗</a> · <a href="https://github.com/freeman-ipumbu/runnerz-namibia-website-case-study">Web case study ↗</a></p>
     </td>
@@ -178,9 +190,9 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
       <p><a href="https://freeman-ipumbu.pages.dev/"><b>Explore portfolio ↗</b></a> · <a href="https://github.com/freeman-ipumbu/freeman-ipumbu-portfolio">Repository ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/unified-music.svg" alt="UNIFIED Music" width="100%">
-      <h3>UNIFIED Music</h3>
-      <p>A local-first Kotlin Multiplatform music experience bringing library discovery, queues, playlists, playback state, sound shaping and audio-reactive visualisation into one coherent product direction.</p>
+      <img src="assets/unified-runnerz-player.svg" alt="UNIFIED × Runnerz official music player" width="100%">
+      <h3>UNIFIED × Runnerz — Official Music Player</h3>
+      <p>A local-first Kotlin Multiplatform music system that unifies a durable Library Vault, native playback, private listening intelligence, unlockable badges, Session Studio, Track Radio and duration-aware Runnerz mixes inside one coherent Namibian product identity.</p>
       <p><b>Role:</b> product design, interaction system, Kotlin Multiplatform architecture, Android audio engineering and visual design.</p>
       <p><a href="https://github.com/freeman-ipumbu/unified-music-case-study"><b>Public case study ↗</b></a></p>
     </td>
