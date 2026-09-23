@@ -24,7 +24,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 - **Product builder** — products spanning trusted mobility, social running, local-first music, aviation coordination and public-interest command systems
 - **Published design science researcher** — IT handover continuity, with an open DOI-backed research record
 - **Builder within SolarSpin Technologies** — creating practical Namibian digital products with operational depth
-- **Football archive builder** — creating KICKOFF NAM, a source-linked Namibian football intelligence archive with a national football atlas
+- **Football archive builder** — creating KICKOFF NAM, a source-linked Namibian football intelligence archive spanning 103 player profiles, 28 club-directory entries and all 14 regional associations
 - **Community digital steward** — helping grassroots initiatives like Magic Boys FC earn visibility without trading away young people’s privacy
 - **Local-enterprise storyteller** — translating businesses like Ontoko Foods into credible, distinctly Namibian digital experiences
 
@@ -118,9 +118,9 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
       <p><a href="https://borizashuttles.pages.dev/"><b>Live app ↗</b></a> · <a href="https://github.com/freeman-ipumbu/borizago-case-study">Public case study ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/kickoff-nam.png" alt="KICKOFF NAM — Namibia Football Archive" width="100%">
+      <img src="assets/kickoff-nam.png" alt="KICKOFF NAM — Namibia Football Archive brand artwork" width="100%">
       <h3>KICKOFF NAM</h3>
-      <p>A public, source-linked Namibian football archive covering players, clubs, competitions, regions, coaches, agents, match history, photographic context and a concise national football atlas.</p>
+      <p>A public, source-linked Namibian football archive connecting 103 player profiles, 28 club-directory entries, all 14 regional associations, competition pathways and attributed historical context. Coverage limits and source dates stay visible instead of being presented as live registration data.</p>
       <p><b>Role:</b> product strategy, archival research, data modelling, UX/UI, full-stack engineering, security architecture and Cloudflare launch.</p>
       <p><a href="https://kickoff-nam.pages.dev/"><b>Live archive ↗</b></a> · <a href="https://github.com/freeman-ipumbu/kickoff-nam-case-study">Public case study ↗</a></p>
     </td>
