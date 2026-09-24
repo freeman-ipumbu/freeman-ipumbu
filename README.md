@@ -27,7 +27,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 - **Football archive builder** — creating KICKOFF NAM, a source-linked Namibian football intelligence archive spanning 103 player profiles, 28 club-directory entries and all 14 regional associations
 - **Community digital steward** — helping grassroots initiatives like Magic Boys Football Academy earn visibility without trading away young people’s privacy
 - **Local-enterprise storyteller** — translating businesses like Ontoko Foods into credible, distinctly Namibian digital experiences
-- **Public-interest experience builder** — separating E.M.A. Namibia’s nonprofit emergency-care mission from OSH-Med International’s professional academy while giving each a complete, credible identity
+- **Public-interest systems builder** — separating E.M.A. Namibia’s nonprofit mission from OSH-Med International’s academy, then taking E.M.A. from public experience into an authenticated emergency-control and responder pilot
 
 ## Start here
 
@@ -60,6 +60,15 @@ The 9.0 Android build is installed and verified in place on the release handset 
 ## Selected proof of work
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/ecc-command.svg" alt="ECC Command emergency coordination pilot for E.M.A. Namibia" width="100%">
+      <h3>ECC Command · E.M.A. Namibia</h3>
+      <p>An authenticated emergency-control and responder PWA pilot joining workbook-aligned intake, human-confirmed priority and location, alarming, unit statuses 0–9, availability, case timelines, destination truth and attributable handover audit—while keeping every real integration visibly gated.</p>
+      <p><b>Role:</b> field discovery, emergency workflow modelling, product strategy, safety boundary, identity and interaction design, full-stack engineering, access control, Cloudflare Pages Functions and D1, mobile hardening and deployment.</p>
+      <p><a href="https://ecc-command.pages.dev/"><b>Protected pilot ↗</b></a> · <a href="https://github.com/freeman-ipumbu/ecc-command-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
   <tr>
     <td colspan="2" valign="top">
       <img src="assets/ema-namibia.png" alt="E.M.A. Namibia emergency-first nonprofit digital experience" width="100%">
