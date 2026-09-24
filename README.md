@@ -25,7 +25,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 - **Published design science researcher** — IT handover continuity, with an open DOI-backed research record
 - **Builder within SolarSpin Technologies** — creating practical Namibian digital products with operational depth
 - **Football archive builder** — creating KICKOFF NAM, a source-linked Namibian football intelligence archive spanning 103 player profiles, 28 club-directory entries and all 14 regional associations
-- **Community digital steward** — helping grassroots initiatives like Magic Boys FC earn visibility without trading away young people’s privacy
+- **Community digital steward** — helping grassroots initiatives like Magic Boys Football Academy earn visibility without trading away young people’s privacy
 - **Local-enterprise storyteller** — translating businesses like Ontoko Foods into credible, distinctly Namibian digital experiences
 - **Public-interest experience builder** — separating E.M.A. Namibia’s nonprofit emergency-care mission from OSH-Med International’s professional academy while giving each a complete, credible identity
 
@@ -85,9 +85,9 @@ The 8.0 Android candidate and matching Runnerz live/field-test receivers compile
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <img src="assets/magic-boys-fc-showcase.png" alt="Magic Boys FC crest with the words Magic Boys FC, established 2018, and Play. Learn. Rise." width="100%">
-      <h3>Magic Boys FC</h3>
-      <p>A joyful, mobile-first identity and public home for a Namibian community football team founded to keep young people active, disciplined and connected to something positive.</p>
+      <img src="assets/magic-boys-fc-showcase.png" alt="Magic Boys FA crest with the words Magic Boys FA, established 2018, and Play. Learn. Rise." width="100%">
+      <h3>Magic Boys Football Academy</h3>
+      <p>A joyful, mobile-first identity and public home for a Namibian community football academy founded to keep young people active, disciplined and connected to something positive.</p>
       <p><b>Role:</b> discovery, brand direction, identity design, UX/UI, frontend engineering, accessibility, safeguarding boundary and Cloudflare launch.</p>
       <p><a href="https://magicboys.pages.dev/"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/magic-boys-fc-case-study">Public case study ↗</a></p>
     </td>
