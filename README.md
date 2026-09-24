@@ -27,6 +27,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 - **Football archive builder** — creating KICKOFF NAM, a source-linked Namibian football intelligence archive spanning 103 player profiles, 28 club-directory entries and all 14 regional associations
 - **Community digital steward** — helping grassroots initiatives like Magic Boys FC earn visibility without trading away young people’s privacy
 - **Local-enterprise storyteller** — translating businesses like Ontoko Foods into credible, distinctly Namibian digital experiences
+- **Public-interest experience builder** — separating E.M.A. Namibia’s nonprofit emergency-care mission from OSH-Med International’s professional academy while giving each a complete, credible identity
 
 ## Start here
 
@@ -57,11 +58,20 @@ The 8.0 Android candidate and matching Runnerz live/field-test receivers compile
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <img src="assets/oshmed-ema-namibia.png" alt="OSH-Med and E.M.A. Namibia unified emergency and safety experience" width="100%">
-      <h3>OSH-Med + E.M.A. Namibia — Safety to Rescue</h3>
-      <p>A unified, emergency-first platform connecting OSH-Med International’s professional training, occupational safety and medical services with E.M.A.’s independent nonprofit community-response mission. It combines one-tap 9112 access, private GPS sharing, traffic-warning reporting, constrained smart guidance, live Kosmos 94.1 radio, COPPS and 9-1-1-2 video, sponsor pathways and offline-capable PWA access.</p>
-      <p><b>Role:</b> research, positioning, information architecture, UX strategy, art direction, interaction design, frontend engineering, emergency-safety design, PWA implementation, Cloudflare deployment and launch.</p>
-      <p><a href="https://oshmed-ema-namibia.pages.dev/"><b>Live experience ↗</b></a> · <a href="https://github.com/freeman-ipumbu/oshmed-ema-namibia-case-study">Public case study ↗</a></p>
+      <img src="assets/ema-namibia.png" alt="E.M.A. Namibia emergency-first nonprofit digital experience" width="100%">
+      <h3>E.M.A. Namibia — Care Before Circumstance</h3>
+      <p>An emergency-first digital command surface for an independent Namibian nonprofit: persistent 9112 access, guided response tools, privacy-conscious location and report flows, Kosmos 94.1 radio, resilient video pathways, supporter action and a new community-beacon identity.</p>
+      <p><b>Role:</b> organisation research, product separation, identity redesign, emergency UX strategy, information architecture, interaction design, frontend engineering, mobile hardening, accessibility and Cloudflare launch.</p>
+      <p><a href="https://ema-namibia.pages.dev/"><b>Live experience ↗</b></a> · <a href="https://github.com/freeman-ipumbu/ema-namibia-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/osh-med-international.png" alt="OSH-Med International Academy digital experience" width="100%">
+      <h3>OSH-Med International — Competence as a Reflex</h3>
+      <p>A distinct professional academy for accredited emergency-care, first-aid, occupational-safety and high-risk-work learning, with an interactive pathway finder, accreditation context, national training footprint and a new reflex-system identity.</p>
+      <p><b>Role:</b> organisation research, service architecture, identity redesign, learning-path UX, art direction, interaction design, frontend engineering, mobile hardening, accessibility and Cloudflare launch.</p>
+      <p><a href="https://osh-med-international.pages.dev/"><b>Live academy ↗</b></a> · <a href="https://github.com/freeman-ipumbu/osh-med-international-case-study">Public case study ↗</a></p>
     </td>
   </tr>
   <tr>
