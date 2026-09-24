@@ -41,17 +41,21 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 
 ## Current flagship — one Runnerz ecosystem
 
-<p align="center">
-  <img src="assets/unified-runnerz-player.svg" width="100%" alt="UNIFIED × Runnerz — the official Runnerz music player">
-</p>
+<table>
+  <tr>
+    <td width="34%"><img src="assets/unified-9-home.jpg" alt="UNIFIED 9.0 Night Signal Home with 3,795 secured tracks" width="100%"></td>
+    <td width="33%"><img src="assets/unified-9-runnerz-showtime.jpg" alt="UNIFIED 9.0 Runnerz Mode and ShowTime Radio" width="100%"></td>
+    <td width="33%"><img src="assets/unified-9-now-playing.jpg" alt="UNIFIED 9.0 Now Playing" width="100%"></td>
+  </tr>
+</table>
 
-<p align="center"><sub>Original ecosystem artwork for the 8.0 candidate—not a handset capture.</sub></p>
+<p align="center"><sub>UNIFIED 9.0 Night Signal · real physical-device captures · HONOR Android 15 · 3,795-track local library</sub></p>
 
-**UNIFIED × Runnerz** is the official music layer for Runnerz: a local-first Kotlin Multiplatform player with duration-aware 30, 45, 60 and 90-minute run mixes, five private Session Studio modes, Track Radio, a persistent Listening Universe with nine badges and five archetypes, and a checksummed two-generation Library Vault. Starting a run begins playback in UNIFIED and sends only the session title, target duration and track count to Runnerz—never track identities or the listener’s full history.
+**UNIFIED × Runnerz** is the official music layer for Runnerz: a local-first Kotlin Multiplatform player with duration-aware 30, 45, 60 and 90-minute run mixes, five private Session Studio modes, Track Radio, a persistent Listening Universe with ten badges and five archetypes, and a checksummed two-generation Library Vault. Starting a run begins playback in UNIFIED and sends only the session title, target duration and track count to Runnerz—never track identities or the listener’s full history.
 
-The 8.0 Android candidate and matching Runnerz live/field-test receivers compile successfully. The cross-app contract still has a clearly stated physical-device validation gate, Apple Music and Spotify production adapters still require registered provider infrastructure, and the ShowTime ambassador channel discovers metadata-matched local tracks without treating a match as rights approval; it does not bundle or claim rights to artist media.
+The 9.0 Android build is installed and verified in place on the release handset with all 3,795 tracks preserved. Night Signal adds the Signal Loop identity, animated topographic atmosphere, dimensional living surfaces and a rebuilt mini-player. ShowTime Radio finds eleven real local tracks through complete-credit matching, leads with those tracks and uses the supplied Runnerz ambassador portrait without bundling artist audio. The cross-app return loop remains a separate physical-device gate, and Apple Music plus Spotify production adapters still require registered provider infrastructure.
 
-**[Inspect the public engineering case study ↗](https://github.com/freeman-ipumbu/unified-music-case-study)** · **[Open Runnerz Namibia ↗](https://runnerznamibia.com)**
+**[Inspect the public engineering case study ↗](https://github.com/freeman-ipumbu/unified-music-case-study)** · **[See it inside Runnerz ↗](https://runnerznamibia.com/#official-music-player)**
 
 ## Selected proof of work
 
@@ -89,7 +93,7 @@ The 8.0 Android candidate and matching Runnerz live/field-test receivers compile
       <h3>Magic Boys Football Academy</h3>
       <p>A joyful, mobile-first identity and public home for a Namibian community football academy founded to keep young people active, disciplined and connected to something positive.</p>
       <p><b>Role:</b> discovery, brand direction, identity design, UX/UI, frontend engineering, accessibility, safeguarding boundary and Cloudflare launch.</p>
-      <p><a href="https://magicboys.pages.dev/"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/magic-boys-fc-case-study">Public case study ↗</a></p>
+      <p><a href="https://magicboys.pages.dev/"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/magic-boys-fc">Website repository ↗</a> · <a href="https://github.com/freeman-ipumbu/magic-boys-fc-case-study">Public case study ↗</a></p>
     </td>
   </tr>
   <tr>
@@ -202,11 +206,11 @@ The 8.0 Android candidate and matching Runnerz live/field-test receivers compile
       <p><a href="https://freeman-ipumbu.pages.dev/"><b>Explore portfolio ↗</b></a> · <a href="https://github.com/freeman-ipumbu/freeman-ipumbu-portfolio">Repository ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/unified-runnerz-player.svg" alt="UNIFIED × Runnerz official music player" width="100%">
-      <h3>UNIFIED × Runnerz — Official Music Player</h3>
-      <p>A local-first Kotlin Multiplatform music system that unifies a durable Library Vault, native playback, private listening intelligence, unlockable badges, Session Studio, Track Radio and duration-aware Runnerz mixes inside one coherent Namibian product identity.</p>
+      <img src="assets/unified-9-home.jpg" alt="UNIFIED 9.0 Night Signal official Runnerz music player" width="100%">
+      <h3>UNIFIED 9.0 × Runnerz — Night Signal</h3>
+      <p>An installed local-first Kotlin Multiplatform music system unifying a durable 3,795-track Library Vault, native playback, private listening intelligence, ten unlockable badges, Session Studio, Track Radio, ShowTime Radio and duration-aware Runnerz mixes inside one coherent Namibian product identity.</p>
       <p><b>Role:</b> product design, interaction system, Kotlin Multiplatform architecture, Android audio engineering and visual design.</p>
-      <p><a href="https://github.com/freeman-ipumbu/unified-music-case-study"><b>Public case study ↗</b></a></p>
+      <p><a href="https://github.com/freeman-ipumbu/unified-music-case-study"><b>Public case study ↗</b></a> · <a href="https://runnerznamibia.com/#official-music-player">Runnerz feature ↗</a></p>
     </td>
   </tr>
 </table>
