@@ -93,7 +93,7 @@ The 9.0 Android build is installed and verified in place on the release handset 
       <h3>Magic Boys Football Academy</h3>
       <p>A joyful, mobile-first identity and public home for a Namibian community football academy founded to keep young people active, disciplined and connected to something positive.</p>
       <p><b>Role:</b> discovery, brand direction, identity design, UX/UI, frontend engineering, accessibility, safeguarding boundary and Cloudflare launch.</p>
-      <p><a href="https://magicboys.pages.dev/"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/magic-boys-fc">Website repository ↗</a> · <a href="https://github.com/freeman-ipumbu/magic-boys-fc-case-study">Public case study ↗</a></p>
+      <p><a href="https://magicboys.pages.dev/"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/magic-boys-fc-case-study">Public case study ↗</a></p>
     </td>
   </tr>
   <tr>
