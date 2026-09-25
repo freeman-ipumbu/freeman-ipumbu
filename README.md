@@ -27,7 +27,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 - **Football archive builder** — creating KICKOFF NAM, a source-linked Namibian football intelligence archive spanning 103 player profiles, 28 club-directory entries and all 14 regional associations
 - **Community digital steward** — helping grassroots initiatives like Magic Boys Football Academy earn visibility without trading away young people’s privacy
 - **Local-enterprise storyteller** — translating businesses like Ontoko Foods into credible, distinctly Namibian digital experiences
-- **Public-interest systems builder** — separating E.M.A. Namibia’s nonprofit mission from OSH-Med International’s academy, then taking E.M.A. into an authenticated emergency-control and responder pilot with its own nonprofit-owned alarm engine
+- **Public-interest systems builder** — separating E.M.A. Namibia’s nonprofit mission from OSH-Med International’s academy, then taking E.M.A. into an authenticated emergency-control and responder pilot with its own nonprofit-owned alarm engine and open operational map
 
 ## Start here
 
@@ -64,7 +64,7 @@ The 11.0 Android build is installed and verified in place on the release handset
     <td colspan="2" valign="top">
       <img src="assets/ecc-command.svg" alt="ECC Command emergency coordination pilot for E.M.A. Namibia" width="100%">
       <h3>ECC Command · E.M.A. Namibia</h3>
-      <p>An authenticated emergency-control and responder PWA joining workbook-aligned intake, human-confirmed priority and location, unit statuses 0–9, destination truth and attributable handover with ECC Signal—an E.M.A.-owned alarm engine carrying all 139 inherited quick-action references without putting a paid provider on the critical path.</p>
+      <p>An authenticated emergency-control and responder PWA joining workbook-aligned intake, human-confirmed priority and location, unit statuses 0–9, a source-labelled open operational map, guided operator onboarding and attributable handover with ECC Signal—an E.M.A.-owned alarm engine carrying all 139 inherited quick-action references without putting a paid provider on the critical path.</p>
       <p><b>Role:</b> field discovery, legacy workflow archaeology, emergency workflow modelling, product strategy, safety boundary, identity and interaction design, full-stack engineering, access control, Cloudflare Pages Functions and D1, mobile hardening and deployment.</p>
       <p><a href="https://ecc-command.pages.dev/"><b>Protected pilot ↗</b></a> · <a href="https://github.com/freeman-ipumbu/ecc-command-case-study">Public case study ↗</a></p>
     </td>
