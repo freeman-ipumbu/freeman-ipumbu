@@ -43,17 +43,17 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 
 <table>
   <tr>
-    <td width="34%"><img src="assets/unified-13-home.png" alt="UNIFIED 13.0 Home with 3,795 tracks secured in Library Vault" width="100%"></td>
-    <td width="33%"><img src="assets/unified-13-flow.png" alt="UNIFIED 13.0 Flow State queue forge" width="100%"></td>
+    <td width="34%"><img src="assets/unified-14-signal-journal.png" alt="UNIFIED 14.0 Signal Journal on the Android 15 release handset" width="100%"></td>
+    <td width="33%"><img src="assets/unified-14-missions.png" alt="UNIFIED 14.0 private daily missions and Share Pulse action" width="100%"></td>
     <td width="33%"><img src="assets/unified-13-now-playing.png" alt="UNIFIED 13.0 Now Playing experience" width="100%"></td>
   </tr>
 </table>
 
-<p align="center"><sub>UNIFIED 13.0 Flow State · unedited physical-device captures · Android 15 · 3,795-track local library</sub></p>
+<p align="center"><sub>UNIFIED 14.0 Signal Journal + 13.0 playback · unedited physical-device captures · Android 15 · 3,795-track local library</sub></p>
 
 **UNIFIED × Runnerz** is the official music layer for Runnerz: a local-first Kotlin Multiplatform player with a protected Library Vault, five Flow State intents, Sonic Atlas, measured local Soundprints, seven movement intents, Pace Map, private Pace Brain guidance, Afterglow, Session Studio, Track Radio and thirty persistent badges. Starting a session begins playback in UNIFIED and sends only bounded session context to Runnerz—never track identities or the listener’s full history.
 
-UNIFIED 14.0 adds **Signal Journal**: a bounded on-device daily ledger, four evidence-based missions, a seven-day pulse, continuity streaks, five new unlockables and an aggregate-only 1080 × 1350 Signal Receipt. The 14.0 software release gate is green across 60 shared tests, Android lint, debug/release assembly and shared iOS compilation; physical 14.0 installation and imagery are not claimed until the handset is directly verified. The installed 13.0 build retained all 3,795 tracks. Apple Music and Spotify production adapters remain explicit credentialled integration gates.
+UNIFIED 14.0 adds **Signal Journal**: a bounded on-device daily ledger, four evidence-based missions, a seven-day pulse, continuity streaks, five new unlockables and an aggregate-only 1080 × 1350 Signal Receipt. The release is verified across 60 shared tests, Android lint, debug/release assembly, shared iOS compilation and an in-place Android 15 installation. Both Vault generations retained all 3,795 tracks; playback-driven progress survived a forced process restart and the real external share sheet rendered the Signal Receipt. Apple Music and Spotify production adapters remain explicit credentialled integration gates.
 
 **[Inspect the public engineering case study ↗](https://github.com/freeman-ipumbu/unified-music-case-study)** · **[See it inside Runnerz ↗](https://runnerznamibia.com/#official-music-player)**
 
@@ -215,7 +215,7 @@ UNIFIED 14.0 adds **Signal Journal**: a bounded on-device daily ledger, four evi
       <p><a href="https://freeman-ipumbu.pages.dev/"><b>Explore portfolio ↗</b></a> · <a href="https://github.com/freeman-ipumbu/freeman-ipumbu-portfolio">Repository ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/unified-13-home.png" alt="UNIFIED official Runnerz music player with a protected 3,795-track Library Vault" width="100%">
+      <img src="assets/unified-14-signal-journal.png" alt="UNIFIED 14.0 Signal Journal official Runnerz music player" width="100%">
       <h3>UNIFIED 14.0 — Signal Journal</h3>
       <p>The official Runnerz music player: a local-first Kotlin Multiplatform system with a protected 3,795-track Library Vault, native playback, Flow State, Sonic Atlas, Pace Map, Pace Brain, Afterglow, four private daily missions, a seven-day listening pulse, thirty persistent badges and ShowTime Radio.</p>
       <p><b>Role:</b> product design, interaction system, Kotlin Multiplatform architecture, Android audio engineering and visual design.</p>
