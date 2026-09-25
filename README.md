@@ -28,6 +28,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 - **Community digital steward** — helping grassroots initiatives like Magic Boys Football Academy earn visibility without trading away young people’s privacy
 - **Local-enterprise storyteller** — translating businesses like Ontoko Foods into credible, distinctly Namibian digital experiences
 - **Public-interest systems builder** — separating E.M.A. Namibia’s nonprofit mission from OSH-Med International’s academy, then taking E.M.A. into an authenticated emergency-control and responder pilot with its own nonprofit-owned alarm engine and open operational map
+- **Namibia-first farm systems builder** — shipping Omutambo as an invitation-only, multi-species livestock and poultry operations workspace with evidence-led measures, private workspaces and a 100-check release gate
 
 ## Start here
 
@@ -178,8 +179,8 @@ UNIFIED 14.0 adds **Signal Journal**: a bounded on-device daily ledger, four evi
     <td width="50%" valign="top">
       <img src="assets/omutambo-mark.svg" alt="Omutambo Herd Operations" width="100%">
       <h3>Omutambo Herd Operations</h3>
-      <p>A Namibia-first livestock operations workspace that brings cattle identity, health, breeding, camps, water points, movements, tasks, costs and field evidence into one reviewable operating picture.</p>
-      <p><b>Role:</b> product strategy, design science, information architecture, full-stack engineering, offline-first UX, access controls and Cloudflare deployment.</p>
+      <p>A live, invitation-only farm-operations workspace joining cattle, goats, sheep, freely named livestock and flock-level poultry command with identity, housing, production, feed, mortality, health, camps, movements, tasks, NAD costs and field evidence. Its current release passes 100 automated checks and leaves the owner-authenticated production smoke check visibly open.</p>
+      <p><b>Role:</b> product strategy, design science, brand system, information architecture, multi-species data modelling, poultry operations, full-stack engineering, offline-first UX, access controls, release verification and Cloudflare deployment.</p>
       <p><a href="https://omutambo.pages.dev"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/omutambo-herd-case-study">Public case study ↗</a></p>
     </td>
     <td width="50%" valign="top">
