@@ -43,17 +43,17 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 
 <table>
   <tr>
-    <td width="34%"><img src="assets/unified-11-home.jpg" alt="UNIFIED 11.0 Velocity Engine Home with 3,795 secured tracks" width="100%"></td>
-    <td width="33%"><img src="assets/unified-11-pace-map.jpg" alt="UNIFIED 11.0 Pace Map with Run Readiness" width="100%"></td>
-    <td width="33%"><img src="assets/unified-11-afterglow.jpg" alt="UNIFIED 11.0 private Afterglow intelligence" width="100%"></td>
+    <td width="34%"><img src="assets/unified-13-home.png" alt="UNIFIED 13.0 Home with 3,795 tracks secured in Library Vault" width="100%"></td>
+    <td width="33%"><img src="assets/unified-13-flow.png" alt="UNIFIED 13.0 Flow State queue forge" width="100%"></td>
+    <td width="33%"><img src="assets/unified-13-now-playing.png" alt="UNIFIED 13.0 Now Playing experience" width="100%"></td>
   </tr>
 </table>
 
-<p align="center"><sub>UNIFIED 11.0 Velocity Engine · real physical-device captures · HONOR Android 15 · 3,795-track local library</sub></p>
+<p align="center"><sub>UNIFIED 13.0 Flow State · unedited physical-device captures · Android 15 · 3,795-track local library</sub></p>
 
-**UNIFIED × Runnerz** is the official music layer for Runnerz: a local-first Kotlin Multiplatform player with seven movement intents, a four-phase Pace Map, Run Readiness, private Pace Brain guidance, Afterglow intelligence, five Session Studio modes, Track Radio, fifteen persistent badges and a checksummed two-generation Library Vault. Starting a session begins playback in UNIFIED and sends only bounded session context to Runnerz—never track identities or the listener’s full history.
+**UNIFIED × Runnerz** is the official music layer for Runnerz: a local-first Kotlin Multiplatform player with a protected Library Vault, five Flow State intents, Sonic Atlas, measured local Soundprints, seven movement intents, Pace Map, private Pace Brain guidance, Afterglow, Session Studio, Track Radio and thirty persistent badges. Starting a session begins playback in UNIFIED and sends only bounded session context to Runnerz—never track identities or the listener’s full history.
 
-The 11.0 Android build is installed and verified in place on the release handset with all 3,795 tracks preserved. Velocity Engine adds live phase continuity, movement-aware recommendations and an optimized large-library path while keeping Night Signal's animated topographic identity and dimensional living surfaces. ShowTime Radio finds eleven real local tracks through complete-credit matching without bundling artist audio. The exact browser-fallback return is physically verified; the final signed Runnerz-app loop and Apple Music or Spotify production adapters remain explicit integration gates.
+UNIFIED 14.0 adds **Signal Journal**: a bounded on-device daily ledger, four evidence-based missions, a seven-day pulse, continuity streaks, five new unlockables and an aggregate-only 1080 × 1350 Signal Receipt. The 14.0 software release gate is green across 60 shared tests, Android lint, debug/release assembly and shared iOS compilation; physical 14.0 installation and imagery are not claimed until the handset is directly verified. The installed 13.0 build retained all 3,795 tracks. Apple Music and Spotify production adapters remain explicit credentialled integration gates.
 
 **[Inspect the public engineering case study ↗](https://github.com/freeman-ipumbu/unified-music-case-study)** · **[See it inside Runnerz ↗](https://runnerznamibia.com/#official-music-player)**
 
@@ -215,9 +215,9 @@ The 11.0 Android build is installed and verified in place on the release handset
       <p><a href="https://freeman-ipumbu.pages.dev/"><b>Explore portfolio ↗</b></a> · <a href="https://github.com/freeman-ipumbu/freeman-ipumbu-portfolio">Repository ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/unified-11-home.jpg" alt="UNIFIED 11.0 Velocity Engine official Runnerz music player" width="100%">
-      <h3>UNIFIED 11.0 — Velocity Engine</h3>
-      <p>The installed official Runnerz music player: a local-first Kotlin Multiplatform system with a protected 3,795-track Library Vault, native playback, Pace Map, Pace Brain, Afterglow intelligence, fifteen persistent badges, ShowTime Radio and private activity-aware soundtracks.</p>
+      <img src="assets/unified-13-home.png" alt="UNIFIED official Runnerz music player with a protected 3,795-track Library Vault" width="100%">
+      <h3>UNIFIED 14.0 — Signal Journal</h3>
+      <p>The official Runnerz music player: a local-first Kotlin Multiplatform system with a protected 3,795-track Library Vault, native playback, Flow State, Sonic Atlas, Pace Map, Pace Brain, Afterglow, four private daily missions, a seven-day listening pulse, thirty persistent badges and ShowTime Radio.</p>
       <p><b>Role:</b> product design, interaction system, Kotlin Multiplatform architecture, Android audio engineering and visual design.</p>
       <p><a href="https://github.com/freeman-ipumbu/unified-music-case-study"><b>Public case study ↗</b></a> · <a href="https://runnerznamibia.com/#official-music-player">Runnerz feature ↗</a></p>
     </td>
