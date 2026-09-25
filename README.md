@@ -44,17 +44,17 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 
 <table>
   <tr>
-    <td width="34%"><img src="assets/unified-15-momentum-season.png" alt="UNIFIED 15.0 Momentum Engine after a forced process restart on Android 15" width="100%"></td>
-    <td width="33%"><img src="assets/unified-15-next-move.png" alt="UNIFIED 15.0 playable thirty-track Next Move" width="100%"></td>
-    <td width="33%"><img src="assets/unified-15-season-card.png" alt="UNIFIED 15.0 aggregate-only Listening Season card" width="100%"></td>
+    <td width="34%"><img src="assets/unified-16-sonic-forge-source.png" alt="UNIFIED 16.0 Sonic Forge and Source Truth on Android 15" width="100%"></td>
+    <td width="33%"><img src="assets/unified-16-sonic-forge-curve.png" alt="UNIFIED 16.0 ten-band curve and Headroom Guardian" width="100%"></td>
+    <td width="33%"><img src="assets/unified-16-output-engine.png" alt="UNIFIED 16.0 Output Engine and Living Playback controls" width="100%"></td>
   </tr>
 </table>
 
-<p align="center"><sub>UNIFIED 15.0 Momentum Engine · real device UI + generated Season card · Android 15 · 3,795-track local library</sub></p>
+<p align="center"><sub>UNIFIED 16.0 Sonic Forge · real device UI · Android 15 · 3,795-track local library</sub></p>
 
-**UNIFIED × Runnerz** is the official music layer for Runnerz: a local-first Kotlin Multiplatform player with a protected Library Vault, five Flow State intents, Sonic Atlas, measured local Soundprints, seven movement intents, Pace Map, private Pace Brain guidance, Afterglow, Session Studio, Track Radio and thirty-five persistent badges. Starting a session begins playback in UNIFIED and sends only bounded session context to Runnerz—never track identities or the listener’s full history.
+**UNIFIED × Runnerz** is the official music layer for Runnerz: a local-first Kotlin Multiplatform player with a protected Library Vault, Flow State, Sonic Atlas, measured local Soundprints, seven movement intents, Pace Map, private Pace Brain guidance, Afterglow, Signal Journal, Momentum Engine, Session Studio, Track Radio and thirty-five persistent badges. Starting a session begins playback in UNIFIED and sends only bounded session context to Runnerz—never track identities or the listener’s full history.
 
-UNIFIED 15.0 adds **Momentum Engine**: a private 28-day Listening Season, bounded adaptive missions, honest previous-window comparison, a playable artist-diversified Next Move and five new earned badges. The release is verified across 63 shared tests, Android lint, debug/release assembly, shared iOS compilation and an in-place Android 15 installation. Both Vault generations retained all 3,795 tracks; Next Move launched a real thirty-track Media3 queue, Season evidence survived a forced process restart and the external share sheet rendered the shown 1080 × 1350 aggregate-only card. Apple Music and Spotify production adapters remain explicit credentialled integration gates.
+UNIFIED 16.0 adds **Sonic Forge**: a responsive graph-led ten-band workspace, semantic frequency zones, half-decibel focus controls, three durable Signature profiles, temporary A/B auditioning, current-track Source Truth and honest EQ-only Headroom Guardian. The release is verified across 68 shared tests, Android lint with zero errors, debug/release assembly, shared iOS compilation and an in-place Android 15 installation. The original install identity and all 3,795 Vault tracks were retained, and physical QA proved that an ordinary swipe starting inside the graph cannot mutate the curve. Apple Music and Spotify production adapters remain explicit credentialled integration gates.
 
 **[Inspect the public engineering case study ↗](https://github.com/freeman-ipumbu/unified-music-case-study)** · **[See it inside Runnerz ↗](https://runnerznamibia.com/#official-music-player)**
 
@@ -216,9 +216,9 @@ UNIFIED 15.0 adds **Momentum Engine**: a private 28-day Listening Season, bounde
       <p><a href="https://freeman-ipumbu.pages.dev/"><b>Explore portfolio ↗</b></a> · <a href="https://github.com/freeman-ipumbu/freeman-ipumbu-portfolio">Repository ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/unified-15-momentum-season.png" alt="UNIFIED 15.0 Momentum Engine official Runnerz music player" width="100%">
-      <h3>UNIFIED 15.0 — Momentum Engine</h3>
-      <p>The official Runnerz music player: a local-first Kotlin Multiplatform system with a protected 3,795-track Library Vault, native playback, Flow State, Sonic Atlas, Pace Map, Pace Brain, Afterglow, adaptive daily missions, a 28-day Listening Season, playable Next Move, thirty-five persistent badges and ShowTime Radio.</p>
+      <img src="assets/unified-16-sonic-forge-source.png" alt="UNIFIED 16.0 Sonic Forge official Runnerz music player" width="100%">
+      <h3>UNIFIED 16.0 — Sonic Forge</h3>
+      <p>The official Runnerz music player: a local-first Kotlin Multiplatform system with a protected 3,795-track Library Vault, native playback, Flow State, Sonic Atlas, Pace Map, Pace Brain, Afterglow, adaptive daily missions, a 28-day Listening Season, playable Next Move, thirty-five persistent badges, ShowTime Radio and a graph-led professional sound workspace.</p>
       <p><b>Role:</b> product design, interaction system, Kotlin Multiplatform architecture, Android audio engineering and visual design.</p>
       <p><a href="https://github.com/freeman-ipumbu/unified-music-case-study"><b>Public case study ↗</b></a> · <a href="https://runnerznamibia.com/#official-music-player">Runnerz feature ↗</a></p>
     </td>
