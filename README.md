@@ -43,21 +43,21 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 ## Current flagship — one Runnerz ecosystem
 
 <p align="center">
-  <img src="assets/unified-17-repository-cover.png" alt="UNIFIED 17.0 Sonic Recall — the official Runnerz music player" width="100%">
+  <img src="assets/unified-19-repository-cover.png" alt="UNIFIED 19.0 Continuum Relay — the official Runnerz music player" width="100%">
 </p>
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/unified-17-sonic-recall.png" alt="UNIFIED 17.0 track-scoped Sonic Recall memory active on Android 15" width="100%"></td>
-    <td width="50%"><img src="assets/unified-17-level-compass.png" alt="UNIFIED 17.0 Sonic Recall and personal-library Level Compass" width="100%"></td>
+    <td width="50%"><img src="assets/unified-19-continuum.png" alt="UNIFIED 19.0 Continuum Smart Spaces and protected Capsule on Android 15" width="100%"></td>
+    <td width="50%"><img src="assets/unified-19-queue-director.png" alt="UNIFIED 19.0 Queue Director controlling the live local queue" width="100%"></td>
   </tr>
 </table>
 
-<p align="center"><sub>UNIFIED 17.0 Sonic Recall · real device UI · Android 15 · 3,795-track local library</sub></p>
+<p align="center"><sub>UNIFIED 19.0 Continuum Relay · real device UI · Android 15 · 3,795-track local library</sub></p>
 
-**UNIFIED × Runnerz** is the official music layer for Runnerz: a local-first Kotlin Multiplatform player with a protected Library Vault, Flow State, Sonic Atlas, measured local Soundprints, seven movement intents, Pace Map, private Pace Brain guidance, Afterglow, Signal Journal, Momentum Engine, Session Studio, Track Radio and thirty-five persistent badges. Starting a session begins playback in UNIFIED and sends only bounded session context to Runnerz—never track identities or the listener’s full history.
+**UNIFIED × Runnerz** is the official music layer for Runnerz: a local-first Kotlin Multiplatform player with a protected Library Vault, Flow State, Sonic Atlas, measured local Soundprints, seven movement intents, Pace Map, private Pace Brain guidance, Afterglow, Signal Journal, Momentum Engine, Session Studio, Track Radio and thirty-five persistent badges.
 
-UNIFIED 17.0 adds **Sonic Recall**: opt-in complete sound memories scoped to a track, album or artist, deterministic specificity, a visible active layer, instant manual takeover and a personal-library **Level Compass** built from real cached sample-RMS Soundprints. It deliberately withholds unsupported positive gain and never labels RMS as LUFS. The release is verified across 71 shared tests, Android lint with zero errors, debug/release assembly, shared iOS compilation and an in-place Android 15 installation. The original install identity, exact Vault checksum and all 3,795 tracks were retained; a track rule survived a cold restart before being cleanly removed. Apple Music and Spotify production adapters remain explicit credentialled integration gates.
+UNIFIED 19.0 combines **Continuum** and **Runnerz Relay**: five playable Smart Spaces built from real local evidence, a checksum-protected Capsule for taste and settings without media or credentials, and a reversible Queue Director. The matching-signature native Runnerz handoff now has explicit consent, durable state, duplicate protection and an aggregate-only completion contract—session ID, elapsed seconds and distance, never track identities or route points. Android test, lint and build gates pass for both apps; Capsule export/restore is physically verified, and the in-place upgrade retained the exact Vault checksum and all 3,795 tracks. A genuine GPS run remains the honest final callback acceptance step. Apple Music and Spotify production adapters remain explicit credentialled integration gates.
 
 **[Inspect the public engineering case study ↗](https://github.com/freeman-ipumbu/unified-music-case-study)** · **[See it inside Runnerz ↗](https://runnerznamibia.com/#official-music-player)**
 
@@ -219,9 +219,9 @@ UNIFIED 17.0 adds **Sonic Recall**: opt-in complete sound memories scoped to a t
       <p><a href="https://freeman-ipumbu.pages.dev/"><b>Explore portfolio ↗</b></a> · <a href="https://github.com/freeman-ipumbu/freeman-ipumbu-portfolio">Repository ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/unified-17-repository-cover.png" alt="UNIFIED 17.0 Sonic Recall official Runnerz music player" width="100%">
-      <h3>UNIFIED 17.0 — Sonic Recall</h3>
-      <p>The official Runnerz music player: a local-first Kotlin Multiplatform system with a protected 3,795-track Library Vault, native playback, Flow State, Sonic Atlas, Pace Map, Pace Brain, Afterglow, adaptive daily missions, a 28-day Listening Season, playable Next Move, thirty-five persistent badges, ShowTime Radio, Sonic Forge and track/album/artist sound memory.</p>
+      <img src="assets/unified-19-repository-cover.png" alt="UNIFIED 19.0 Continuum Relay official Runnerz music player" width="100%">
+      <h3>UNIFIED 19.0 — Continuum Relay</h3>
+      <p>The official Runnerz music player: a local-first Kotlin Multiplatform system with a protected 3,795-track Library Vault, five evidence-led Smart Spaces, a portable checksum-protected Capsule, Queue Director, Sonic Forge, Sonic Recall, thirty-five persistent badges and a signed native Runnerz relay that shares aggregate run completion—not tracks or routes.</p>
       <p><b>Role:</b> product design, interaction system, Kotlin Multiplatform architecture, Android audio engineering and visual design.</p>
       <p><a href="https://github.com/freeman-ipumbu/unified-music-case-study"><b>Public case study ↗</b></a> · <a href="https://runnerznamibia.com/#official-music-player">Runnerz feature ↗</a></p>
     </td>
