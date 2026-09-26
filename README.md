@@ -25,10 +25,10 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 - **Published design science researcher** — IT handover continuity, with an open DOI-backed research record
 - **Builder within SolarSpin Technologies** — creating practical Namibian digital products with operational depth
 - **Football archive builder** — creating KICKOFF NAM, a source-linked Namibian football intelligence archive spanning 103 player profiles, 28 club-directory entries and all 14 regional associations
-- **Community digital steward** — helping grassroots initiatives like Magic Boys Football Academy earn visibility without trading away young people’s privacy
+- **Community digital steward** — helping grassroots initiatives like Magic Boys Football Academy earn visibility through an approved identity without trading away young people’s privacy
 - **Local-enterprise storyteller** — translating businesses like Ontoko Foods into credible, distinctly Namibian digital experiences
 - **Public-interest systems builder** — separating E.M.A. Namibia’s nonprofit mission from OSH-Med International’s academy, then taking E.M.A. into an authenticated emergency-control and responder pilot with its own nonprofit-owned alarm engine and open operational map
-- **Namibia-first farm systems builder** — shipping Omutambo as an invitation-only, multi-species livestock and poultry operations workspace with evidence-led measures, private workspaces and a 100-check release gate
+- **Namibia-first farm systems builder** — shipping Omutambo’s Field Command experience as an invitation-only, multi-species livestock and poultry workspace with evidence-coverage cues, private workspaces and a 100-check release gate
 
 ## Start here
 
@@ -102,9 +102,9 @@ UNIFIED 19.0 combines **Continuum** and **Runnerz Relay**: five playable Smart S
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <img src="assets/magic-boys-fc-showcase.png" alt="Magic Boys FA crest with the words Magic Boys FA, established 2018, and Play. Learn. Rise." width="100%">
+      <img src="assets/magic-boys-fa-logo.png" alt="Official Magic Boys Football Academy eagle crest in green, black and gold, established 2018" width="100%">
       <h3>Magic Boys Football Academy</h3>
-      <p>A joyful, mobile-first identity and public home for a Namibian community football academy founded to keep young people active, disciplined and connected to something positive.</p>
+      <p>A joyful, mobile-first identity and public home for a Namibian community football academy founded to keep young people active, disciplined and connected to something positive—presented with its approved standalone academy crest.</p>
       <p><b>Role:</b> discovery, brand direction, identity design, UX/UI, frontend engineering, accessibility, safeguarding boundary and Cloudflare launch.</p>
       <p><a href="https://magicboys.pages.dev/"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/magic-boys-fc-case-study">Public case study ↗</a></p>
     </td>
@@ -182,8 +182,8 @@ UNIFIED 19.0 combines **Continuum** and **Runnerz Relay**: five playable Smart S
     <td width="50%" valign="top">
       <img src="assets/omutambo-mark.svg" alt="Omutambo Herd Operations" width="100%">
       <h3>Omutambo Herd Operations</h3>
-      <p>A live, invitation-only farm-operations workspace joining cattle, goats, sheep, freely named livestock and flock-level poultry command with identity, housing, production, feed, mortality, health, camps, movements, tasks, NAD costs and field evidence. Its current release passes 100 automated checks and leaves the owner-authenticated production smoke check visibly open.</p>
-      <p><b>Role:</b> product strategy, design science, brand system, information architecture, multi-species data modelling, poultry operations, full-stack engineering, offline-first UX, access controls, release verification and Cloudflare deployment.</p>
+      <p>A live, invitation-only farm-operations workspace joining cattle, goats, sheep, freely named livestock and flock-level poultry command. Its Field Command refresh unifies the identity, responsive navigation, access screens and evidence coverage behind poultry measures while retaining the 100-check release gate and visibly open owner-authenticated production smoke check.</p>
+      <p><b>Role:</b> product strategy, design science, identity system, UX/UI refresh, information architecture, multi-species data modelling, poultry operations, full-stack engineering, offline-first UX, access controls, release verification and Cloudflare deployment.</p>
       <p><a href="https://omutambo.pages.dev"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/omutambo-herd-case-study">Public case study ↗</a></p>
     </td>
     <td width="50%" valign="top">
