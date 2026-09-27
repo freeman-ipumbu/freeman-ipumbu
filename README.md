@@ -148,7 +148,7 @@ UNIFIED 19.0 combines **Continuum** and **Runnerz Relay**: five playable Smart S
       <h3>NamMar Command</h3>
       <p>A vessel-operations command centre unifying voyages, crew readiness, live coastal conditions, public vessel status and departure assurance.</p>
       <p><b>Role:</b> product strategy, systems design, command UX, React engineering and marine-operational research.</p>
-      <p><a href="https://github.com/freeman-ipumbu/nammar-command-case-study"><b>Public case study ↗</b></a></p>
+      <p><a href="https://nammar.pages.dev/"><b>Controlled demo ↗</b></a> · <a href="https://github.com/freeman-ipumbu/nammar-command-case-study">Public case study ↗</a></p>
     </td>
   </tr>
   <tr>
@@ -208,7 +208,7 @@ UNIFIED 19.0 combines **Continuum** and **Runnerz Relay**: five playable Smart S
       <h3>NamAir Command</h3>
       <p>An aviation command, crew-readiness and rostering prototype that makes duty assumptions, readiness state, mission pressure and audit evidence legible.</p>
       <p><b>Role:</b> product design, systems engineering, interaction design and prototype development.</p>
-      <p><a href="https://github.com/freeman-ipumbu/namair-command-case-study"><b>Public case study ↗</b></a></p>
+      <p><a href="https://namair-command.pages.dev/"><b>Controlled demo ↗</b></a> · <a href="https://github.com/freeman-ipumbu/namair-command-case-study">Public case study ↗</a></p>
     </td>
   </tr>
   <tr>
