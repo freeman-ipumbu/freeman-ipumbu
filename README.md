@@ -162,11 +162,11 @@ UNIFIED 19.0 combines **Continuum** and **Runnerz Relay**: five playable Smart S
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/borizago-2026.png" alt="Borizago — Boriza Shuttle & Tours" width="100%">
+      <img src="assets/borizago-refined-v2.png" alt="Refined BST identity for Borizago — Boriza Shuttle & Tours" width="100%">
       <h3>Borizago — Boriza Shuttle & Tours</h3>
-      <p>An installable transport platform connecting seven Namibian towns through live capacity and server-priced scheduled-shuttle bookings, with guided enquiry paths for tour, airport, private-transfer and parcel services, downloadable travel guides, operations alerts and direct customer confirmations.</p>
-      <p><b>Role:</b> product strategy, UX/UI, full-stack engineering, booking integrity, operations workflow, mobile hardening, Cloudflare deployment and launch.</p>
-      <p><a href="https://borizashuttles.pages.dev/"><b>Live app ↗</b></a> · <a href="https://github.com/freeman-ipumbu/borizago-case-study">Public case study ↗</a></p>
+      <p>An installable transport and operations platform connecting seven Namibian towns through 42 valid directional journeys, live segment capacity and server-priced bookings. Boriza staff can manage trips, directional fares, pickup and drop-off points, manifests, service requests and monthly financial/customer reports, with friendly setup warnings and plain-language help for future staff.</p>
+      <p><b>Role:</b> product strategy, identity refinement, UX/UI, full-stack engineering, booking integrity, operations and reporting workflow, mobile hardening, private GitHub release automation and Cloudflare deployment.</p>
+      <p><a href="https://borizashuttles.pages.dev/"><b>Live app ↗</b></a> · <a href="https://borizashuttles.pages.dev/borizago-staff-guide.pdf">Staff guide ↗</a> · <a href="https://github.com/freeman-ipumbu/borizago-case-study">Public case study ↗</a></p>
     </td>
     <td width="50%" valign="top">
       <img src="assets/kickoff-nam.png" alt="KICKOFF NAM — Namibia Football Archive brand artwork" width="100%">
