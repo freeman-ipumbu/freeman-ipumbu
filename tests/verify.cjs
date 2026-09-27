@@ -16,13 +16,17 @@ function pngSize(relativePath) {
   return [data.readUInt32BE(16), data.readUInt32BE(20)];
 }
 
-assert(readme.includes('## Current build transmission'), 'current transmission section is missing');
-assert(readme.includes('Runnerz 1.1.0 · code 16'), 'Runnerz version signal is missing');
-assert(readme.includes('145 tests per Runnerz variant, 0 failures'), 'test signal is missing');
-assert(readme.includes('public-store release gates remain open'), 'release boundary is missing');
+assert(readme.includes('## Current flagship — one Runnerz ecosystem'), 'current flagship section is missing');
+assert(readme.includes('RUNNERZ 1.1.0 · code 16'), 'Runnerz version signal is missing');
+assert(readme.includes('145 tests per variant, 0 failures'), 'test signal is missing');
+assert(readme.includes('public-store release gates remain tracked work'), 'release boundary is missing');
+assert(readme.includes('Exact trails stay local'), 'trail privacy boundary is missing');
+assert(readme.includes('UNIFIED 20.0'), 'current UNIFIED release is missing');
+assert(readme.includes('version code 21'), 'UNIFIED version-code evidence is missing');
+assert(readme.includes('assets/unified-20-command-deck.png'), 'UNIFIED 20 proof image is missing');
 assert(readme.includes('assets/runnerz-1.1.0.png'), 'Runnerz proof image is missing');
-assert(readme.includes('assets/unified-music.svg'), 'UNIFIED proof image is missing');
 assert(!readme.includes('src="assets/runnerz.png"'), 'legacy Runnerz image is still referenced');
+assert(!readme.includes('<<<<<<<') && !readme.includes('>>>>>>>'), 'merge markers detected');
 
 const localImages = [...readme.matchAll(/(?:src="|!\[[^\]]*\]\()([^"\)]+)(?:"|\))/g)]
   .map((match) => match[1])
@@ -32,5 +36,6 @@ for (const ref of new Set(localImages)) {
 }
 
 assert(pngSize('assets/runnerz-1.1.0.png').join('x') === '1600x900', 'Runnerz proof must be 1600x900');
+assert(pngSize('assets/unified-20-command-deck.png').join('x') === '1200x2664', 'UNIFIED 20 proof must be 1200x2664');
 
 console.log(`Profile verification passed: ${checks} checks`);

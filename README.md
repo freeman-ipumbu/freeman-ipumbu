@@ -44,7 +44,13 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 ## Current flagship — one Runnerz ecosystem
 
 <p align="center">
-  <img src="assets/unified-19-repository-cover.png" alt="UNIFIED 19.0 Continuum Relay — the official Runnerz music player" width="100%">
+  <a href="https://github.com/freeman-ipumbu/runnerz-android-case-study"><img src="assets/runnerz-1.1.0.png" alt="Runnerz 1.1.0 controlled Field Test showing the signature trail, UNIFIED Music relay and persistent banked miles" width="100%"></a>
+</p>
+
+<p align="center"><sub>RUNNERZ 1.1.0 · code 16 · controlled handset evidence · 145 tests per variant, 0 failures</sub></p>
+
+<p align="center">
+  <a href="https://github.com/freeman-ipumbu/unified-music-case-study"><img src="assets/unified-20-command-deck.png" alt="UNIFIED 20.0 Signal Command Deck on the physical Android 15 handset" width="420"></a>
 </p>
 
 <table>
@@ -54,11 +60,18 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
   </tr>
 </table>
 
-<p align="center"><sub>UNIFIED 19.0 Continuum Relay · real device UI · Android 15 · 3,795-track local library</sub></p>
+<p align="center"><sub>UNIFIED 20.0 Signal Command · version code 21 · physical Android 15 evidence · 3,795-track local Vault preserved</sub></p>
+
+**Runnerz 1.1.0** turns the run into a living system: accepted-fix GPS hardening, a segmented Runnerz-green trail, route guidance and switching, live movement metrics, persistent history and banked miles, broad-area-only nearby discovery, women-led run options, a wider rotating History Mode catalogue and a deliberate UNIFIED hand-off. Exact trails stay local; nearby presence never publishes exact coordinates, pace or route points.
 
 **UNIFIED × Runnerz** is the official music layer for Runnerz: a local-first Kotlin Multiplatform player with a protected Library Vault, Flow State, Sonic Atlas, measured local Soundprints, seven movement intents, Pace Map, private Pace Brain guidance, Afterglow, Signal Journal, Momentum Engine, Session Studio, Track Radio and thirty-five persistent badges.
 
-UNIFIED 19.0 combines **Continuum** and **Runnerz Relay**: five playable Smart Spaces built from real local evidence, a checksum-protected Capsule for taste and settings without media or credentials, and a reversible Queue Director. The matching-signature native Runnerz handoff now has explicit consent, durable state, duplicate protection and an aggregate-only completion contract—session ID, elapsed seconds and distance, never track identities or route points. Android test, lint and build gates pass for both apps; Capsule export/restore is physically verified, and the in-place upgrade retained the exact Vault checksum and all 3,795 tracks. A genuine GPS run remains the honest final callback acceptance step. Apple Music and Spotify production adapters remain explicit credentialled integration gates.
+UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Command Deck for live playback, indexed-library and queue truth, direct Audio Lab access, Capsule export/restore, provider readiness and the signed Runnerz relay state. It retains Continuum's five evidence-led Smart Spaces and reversible Queue Director while keeping the matching-signature handoff aggregate-only—session ID, elapsed seconds and distance, never track identities or route points. The in-place Android 15 upgrade preserved the exact Vault checksum and all 3,795 tracks; version 20.0 is installed as version code 21, and the Android test, lint, debug and release gates pass. A genuine GPS run remains the honest final callback acceptance step. Apple Music and Spotify production adapters remain explicit credentialled integration gates.
+
+| Layer | Verified now | Honest next gate |
+|---|---|---|
+| **Runnerz 1.1.0** | Controlled handset trail evidence; Live and Field Test unit suites at **145 tests each, 0 failures** | Outdoor endurance and accuracy, genuine-run banking, paired-watch mirroring, production signing and public-store acceptance |
+| **UNIFIED 20.0** | Installed Android 15 build (code 21), live Command Deck, exact Vault checksum preserved, Capsule export/restore and native relay path verified | Genuine GPS completion callback plus credentialled Apple Music and Spotify adapters |
 
 **[Inspect the public engineering case study ↗](https://github.com/freeman-ipumbu/unified-music-case-study)** · **[See it inside Runnerz ↗](https://runnerznamibia.com/#official-music-player)**
 
@@ -188,9 +201,10 @@ UNIFIED 19.0 combines **Continuum** and **Runnerz Relay**: five playable Smart S
       <p><a href="https://omutambo.pages.dev"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/omutambo-herd-case-study">Public case study ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/runnerz.png" alt="Runnerz Namibia" width="100%">
+      <img src="assets/runnerz-1.1.0.png" alt="Runnerz 1.1.0 controlled Field Test evidence" width="100%">
       <h3>Runnerz Namibia</h3>
-      <p>A route-driven social running network built in Windhoek around compatible pace, intent, place, timing and earned trust—not empty follower counts. Its ecosystem now includes UNIFIED as the official Runnerz music player, with an explicit privacy-light session handoff between playback and route tracking.</p>
+      <p>A route-driven social running network built in Windhoek around compatible pace, intent, place, timing and earned trust—not empty follower counts. Version 1.1.0 hardens live tracking, draws the signature segmented trail, keeps persistent histories and banked miles, adds privacy-preserving nearby discovery and women-led run choices, and connects deliberately to UNIFIED as the official music layer.</p>
+      <p><b>Current boundary:</b> controlled handset evidence is complete; outdoor endurance, genuine-run banking, watch mirroring and public-store release gates remain tracked work.</p>
       <p><b>Role:</b> founder, product strategy, design research, Android and web engineering, mapping, safety architecture, secure operations and infrastructure.</p>
       <p><a href="https://runnerznamibia.com"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/runnerz-android-case-study">Android case study ↗</a> · <a href="https://github.com/freeman-ipumbu/runnerz-namibia-website-case-study">Web case study ↗</a></p>
     </td>
@@ -220,9 +234,9 @@ UNIFIED 19.0 combines **Continuum** and **Runnerz Relay**: five playable Smart S
       <p><a href="https://freeman-ipumbu.pages.dev/"><b>Explore portfolio ↗</b></a> · <a href="https://github.com/freeman-ipumbu/freeman-ipumbu-portfolio">Repository ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/unified-19-repository-cover.png" alt="UNIFIED 19.0 Continuum Relay official Runnerz music player" width="100%">
-      <h3>UNIFIED 19.0 — Continuum Relay</h3>
-      <p>The official Runnerz music player: a local-first Kotlin Multiplatform system with a protected 3,795-track Library Vault, five evidence-led Smart Spaces, a portable checksum-protected Capsule, Queue Director, Sonic Forge, Sonic Recall, thirty-five persistent badges and a signed native Runnerz relay that shares aggregate run completion—not tracks or routes.</p>
+      <img src="assets/unified-20-command-deck.png" alt="UNIFIED 20.0 Signal Command Deck on Android 15" width="280">
+      <h3>UNIFIED 20.0 — Signal Command</h3>
+      <p>The official Runnerz music player: a local-first Kotlin Multiplatform system with a live Command Deck, protected 3,795-track Library Vault, five evidence-led Smart Spaces, portable checksum-protected Capsule, Queue Director, Sonic Forge, Sonic Recall, thirty-five persistent badges and a signed native Runnerz relay that shares aggregate run completion—not tracks or routes.</p>
       <p><b>Role:</b> product design, interaction system, Kotlin Multiplatform architecture, Android audio engineering and visual design.</p>
       <p><a href="https://github.com/freeman-ipumbu/unified-music-case-study"><b>Public case study ↗</b></a> · <a href="https://runnerznamibia.com/#official-music-player">Runnerz feature ↗</a></p>
     </td>
