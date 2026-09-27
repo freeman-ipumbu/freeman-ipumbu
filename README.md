@@ -261,4 +261,4 @@ I am open to conversations around resilient infrastructure, systems administrati
 **[Portfolio](https://freeman-ipumbu.pages.dev/)** · **[LinkedIn](https://www.linkedin.com/in/freeman-paul-ipumbu/)** · **[Research](https://doi.org/10.5281/zenodo.21840440)** · **[Email](mailto:freeman.ipumbu@outlook.com)**
 
 <sub>Built from Windhoek. Tested against reality.</sub><br>
-<sub>© 2026 Freeman Ipumbu. All rights reserved. · An experience by <a href="https://freeman-ipumbu.pages.dev/">SolarSpin Technologies</a>.</sub>
+<sub>© 2026 Freeman Ipumbu. All rights reserved. · A Digital Experience by <a href="https://freeman-ipumbu.pages.dev/">SolarSpin Technologies</a>.</sub>
