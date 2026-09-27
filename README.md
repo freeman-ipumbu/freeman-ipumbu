@@ -24,6 +24,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 - **Product builder** — products spanning trusted mobility, the Runnerz social-running ecosystem and its official local-first music player, aviation coordination and public-interest command systems
 - **Published design science researcher** — IT handover continuity, with an open DOI-backed research record
 - **Builder within SolarSpin Technologies** — creating practical Namibian digital products with operational depth
+- **RightMatch launch lead** — a role-guided controlled pilot for owners, renters and trust operations, with public transactions deliberately gated behind final legal, insurance, registration and payment approvals
 - **Football archive builder** — creating KICKOFF NAM, a source-linked Namibian football intelligence archive spanning 103 player profiles, 28 club-directory entries and all 14 regional associations
 - **Community digital steward** — helping grassroots initiatives like Magic Boys Football Academy earn visibility through an approved identity without trading away young people’s privacy
 - **Local-enterprise storyteller** — translating businesses like Ontoko Foods into credible, distinctly Namibian digital experiences
@@ -122,7 +123,7 @@ UNIFIED 19.0 combines **Continuum** and **Runnerz Relay**: five playable Smart S
     <td width="50%" valign="top">
       <img src="assets/rightmatch.png" alt="RightMatch Namibia" width="100%">
       <h3>RightMatch Namibia</h3>
-      <p>A trust-first peer-to-peer vehicle marketplace designed for Namibia. Verification, explicit terms and a durable deal trail bring more structure to owner–renter transactions.</p>
+      <p>A launch-ready controlled pilot for Namibia with guided owner, renter and trust-operations journeys, verification, explicit agreements, sealed handover evidence and a durable deal trail. Public transactions remain gated behind final legal, insurance, registration and payment approvals.</p>
       <p><b>Role:</b> product strategy, design research, UX/UI, brand refinement, full-stack engineering, trust architecture, infrastructure and launch.</p>
       <p><a href="https://rightmatchnamibia.com"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/rightmatch-namibia-case-study">Public case study ↗</a></p>
     </td>
@@ -259,4 +260,5 @@ I am open to conversations around resilient infrastructure, systems administrati
 
 **[Portfolio](https://freeman-ipumbu.pages.dev/)** · **[LinkedIn](https://www.linkedin.com/in/freeman-paul-ipumbu/)** · **[Research](https://doi.org/10.5281/zenodo.21840440)** · **[Email](mailto:freeman.ipumbu@outlook.com)**
 
-<sub>Built from Windhoek. Tested against reality.</sub>
+<sub>Built from Windhoek. Tested against reality.</sub><br>
+<sub>© 2026 Freeman Ipumbu. All rights reserved. · An experience by <a href="https://freeman-ipumbu.pages.dev/">SolarSpin Technologies</a>.</sub>
