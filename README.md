@@ -21,6 +21,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 ### Current signal
 
 - **Senior IT Systems Administrator** — The Free Press of Namibia / The Namibian / Namibia Media Trust
+- **Civic digital-experience builder** — translating PDM Namibia’s identity, leadership, policy and parliamentary programme into an installable national political experience
 - **Product builder** — products spanning trusted mobility, the Runnerz social-running ecosystem and its official local-first music player, aviation coordination and public-interest command systems
 - **Published design science researcher** — IT handover continuity, with an open DOI-backed research record
 - **Builder within SolarSpin Technologies** — creating practical Namibian digital products with operational depth
@@ -54,6 +55,15 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 </p>
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/pdm-namibia.jpg" alt="PDM Namibia supporters gathered beneath the Popular Democratic Movement banner" width="100%">
+      <h3>PDM Namibia — Move Namibia Forward</h3>
+      <p>A cinematic, source-grounded and installable national political experience bringing PDM’s history, Top 9, policies, parliamentary work, news, events, structures and membership pathways into one unmistakably PDM digital identity.</p>
+      <p><b>Role:</b> political and organisational research, identity translation, information architecture, art direction, UX/UI, frontend engineering, motion design, PWA engineering, mobile hardening, accessibility and Cloudflare Pages deployment.</p>
+      <p><a href="https://pdm-namibia.pages.dev/"><b>Live experience ↗</b></a> · <a href="https://github.com/freeman-ipumbu/pdm-namibia-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%"><img src="assets/unified-19-continuum.png" alt="UNIFIED 19.0 Continuum Smart Spaces and protected Capsule on Android 15" width="100%"></td>
     <td width="50%"><img src="assets/unified-19-queue-director.png" alt="UNIFIED 19.0 Queue Director controlling the live local queue" width="100%"></td>
