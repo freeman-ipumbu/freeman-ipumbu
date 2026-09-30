@@ -23,7 +23,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 - **Senior IT Systems Administrator** — The Free Press of Namibia / The Namibian / Namibia Media Trust
 - **Civic digital-experience builder** — translating PDM Namibia’s identity, leadership, policy and parliamentary programme into an installable national political experience
 - **Product builder** — products spanning trusted mobility, the Runnerz social-running ecosystem and its official local-first music player, aviation coordination and public-interest command systems
-- **Small-business launch partner** — turning Tito’s barbering talent into a distinct youth-forward identity, fair mobile pricing, a public booking experience and a private owner control room
+- **Small-business launch partner** — turning Tito’s barbering talent into a classic black/red identity, an installable return-client platform, fair group/mobile pricing and a private owner control room
 - **Published design science researcher** — IT handover continuity, with an open DOI-backed research record
 - **Builder within SolarSpin Technologies** — creating practical Namibian digital products with operational depth
 - **RightMatch launch lead** — a role-guided controlled pilot for owners, renters and trust operations, with public transactions deliberately gated behind final legal, insurance, registration and payment approvals
@@ -93,7 +93,7 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
     <td colspan="2" valign="top">
       <img src="assets/tito-on-call.svg" alt="Tito On Call mobile barber booking platform and private owner control room" width="100%">
       <h3>Tito On Call — Fresh cuts. Your place.</h3>
-      <p>A full-stack launch platform for a talented young Windhoek barber: a N$70 base cut, transparent N$120–N$180 mobile totals, eWallet or bank-transfer workflows, request notes and a private PIN-protected control room for bookings, routes, schedule, money and live pricing.</p>
+      <p>An installable full-stack launch platform for a talented young Windhoek barber: a N$70 base cut, transparent N$120–N$180 mobile totals, same-location group savings, Tito Pass loyalty, secure return-client sign-in and a private PIN-protected control room for bookings, routes, schedule, money and live pricing.</p>
       <p><b>Role:</b> product strategy, identity design, fair-pricing model, service design, UX/UI, motion direction, full-stack engineering, data modelling, access-control boundary and Cloudflare launch.</p>
       <p><a href="https://titos-barber.pages.dev/"><b>Live experience ↗</b></a> · <a href="https://github.com/freeman-ipumbu/tito-on-call-case-study">Public case study ↗</a></p>
     </td>
