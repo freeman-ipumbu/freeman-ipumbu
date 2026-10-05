@@ -27,7 +27,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 - **Google Play launch lead** — Runnerz 1.1.0 (code 16) and UNIFIED 20.0 Signal Command (code 22) now have signed Android App Bundles accepted into Namibia-only Alpha release lanes; Runnerz is submitted for review, while UNIFIED's closed-testing track is active and its code-22 release is in review
 - **Published design science researcher** — IT handover continuity, with an open DOI-backed research record
 - **Builder within SolarSpin Technologies** — creating practical Namibian digital products with operational depth
-- **RightMatch launch lead** — a role-guided controlled pilot for owners, renters and trust operations, with public transactions deliberately gated behind final legal, insurance, registration and payment approvals
+- **RightMatch launch lead** — an expanded controlled pilot for vehicle owners, renters, small and growing businesses and mobility partners, with public transactions deliberately gated behind final Namibian legal, insurance, identity, payment and operating approvals
 - **Football archive builder** — creating KICKOFF NAM, a source-linked Namibian football intelligence archive spanning 103 player profiles, 28 club-directory entries and all 14 regional associations
 - **Community digital steward** — helping grassroots initiatives like Magic Boys Football Academy earn visibility through an approved identity without trading away young people’s privacy
 - **Local-enterprise storyteller** — translating businesses like Ontoko Foods into credible, distinctly Namibian digital experiences
@@ -157,9 +157,9 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/rightmatch.png" alt="RightMatch Namibia" width="100%">
+      <img src="assets/rightmatch.png" alt="RightMatch Namibia pathways for renters, owners and growing businesses" width="100%">
       <h3>RightMatch Namibia</h3>
-      <p>A launch-ready controlled pilot for Namibia with guided owner, renter and trust-operations journeys, verification, explicit agreements, sealed handover evidence and a durable deal trail. Public transactions remain gated behind final legal, insurance, registration and payment approvals.</p>
+      <p>An expanded controlled pilot for Namibia with dedicated renter, owner and small-business paths; a three-part product story; purpose-led vehicle discovery; a transparent owner-income calculator; verification; explicit agreements; sealed handover evidence; and a durable deal trail. Public bookings, payments and document submission remain gated pending final legal, insurance, identity and operational approvals.</p>
       <p><b>Role:</b> product strategy, design research, UX/UI, brand refinement, full-stack engineering, trust architecture, infrastructure and launch.</p>
       <p><a href="https://rightmatchnamibia.com"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/rightmatch-namibia-case-study">Public case study ↗</a></p>
     </td>

@@ -23,6 +23,10 @@ assert(readme.includes('not being presented as public-production releases yet'),
 assert(readme.includes('Exact trails stay local'), 'trail privacy boundary is missing');
 assert(readme.includes('UNIFIED 20.0'), 'current UNIFIED release is missing');
 assert(readme.includes('version code 22'), 'UNIFIED version-code evidence is missing');
+assert(readme.includes('small and growing businesses'), 'RightMatch business pathway is missing');
+assert(readme.includes('three-part product story'), 'RightMatch product-story refresh is missing');
+assert(readme.includes('transparent owner-income calculator'), 'RightMatch income calculator is missing');
+assert(readme.includes('Public bookings, payments and document submission remain gated'), 'RightMatch public transaction boundary is missing');
 assert(readme.includes('assets/unified-20-command-deck.png'), 'UNIFIED 20 proof image is missing');
 assert(readme.includes('assets/runnerz-1.1.0.png'), 'Runnerz proof image is missing');
 assert(!readme.includes('src="assets/runnerz.png"'), 'legacy Runnerz image is still referenced');
@@ -37,5 +41,6 @@ for (const ref of new Set(localImages)) {
 
 assert(pngSize('assets/runnerz-1.1.0.png').join('x') === '1600x900', 'Runnerz proof must be 1600x900');
 assert(pngSize('assets/unified-20-command-deck.png').join('x') === '1200x2664', 'UNIFIED 20 proof must be 1200x2664');
+assert(pngSize('assets/rightmatch.png').join('x') === '1200x630', 'RightMatch proof must be 1200x630');
 
 console.log(`Profile verification passed: ${checks} checks`);
