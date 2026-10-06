@@ -105,7 +105,7 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
     <td colspan="2" valign="top">
       <img src="assets/ecc-command.svg" alt="ECC Command emergency coordination pilot for E.M.A. Namibia" width="100%">
       <h3>ECC Command · E.M.A. Namibia</h3>
-      <p>An authenticated, multi-agency emergency-centre PWA coordinating medical, fire-and-rescue and police resources on one accountable scene. It joins workbook-aligned intake, human-confirmed priority and location, multiple resource assignments, unit statuses 0–9, shift-aware day and night modes, a theme-aware open operational map and attributable handover with ECC Signal—E.M.A.'s own 139-code alarm engine without a paid provider on the critical path.</p>
+      <p>An authenticated, multi-agency emergency-centre PWA coordinating medical, fire-and-rescue and police resources on one accountable scene. It joins workbook-aligned intake with visible follow-up capture, transparent questionnaire-based ECC code matches that still require human confirmation, high-visibility multi-resource assignments, unit statuses 0–9, shift-aware day and night modes, a theme-aware open operational map and attributable handover with ECC Signal—E.M.A.'s own 139-code alarm engine without a paid provider on the critical path.</p>
       <p><b>Role:</b> field discovery, legacy workflow archaeology, emergency workflow modelling, product strategy, safety boundary, identity and interaction design, full-stack engineering, access control, Cloudflare Pages Functions and D1, mobile hardening and deployment.</p>
       <p><a href="https://ecc-command.pages.dev/"><b>Protected pilot ↗</b></a> · <a href="https://github.com/freeman-ipumbu/ecc-command-case-study">Public case study ↗</a></p>
     </td>
