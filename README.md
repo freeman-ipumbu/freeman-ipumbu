@@ -43,6 +43,22 @@ My chapter at **The Free Press of Namibia / The Namibian / Namibia Media Trust**
 | Namibian football data and its original sources | **[KICKOFF NAM](https://kickoff-nam.pages.dev/)** |
 | A direct conversation | **[LinkedIn](https://www.linkedin.com/in/freeman-paul-ipumbu/)** or **[email](mailto:freeman.ipumbu@outlook.com)** |
 
+## TPTS Namibia: technical leadership in motion
+
+<p align="center">
+  <a href="https://namibia-finepay-case-study.pages.dev/"><img src="assets/finepay-case-study.svg" alt="Namibia FinePay public system case study led through TPTS Namibia" width="100%"></a>
+</p>
+
+My present professional chapter leads from **TPTS Namibia**, where I serve as Technical Director. The work sits at the point where financial technology, operational accountability, secure system design and institutional readiness meet.
+
+**FinePay** is one public illustration of that discipline. It follows a traffic-fine journey from notice through payment, settlement and authority acknowledgement using one traceable reference. Seven purposeful surfaces make the responsibilities visible across motorists, operations, finance and participating authorities.
+
+The public demonstration includes deliberate operating controls such as two-person refund approval and clear transaction evidence. Bank, court, police, municipal, SMS and identity connections remain explicit integration gates. The case study does not present illustrative records as live institutional access.
+
+**Role:** technical direction, system architecture, operational workflow modelling, control design, product narrative and launch-readiness framing.
+
+**[Open the public case study ↗](https://namibia-finepay-case-study.pages.dev/)** · **[Inspect the repository ↗](https://github.com/freeman-ipumbu/namibia-finepay-case-study)** · **[Visit TPTS Namibia ↗](https://www.tptsnam.com/)**
+
 ## SolarSpin Technologies: the company behind the systems
 
 <p align="center">
@@ -94,13 +110,13 @@ The public record covers mixed baskets, zero fuel-points enforcement, transactio
 
 <p align="center"><sub>UNIFIED 20.0 Signal Command · version code 22 · Google Play Alpha active · release in review</sub></p>
 
-> **Google Play launch lane — 2 October 2026.** Runnerz and UNIFIED are not being presented as public-production releases yet. Runnerz has completed all 11 store setup tasks, its signed code-16 bundle is validated, 13 changes are in review and the 36-person `Runnerz Alpha Testers` group is assigned. UNIFIED's Alpha track is active with the same 36-person test group, and release `20.0 Signal Command (22)` is in review. After approval, the account must hold at least 12 opted-in testers continuously for 14 days before production access can be requested.
+> **Google Play launch lane: 2 October 2026.** Runnerz and UNIFIED are not being presented as public-production releases yet. Runnerz has completed all 11 store setup tasks, its signed code-16 bundle is validated, 13 changes are in review and the 36-person `Runnerz Alpha Testers` group is assigned. UNIFIED's Alpha track is active with the same 36-person test group, and release `20.0 Signal Command (22)` is in review. After approval, the account must hold at least 12 opted-in testers continuously for 14 days before production access can be requested.
 
 **Runnerz 1.1.0** turns the run into a living system: accepted-fix GPS hardening, a segmented Runnerz-green trail, route guidance and switching, live movement metrics, persistent history and banked miles, broad-area-only nearby discovery, women-led run options, a wider rotating History Mode catalogue and a deliberate UNIFIED hand-off. Exact trails stay local; nearby presence never publishes exact coordinates, pace or route points.
 
 **UNIFIED × Runnerz** is the official music layer for Runnerz: a local-first Kotlin Multiplatform player with a protected Library Vault, Flow State, Sonic Atlas, measured local Soundprints, seven movement intents, Pace Map, private Pace Brain guidance, Afterglow, Signal Journal, Momentum Engine, Session Studio, Track Radio and thirty-five persistent badges.
 
-UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Command Deck for live playback, indexed-library and queue truth, direct Audio Lab access, Capsule export/restore, provider readiness and the signed Runnerz relay state. It retains Continuum's five evidence-led Smart Spaces and reversible Queue Director while keeping the matching-signature handoff aggregate-only—session ID, elapsed seconds and distance, never track identities or route points. The in-place Android 15 upgrade preserved the exact Vault checksum and all 3,795 tracks; the Google Play build advances the release to version code 22, and the Android test, lint, debug and release gates pass. Its Namibia-only Alpha track is active and the release is under Google review. A genuine GPS run remains the honest final callback acceptance step. Apple Music and Spotify production adapters remain explicit credentialled integration gates.
+UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Command Deck for live playback, indexed-library and queue truth, direct Audio Lab access, Capsule export/restore, provider readiness and the signed Runnerz relay state. It retains Continuum's five evidence-led Smart Spaces and reversible Queue Director while keeping the matching-signature handoff aggregate only: session ID, elapsed seconds and distance, never track identities or route points. The in-place Android 15 upgrade preserved the exact Vault checksum and all 3,795 tracks; the Google Play build advances the release to version code 22, and the Android test, lint, debug and release gates pass. Its Namibia-only Alpha track is active and the release is under Google review. A genuine GPS run remains the honest final callback acceptance step. Apple Music and Spotify production adapters remain explicit credentialled integration gates.
 
 | Layer | Verified now | Honest next gate |
 |---|---|---|
@@ -124,7 +140,7 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
   <tr>
     <td colspan="2" valign="top">
       <img src="assets/tito-on-call.svg" alt="Tito On Call mobile barber booking platform and private owner control room" width="100%">
-      <h3>Tito On Call — Fresh cuts. Your place.</h3>
+      <h3>Tito On Call: Fresh cuts. Your place.</h3>
       <p>An installable full-stack launch platform for a talented young Windhoek barber: a N$70 base cut, transparent N$120–N$180 mobile totals, same-location group savings, Tito Pass loyalty, secure return-client sign-in and a private PIN-protected control room for bookings, routes, schedule, money and live pricing.</p>
       <p><b>Role:</b> product strategy, identity design, fair-pricing model, service design, UX/UI, motion direction, full-stack engineering, data modelling, access-control boundary and Cloudflare launch.</p>
       <p><a href="https://titos-barber.pages.dev/"><b>Live experience ↗</b></a> · <a href="https://github.com/freeman-ipumbu/tito-on-call-case-study">Public case study ↗</a></p>
@@ -134,7 +150,7 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
     <td colspan="2" valign="top">
       <img src="assets/ecc-command.svg" alt="ECC Command emergency coordination pilot for E.M.A. Namibia" width="100%">
       <h3>ECC Command · E.M.A. Namibia</h3>
-      <p>An authenticated, multi-agency emergency-centre PWA coordinating medical, fire-and-rescue and police resources on one accountable scene. It joins workbook-aligned intake with visible follow-up capture, transparent questionnaire-based ECC code matches that still require human confirmation, high-visibility multi-resource assignments, unit statuses 0–9, shift-aware day and night modes, a theme-aware open operational map and attributable handover with ECC Signal—E.M.A.'s own 139-code alarm engine without a paid provider on the critical path.</p>
+      <p>An authenticated, multi-agency emergency-centre PWA coordinating medical, fire-and-rescue and police resources on one accountable scene. It joins workbook-aligned intake with visible follow-up capture, transparent questionnaire-based ECC code matches that still require human confirmation, high-visibility multi-resource assignments, unit statuses 0–9, shift-aware day and night modes, a theme-aware open operational map and attributable handover with ECC Signal, E.M.A.'s own 139-code alarm engine without a paid provider on the critical path.</p>
       <p><b>Role:</b> field discovery, legacy workflow archaeology, emergency workflow modelling, product strategy, safety boundary, identity and interaction design, full-stack engineering, access control, Cloudflare Pages Functions and D1, mobile hardening and deployment.</p>
       <p><a href="https://ecc-command.pages.dev/"><b>Protected pilot ↗</b></a> · <a href="https://github.com/freeman-ipumbu/ecc-command-case-study">Public case study ↗</a></p>
     </td>
@@ -142,7 +158,7 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
   <tr>
     <td colspan="2" valign="top">
       <img src="assets/ema-namibia.png" alt="E.M.A. Namibia emergency-first nonprofit digital experience" width="100%">
-      <h3>E.M.A. Namibia — Care Before Circumstance</h3>
+      <h3>E.M.A. Namibia: Care Before Circumstance</h3>
       <p>An emergency-first digital command surface for an independent Namibian nonprofit: persistent 9112 access, guided response tools, privacy-conscious location and report flows, Kosmos 94.1 radio, resilient video pathways, supporter action and a new community-beacon identity.</p>
       <p><b>Role:</b> organisation research, product separation, identity redesign, emergency UX strategy, information architecture, interaction design, frontend engineering, mobile hardening, accessibility and Cloudflare launch.</p>
       <p><a href="https://ema-namibia.pages.dev/"><b>Live experience ↗</b></a> · <a href="https://github.com/freeman-ipumbu/ema-namibia-case-study">Public case study ↗</a></p>
@@ -151,7 +167,7 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
   <tr>
     <td colspan="2" valign="top">
       <img src="assets/osh-med-international.png" alt="OSH-Med International Academy digital experience" width="100%">
-      <h3>OSH-Med International — Competence as a Reflex</h3>
+      <h3>OSH-Med International: Competence as a Reflex</h3>
       <p>A distinct professional academy for accredited emergency-care, first-aid, occupational-safety and high-risk-work learning, with an interactive pathway finder, accreditation context, national training footprint and a new reflex-system identity.</p>
       <p><b>Role:</b> organisation research, service architecture, identity redesign, learning-path UX, art direction, interaction design, frontend engineering, mobile hardening, accessibility and Cloudflare launch.</p>
       <p><a href="https://osh-med-international.pages.dev/"><b>Live academy ↗</b></a> · <a href="https://github.com/freeman-ipumbu/osh-med-international-case-study">Public case study ↗</a></p>
@@ -161,7 +177,7 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
     <td colspan="2" valign="top">
       <img src="assets/ontoko-foods.jpg" alt="Authentic Ontoko Foods egg packaging presented in the renewed product photography system" width="100%">
       <h3>Ontoko Foods</h3>
-      <p>A premium, founder-led digital home for Jane Auala’s growing agricultural business—bringing Ontoko’s real identity, editorial product imagery, farm archive and food-security purpose together in one unmistakably Namibian experience.</p>
+      <p>A premium, founder-led digital home for Jane Auala’s growing agricultural business. It brings Ontoko’s real identity, editorial product imagery, farm archive and food-security purpose together in one unmistakably Namibian experience.</p>
       <p><b>Role:</b> public-source research, story architecture, brand translation, product art direction, UX/UI, frontend engineering, interaction design, mobile hardening, accessibility and Cloudflare launch.</p>
       <p><a href="https://ontoko-foods.pages.dev/"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/ontoko-foods-case-study">Public case study ↗</a></p>
     </td>
@@ -170,7 +186,7 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
     <td colspan="2" valign="top">
       <img src="assets/magic-boys-fc-showcase.png" alt="Magic Boys Football Academy identity and digital experience showcase" width="100%">
       <h3>Magic Boys Football Academy</h3>
-      <p>A joyful, mobile-first identity and public home for a Namibian community football academy founded to keep young people active, disciplined and connected to something positive—presented with its approved standalone academy crest.</p>
+      <p>A joyful, mobile-first identity and public home for a Namibian community football academy founded to keep young people active, disciplined and connected to something positive. It is presented with its approved standalone academy crest.</p>
       <p><b>Role:</b> discovery, brand direction, identity design, UX/UI, frontend engineering, accessibility, safeguarding boundary and Cloudflare launch.</p>
       <p><a href="https://magicboys.pages.dev/"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/magic-boys-fc-case-study">Public case study ↗</a></p>
     </td>
@@ -178,7 +194,7 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
   <tr>
     <td colspan="2" valign="top">
       <img src="assets/utuseb.svg" alt="Utuseb Drinks and Delivery mobile commerce platform" width="100%">
-      <h3>Utuseb — Drinks &amp; Delivery</h3>
+      <h3>Utuseb: Drinks &amp; Delivery</h3>
       <p>A mobile commerce and operations platform for a private Namibian drinks business: delivery or arranged pickup, 47 product-specific catalogue lines, universal 18+ ID verification, cash/eWallet checkout, installable PWA, live fulfilment, inventory and downloadable sales/stock reports.</p>
       <p><b>Role:</b> product strategy, UX/UI, product photography system, full-stack engineering, PWA performance, security hardening, Cloudflare D1 and launch.</p>
       <p><a href="https://utuseb.pages.dev"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/utuseb-case-study">Public case study ↗</a></p>
@@ -195,7 +211,7 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
     <td width="50%" valign="top">
       <img src="assets/handover.png" alt="IT Handover Continuance research artefact" width="100%">
       <h3>IT Handover Continuance</h3>
-      <p>A design science research project that treats institutional knowledge continuity as a living system—not a document someone files and forgets.</p>
+      <p>A design science research project that treats institutional knowledge continuity as a living system, not a document someone files and forgets.</p>
       <p><b>Role:</b> researcher, artefact designer and author.</p>
       <p><a href="https://github.com/freeman-ipumbu/it-handover-continuance-dsr"><b>Repository ↗</b></a> · <a href="https://doi.org/10.5281/zenodo.21840440">Published record ↗</a></p>
     </td>
@@ -220,21 +236,21 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
     <td colspan="2" valign="top">
       <img src="assets/ml-occupational-safety-showcase.jpg" alt="M &amp; L Occupational Safety badge over the Namib coast" width="100%">
       <h3>M &amp; L Occupational Safety</h3>
-      <p>A bold, mobile-hardened business website for a Windhoek occupational health and safety consultancy—turning a dense working overview into a clear service story with a refined industrial identity and a distinctly Namibian sense of place.</p>
+      <p>A bold, mobile-hardened business website for a Windhoek occupational health and safety consultancy. It turns a dense working overview into a clear service story with a refined industrial identity and a distinctly Namibian sense of place.</p>
       <p><b>Role:</b> business positioning, identity refinement, UX/UI, content architecture, frontend engineering, mobile hardening, performance and Cloudflare Pages deployment.</p>
       <p><a href="https://ml-occupational-safety.pages.dev"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/ml-occupational-safety-case-study">Public case study ↗</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/borizago-refined-v2.png" alt="Refined BST identity for Borizago — Boriza Shuttle & Tours" width="100%">
-      <h3>Borizago — Boriza Shuttle & Tours</h3>
+      <img src="assets/borizago-refined-v2.png" alt="Refined BST identity for Borizago: Boriza Shuttle & Tours" width="100%">
+      <h3>Borizago: Boriza Shuttle & Tours</h3>
       <p>An installable transport and operations platform connecting seven Namibian towns through 42 valid directional journeys, live segment capacity and server-priced bookings. Boriza staff can manage trips, directional fares, pickup and drop-off points, manifests, service requests and monthly financial/customer reports, with friendly setup warnings and plain-language help for future staff.</p>
       <p><b>Role:</b> product strategy, identity refinement, UX/UI, full-stack engineering, booking integrity, operations and reporting workflow, mobile hardening, private GitHub release automation and Cloudflare deployment.</p>
       <p><a href="https://borizashuttles.pages.dev/"><b>Live app ↗</b></a> · <a href="https://borizashuttles.pages.dev/borizago-staff-guide.pdf">Staff guide ↗</a> · <a href="https://github.com/freeman-ipumbu/borizago-case-study">Public case study ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/kickoff-nam.png" alt="KICKOFF NAM — Namibia Football Archive brand artwork" width="100%">
+      <img src="assets/kickoff-nam.png" alt="KICKOFF NAM: Namibia Football Archive brand artwork" width="100%">
       <h3>KICKOFF NAM</h3>
       <p>A public, source-linked Namibian football archive connecting 103 player profiles, 28 club-directory entries, all 14 regional associations, competition pathways and attributed historical context. Coverage limits and source dates stay visible instead of being presented as live registration data.</p>
       <p><b>Role:</b> product strategy, archival research, data modelling, UX/UI, full-stack engineering, security architecture and Cloudflare launch.</p>
@@ -255,7 +271,7 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
     <td width="50%" valign="top">
       <img src="assets/runnerz-1.1.0.png" alt="Runnerz 1.1.0 controlled Field Test evidence" width="100%">
       <h3>Runnerz Namibia</h3>
-      <p>A route-driven social running network built in Windhoek around compatible pace, intent, place, timing and earned trust—not empty follower counts. Version 1.1.0 hardens live tracking, draws the signature segmented trail, keeps persistent histories and banked miles, adds privacy-preserving nearby discovery and women-led run choices, and connects deliberately to UNIFIED as the official music layer.</p>
+      <p>A route-driven social running network built in Windhoek around compatible pace, intent, place, timing and earned trust, not empty follower counts. Version 1.1.0 hardens live tracking, draws the signature segmented trail, keeps persistent histories and banked miles, adds privacy-preserving nearby discovery and women-led run choices, and connects deliberately to UNIFIED as the official music layer.</p>
       <p><b>Current boundary:</b> controlled handset evidence is complete, the signed code-16 Play bundle is validated and the store submission is in review. Outdoor endurance, genuine-run banking, watch mirroring, Google approval and the 12-testers-for-14-days production gate remain tracked work.</p>
       <p><b>Role:</b> founder, product strategy, design research, Android and web engineering, mapping, safety architecture, secure operations and infrastructure.</p>
       <p><a href="https://runnerznamibia.com"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/runnerz-android-case-study">Android case study ↗</a> · <a href="https://github.com/freeman-ipumbu/runnerz-namibia-website-case-study">Web case study ↗</a></p>
@@ -287,8 +303,8 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
     </td>
     <td width="50%" valign="top">
       <img src="assets/unified-20-command-deck.png" alt="UNIFIED 20.0 Signal Command Deck on Android 15" width="280">
-      <h3>UNIFIED 20.0 — Signal Command</h3>
-      <p>The official Runnerz music player: a local-first Kotlin Multiplatform system with a live Command Deck, protected 3,795-track Library Vault, five evidence-led Smart Spaces, portable checksum-protected Capsule, Queue Director, Sonic Forge, Sonic Recall, thirty-five persistent badges and a signed native Runnerz relay that shares aggregate run completion—not tracks or routes.</p>
+      <h3>UNIFIED 20.0: Signal Command</h3>
+      <p>The official Runnerz music player: a local-first Kotlin Multiplatform system with a live Command Deck, protected 3,795-track Library Vault, five evidence-led Smart Spaces, portable checksum-protected Capsule, Queue Director, Sonic Forge, Sonic Recall, thirty-five persistent badges and a signed native Runnerz relay that shares aggregate run completion, never tracks or routes.</p>
       <p><b>Google Play:</b> the Namibia-only Alpha track is active; signed release <b>20.0 Signal Command (22)</b> is in review with the 36-person test group assigned.</p>
       <p><b>Role:</b> product design, interaction system, Kotlin Multiplatform architecture, Android audio engineering and visual design.</p>
       <p><a href="https://play.google.com/apps/testing/com.unified.music"><b>Tester opt-in ↗</b></a> · <a href="https://github.com/freeman-ipumbu/unified-music-case-study">Public case study ↗</a> · <a href="https://runnerznamibia.com/#official-music-player">Runnerz feature ↗</a></p>

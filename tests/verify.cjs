@@ -18,6 +18,8 @@ function pngSize(relativePath) {
 
 assert(readme.includes('## Current flagship: one Runnerz ecosystem'), 'current flagship section is missing');
 assert(readme.includes('Technical Director, TPTS Namibia'), 'TPTS must lead the current command');
+assert(readme.includes('assets/finepay-case-study.svg'), 'TPTS-led FinePay proof is missing');
+assert(readme.includes('namibia-finepay-case-study'), 'FinePay public evidence links are missing');
 assert(readme.includes('Founder and CEO, SolarSpin Technologies'), 'SolarSpin founder identity is missing');
 assert(readme.includes('assets/solarspin-company.svg'), 'SolarSpin visual identity is missing');
 assert(readme.includes('assets/fuel-retail-platform.svg'), 'fuel-retail case-study artwork is missing');
