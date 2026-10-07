@@ -16,7 +16,18 @@ function pngSize(relativePath) {
   return [data.readUInt32BE(16), data.readUInt32BE(20)];
 }
 
-assert(readme.includes('## Current flagship — one Runnerz ecosystem'), 'current flagship section is missing');
+assert(readme.includes('## Current flagship: one Runnerz ecosystem'), 'current flagship section is missing');
+assert(readme.includes('Technical Director, TPTS Namibia'), 'TPTS must lead the current command');
+assert(readme.includes('Founder and CEO, SolarSpin Technologies'), 'SolarSpin founder identity is missing');
+assert(readme.includes('assets/solarspin-company.svg'), 'SolarSpin visual identity is missing');
+assert(readme.includes('assets/fuel-retail-platform.svg'), 'fuel-retail case-study artwork is missing');
+assert(readme.includes('fuel-retail-digital-platform-case-study'), 'fuel-retail case-study link is missing');
+assert(readme.includes('assets/pdm-namibia-hq.png'), 'PDM project banner is missing');
+assert(readme.includes('assets/tito-on-call.svg'), 'Tito On Call project banner is missing');
+assert(readme.includes('assets/ecc-command.svg'), 'ECC Command project banner is missing');
+assert(readme.includes('assets/rightmatch.png'), 'RightMatch project banner is missing');
+assert(readme.includes('assets/kickoff-nam.png'), 'KICKOFF NAM project banner is missing');
+assert(readme.includes('assets/omutambo-mark.svg'), 'Omutambo project banner is missing');
 assert(readme.includes('RUNNERZ 1.1.0 · code 16'), 'Runnerz version signal is missing');
 assert(readme.includes('145 tests each, 0 failures'), 'test signal is missing');
 assert(readme.includes('not being presented as public-production releases yet'), 'release boundary is missing');
@@ -38,6 +49,8 @@ const localImages = [...readme.matchAll(/(?:src="|!\[[^\]]*\]\()([^"\)]+)(?:"|\)
 for (const ref of new Set(localImages)) {
   assert(fs.existsSync(path.join(root, ref)), `missing local image: ${ref}`);
 }
+
+assert(new Set(localImages).size >= 25, 'rich profile artwork has been flattened again');
 
 assert(pngSize('assets/runnerz-1.1.0.png').join('x') === '1600x900', 'Runnerz proof must be 1600x900');
 assert(pngSize('assets/unified-20-command-deck.png').join('x') === '1200x2664', 'UNIFIED 20 proof must be 1200x2664');

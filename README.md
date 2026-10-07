@@ -1,131 +1,365 @@
 <p align="center">
-  <img src="assets/profile-header.svg" width="100%" alt="Freeman Ipumbu, technical director, founder and product builder from Windhoek, Namibia">
+  <img src="assets/profile-header.svg" width="100%" alt="Freeman Paul Ipumbu, Technical Director, founder and systems builder from Windhoek, Namibia">
 </p>
 
 <p align="center">
   <a href="https://freeman-ipumbu.pages.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-Explore-EFA00F?style=for-the-badge&labelColor=0B1015"></a>
+  <a href="https://solarspin-namibia.pages.dev/"><img alt="SolarSpin Technologies" src="https://img.shields.io/badge/SOLARSPIN-Enter_the_universe-8585FF?style=for-the-badge&labelColor=0B1015"></a>
   <a href="https://www.linkedin.com/in/freeman-paul-ipumbu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Connect-71E4F2?style=for-the-badge&labelColor=0B1015"></a>
   <a href="mailto:freeman.ipumbu@outlook.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-Open_channel-F3F5F6?style=for-the-badge&labelColor=0B1015"></a>
 </p>
 
-## I build systems that have to work beyond the pitch deck.
+## I build systems that have to work after the applause.
 
-I am a Namibian technical director, founder and product builder based in Windhoek.
+I am **Freeman Paul Ipumbu**, a Namibian Technical Director, founder, systems builder and design science researcher based in Windhoek.
 
-My work started close to the infrastructure: telecom network operations, offshore ICT, enterprise systems, security, support and the documentation people need when something fails at 02:00. Today I use that foundation to lead financial technology, build products and turn complicated operational problems into systems people can actually run.
+My career began close to the infrastructure: telecom network operations, offshore ICT, enterprise systems, security, service continuity and the documentation people reach for when something fails at 02:00. I now carry that operating discipline into financial technology, product architecture, full-stack delivery and digital experiences with enough depth to survive contact with the real world.
 
-### Current orbit
-
-- **Technical Director, TPTS Namibia**: technical direction for practical, secure financial technology
-- **Founder and CEO, SolarSpin Technologies**: the company behind my independent products and selected client experiences
-- **Founder and CEO, Runnerz Namibia**: a safer, privacy-conscious social running and walking platform
-- **Co-Founder and CTO, RightMatch Namibia**: trusted vehicle access for renters, owners and small businesses
+This profile is not a list of experiments. It is the public evidence trail of a life spent understanding difficult systems and then making them usable.
 
 ```text
-UNDERSTAND THE REAL CONDITIONS
-          ↓
-FRAME THE SYSTEM
-          ↓
-BUILD THE HARD PARTS
-          ↓
-TEST THE FAILURE EDGES
-          ↓
-SHIP IT WITH A HANDOVER
+OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 ```
 
-I do not separate the interface from the operating reality underneath it. Access, recovery, evidence, privacy, support and production readiness are product work too.
+### Current command
+
+- **Technical Director, TPTS Namibia:** leading technical direction for practical, secure financial technology and the systems around it
+- **Founder and CEO, SolarSpin Technologies:** building the company that gives my independent products, selected client work and long-term technical legacy one home
+- **Founder and CEO, Runnerz Namibia:** shaping a safer, privacy-conscious social running and walking ecosystem born in Windhoek
+- **Co-Founder and CTO, RightMatch Namibia:** engineering the trust, evidence and operating controls behind responsible vehicle access
+- **Published design science researcher:** turning institutional IT handover from a forgotten document into a living continuity system
+
+My chapter at **The Free Press of Namibia / The Namibian / Namibia Media Trust** ended on 15 September 2026. It remains part of the foundation, not my present identity.
 
 ## Start here
 
-| If you want to see | Open this |
-| --- | --- |
-| The full body of work | [Interactive portfolio](https://freeman-ipumbu.pages.dev/) |
-| Current product thinking | [Fuel Retail Digital Platform case study](https://github.com/freeman-ipumbu/fuel-retail-digital-platform-case-study) |
-| A Namibia-first consumer product | [Runnerz Namibia](https://runnerznamibia.com/) |
-| A trust-heavy marketplace system | [RightMatch Namibia case study](https://github.com/freeman-ipumbu/rightmatch-namibia-case-study) |
-| Published design science research | [IT Handover Continuance](https://doi.org/10.5281/zenodo.21840440) |
-| The public record behind a private product | [Soek.Iets use case](https://github.com/freeman-ipumbu/soek-iets-use-case) |
+| What you want to inspect | Best entry point |
+|---|---|
+| The complete body of work | **[Interactive portfolio](https://freeman-ipumbu.pages.dev/)** |
+| The company now holding the universe together | **[SolarSpin Technologies](https://solarspin-namibia.pages.dev/)** |
+| Current product and systems thinking | **[Anonymous fuel-retail platform case study](https://github.com/freeman-ipumbu/fuel-retail-digital-platform-case-study)** |
+| Research method and published evidence | **[IT Handover Continuance](https://doi.org/10.5281/zenodo.21840440)** |
+| Product decisions without exposing private production code | **[Public case-study repositories](https://github.com/freeman-ipumbu?tab=repositories)** |
+| Namibian football data and its original sources | **[KICKOFF NAM](https://kickoff-nam.pages.dev/)** |
+| A direct conversation | **[LinkedIn](https://www.linkedin.com/in/freeman-paul-ipumbu/)** or **[email](mailto:freeman.ipumbu@outlook.com)** |
 
-## Selected systems
+## SolarSpin Technologies: the company behind the systems
 
-### Fuel Retail Digital Platform
+<p align="center">
+  <a href="https://solarspin-namibia.pages.dev/"><img src="assets/solarspin-company.svg" alt="SolarSpin Technologies, systems with gravity, from Windhoek, Namibia" width="100%"></a>
+</p>
 
-An anonymous controlled-pilot case study spanning a customer wallet, station checkout, fleet controls and operations. It focuses on the part that decides whether the product can survive a real forecourt: mixed-basket rules, zero fuel-points enforcement, role boundaries, reconciliation and evidence.
+I founded **SolarSpin Technologies in November 2025** because the work had grown beyond what should keep moving under one person’s name. SolarSpin is the operating identity behind my independent product engineering, research-led digital experiences and selected client systems.
 
-**Public boundary:** independent concept work. No client name, logo, private source, protected deployment detail or claim of production approval.
+It brings infrastructure discipline, product thinking, visual craft, operational evidence and proper handover into the same room. The ambition is not to decorate Namibia’s technology landscape. It is to build useful systems with enough gravity to change it.
 
-[Inspect the public case study](https://github.com/freeman-ipumbu/fuel-retail-digital-platform-case-study)
+SolarSpin is also personal. It is the body of work I intend to keep building for the rest of my life and, ultimately, part of the legacy I leave to my son, Kingsley.
 
-### Runnerz Namibia
+**[Enter the SolarSpin experience ↗](https://solarspin-namibia.pages.dev/)** · **[Explore the GitHub organisation ↗](https://github.com/SolarSpin-Technologies)**
 
-A route-driven running and walking network designed around compatible pace, availability, area and safety. Exact trails stay under the runner's control. Nearby discovery uses broad-area presence rather than publishing precise coordinates.
+## Current frontier: an operational fuel-retail platform
 
-The Android product is in controlled Namibia-only testing while the safety, privacy, community and wider release gates are hardened properly.
+<p align="center">
+  <a href="https://github.com/freeman-ipumbu/fuel-retail-digital-platform-case-study"><img src="assets/fuel-retail-platform.svg" alt="Anonymous digital fuel-retail platform case study by SolarSpin Technologies" width="100%"></a>
+</p>
 
-[Visit Runnerz](https://runnerznamibia.com/) · [Android case study](https://github.com/freeman-ipumbu/runnerz-android-case-study)
+This anonymous case study brings four difficult surfaces into one controlled pilot: a customer wallet, station checkout, fleet controls and operational oversight. The work is centred on the rules that decide whether the system can survive a real forecourt, not just whether the screens look convincing.
 
-### RightMatch Namibia
+The public record covers mixed baskets, zero fuel-points enforcement, transaction evidence, role boundaries, fleet accountability, reconciliation and a staged path from demonstration to controlled operation.
 
-A controlled vehicle-access platform for renters, owners and small businesses. The difficult part is not the booking screen. It is the trust layer around identity, agreements, evidence, access, payments and what remains when something goes wrong.
+**Public boundary:** independent concept work. No prospect identity, client logo, private source, protected commercial material or claim of production approval is exposed.
 
-Public transactions stay gated until the legal, insurance, identity and operating controls are ready.
+**Role:** product strategy, domain modelling, trust architecture, UX/UI, full-stack systems thinking, operational safeguards, pilot framing and public case-study direction.
 
-[Visit RightMatch](https://rightmatchnamibia.com/) · [Public case study](https://github.com/freeman-ipumbu/rightmatch-namibia-case-study)
+**[Inspect the public case study ↗](https://github.com/freeman-ipumbu/fuel-retail-digital-platform-case-study)**
 
-### Soek.Iets
+## Current flagship: one Runnerz ecosystem
 
-A Namibia-first discovery product built around plain-language intent. The private source and the public use-case record are deliberately separate, so the product thinking can be inspected without treating production code as marketing material.
+<p align="center">
+  <a href="https://github.com/freeman-ipumbu/runnerz-android-case-study"><img src="assets/runnerz-1.1.0.png" alt="Runnerz 1.1.0 controlled Field Test showing the signature trail, UNIFIED Music relay and persistent banked miles" width="100%"></a>
+</p>
 
-[Public use case](https://github.com/freeman-ipumbu/soek-iets-use-case)
+<p align="center"><sub>RUNNERZ 1.1.0 · code 16 · signed Play bundle validated · store changes submitted for review</sub></p>
 
-### IT Handover Continuance
+<p align="center">
+  <a href="https://github.com/freeman-ipumbu/unified-music-case-study"><img src="assets/unified-20-command-deck.png" alt="UNIFIED 20.0 Signal Command Deck on the physical Android 15 handset" width="420"></a>
+</p>
 
-Published design science research on a problem I kept meeting in real systems: operational knowledge trapped in stale files, private messages or one person's memory.
+<table>
+  <tr>
+    <td width="50%"><img src="assets/unified-19-continuum.png" alt="UNIFIED 19.0 Continuum Smart Spaces and protected Capsule on Android 15" width="100%"></td>
+    <td width="50%"><img src="assets/unified-19-queue-director.png" alt="UNIFIED 19.0 Queue Director controlling the live local queue" width="100%"></td>
+  </tr>
+</table>
 
-The work treats handover as a living continuity system with ownership, maintenance and usable evidence.
+<p align="center"><sub>UNIFIED 20.0 Signal Command · version code 22 · Google Play Alpha active · release in review</sub></p>
 
-[Repository](https://github.com/freeman-ipumbu/it-handover-continuance-dsr) · [Published record](https://doi.org/10.5281/zenodo.21840440)
+> **Google Play launch lane — 2 October 2026.** Runnerz and UNIFIED are not being presented as public-production releases yet. Runnerz has completed all 11 store setup tasks, its signed code-16 bundle is validated, 13 changes are in review and the 36-person `Runnerz Alpha Testers` group is assigned. UNIFIED's Alpha track is active with the same 36-person test group, and release `20.0 Signal Command (22)` is in review. After approval, the account must hold at least 12 opted-in testers continuously for 14 days before production access can be requested.
 
-## More proof of work
+**Runnerz 1.1.0** turns the run into a living system: accepted-fix GPS hardening, a segmented Runnerz-green trail, route guidance and switching, live movement metrics, persistent history and banked miles, broad-area-only nearby discovery, women-led run options, a wider rotating History Mode catalogue and a deliberate UNIFIED hand-off. Exact trails stay local; nearby presence never publishes exact coordinates, pace or route points.
 
-| System | What it tackles | Evidence |
-| --- | --- | --- |
-| **ECC Command** | Accountable multi-agency emergency coordination | [Case study](https://github.com/freeman-ipumbu/ecc-command-case-study) |
-| **UNIFIED** | Local-first music, private listening intelligence and a deliberate Runnerz relay | [Case study](https://github.com/freeman-ipumbu/unified-music-case-study) |
-| **KICKOFF NAM** | Source-linked Namibian football intelligence | [Live archive](https://kickoff-nam.pages.dev/) |
-| **Tito On Call** | Mobile barber bookings, pricing, loyalty and owner operations | [Case study](https://github.com/freeman-ipumbu/tito-on-call-case-study) |
-| **Borizago** | Shuttle booking, capacity, fares, manifests and reporting | [Case study](https://github.com/freeman-ipumbu/borizago-case-study) |
-| **Omutambo** | Private multi-species farm operations | [Case study](https://github.com/freeman-ipumbu/omutambo-herd-case-study) |
-| **NamAir Command** | Aviation readiness, duty assumptions and audit evidence | [Case study](https://github.com/freeman-ipumbu/namair-command-case-study) |
-| **NamMar Command** | Vessel operations and coastal departure assurance | [Case study](https://github.com/freeman-ipumbu/nammar-command-case-study) |
+**UNIFIED × Runnerz** is the official music layer for Runnerz: a local-first Kotlin Multiplatform player with a protected Library Vault, Flow State, Sonic Atlas, measured local Soundprints, seven movement intents, Pace Map, private Pace Brain guidance, Afterglow, Signal Journal, Momentum Engine, Session Studio, Track Radio and thirty-five persistent badges.
 
-The wider portfolio includes work across public interest, healthcare, education, agriculture, local commerce and community organisations. Each public repository is written to show the decisions without exposing private production source or pretending a prototype is already a live service.
+UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Command Deck for live playback, indexed-library and queue truth, direct Audio Lab access, Capsule export/restore, provider readiness and the signed Runnerz relay state. It retains Continuum's five evidence-led Smart Spaces and reversible Queue Director while keeping the matching-signature handoff aggregate-only—session ID, elapsed seconds and distance, never track identities or route points. The in-place Android 15 upgrade preserved the exact Vault checksum and all 3,795 tracks; the Google Play build advances the release to version code 22, and the Android test, lint, debug and release gates pass. Its Namibia-only Alpha track is active and the release is under Google review. A genuine GPS run remains the honest final callback acceptance step. Apple Music and Spotify production adapters remain explicit credentialled integration gates.
 
-## Foundation
+| Layer | Verified now | Honest next gate |
+|---|---|---|
+| **Runnerz 1.1.0** | Controlled handset trail evidence; Live and Field Test unit suites at **145 tests each, 0 failures**; signed code-16 AAB validated; store setup complete and review submitted | Google approval, at least 12 continuous tester opt-ins for 14 days, then production-access review; outdoor endurance, genuine-run banking and paired-watch mirroring remain field gates |
+| **UNIFIED 20.0** | Signed code-22 AAB; active Alpha track; release in review; live Command Deck; exact Vault checksum preserved; Capsule export/restore and native relay path verified | Google approval, the same 12-testers-for-14-days production gate, genuine GPS completion callback and credentialled Apple Music / Spotify adapters |
 
-- **Senior IT System Administrator, The Free Press of Namibia**: 20 July to 15 September 2026
-- **IT Support Engineer, Namibian Underwater Technologies and Mining**: December 2018 to July 2026
-- **NOC Support Engineer L1, Paratus Telecommunications**: April 2017 to September 2018
-- **BSc Honours in Computer Science and Information Technology, University of Namibia**
-- **Published design science researcher**: [IT Handover Continuance](https://doi.org/10.5281/zenodo.21840440)
+**[Join the UNIFIED Alpha ↗](https://play.google.com/apps/testing/com.unified.music)** · **[Inspect the UNIFIED engineering case study ↗](https://github.com/freeman-ipumbu/unified-music-case-study)** · **[Inspect the Runnerz Android case study ↗](https://github.com/freeman-ipumbu/runnerz-android-case-study)**
+
+## Selected proof of work
+
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/pdm-namibia-hq.png" alt="PDM Namibia community banner in the movement's blue, red and white identity" width="100%">
+      <h3>PDM Namibia: Move Namibia Forward</h3>
+      <p>A cinematic, source-grounded and installable national political experience bringing PDM’s history, Top 9, policies, parliamentary work, news, events, structures and membership pathways into one unmistakably PDM digital identity.</p>
+      <p><b>Role:</b> political and organisational research, identity translation, information architecture, art direction, UX/UI, frontend engineering, motion design, PWA engineering, mobile hardening, accessibility and Cloudflare Pages deployment.</p>
+      <p><a href="https://pdm-namibia.pages.dev/"><b>Live experience ↗</b></a> · <a href="https://github.com/freeman-ipumbu/pdm-namibia-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/tito-on-call.svg" alt="Tito On Call mobile barber booking platform and private owner control room" width="100%">
+      <h3>Tito On Call — Fresh cuts. Your place.</h3>
+      <p>An installable full-stack launch platform for a talented young Windhoek barber: a N$70 base cut, transparent N$120–N$180 mobile totals, same-location group savings, Tito Pass loyalty, secure return-client sign-in and a private PIN-protected control room for bookings, routes, schedule, money and live pricing.</p>
+      <p><b>Role:</b> product strategy, identity design, fair-pricing model, service design, UX/UI, motion direction, full-stack engineering, data modelling, access-control boundary and Cloudflare launch.</p>
+      <p><a href="https://titos-barber.pages.dev/"><b>Live experience ↗</b></a> · <a href="https://github.com/freeman-ipumbu/tito-on-call-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/ecc-command.svg" alt="ECC Command emergency coordination pilot for E.M.A. Namibia" width="100%">
+      <h3>ECC Command · E.M.A. Namibia</h3>
+      <p>An authenticated, multi-agency emergency-centre PWA coordinating medical, fire-and-rescue and police resources on one accountable scene. It joins workbook-aligned intake with visible follow-up capture, transparent questionnaire-based ECC code matches that still require human confirmation, high-visibility multi-resource assignments, unit statuses 0–9, shift-aware day and night modes, a theme-aware open operational map and attributable handover with ECC Signal—E.M.A.'s own 139-code alarm engine without a paid provider on the critical path.</p>
+      <p><b>Role:</b> field discovery, legacy workflow archaeology, emergency workflow modelling, product strategy, safety boundary, identity and interaction design, full-stack engineering, access control, Cloudflare Pages Functions and D1, mobile hardening and deployment.</p>
+      <p><a href="https://ecc-command.pages.dev/"><b>Protected pilot ↗</b></a> · <a href="https://github.com/freeman-ipumbu/ecc-command-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/ema-namibia.png" alt="E.M.A. Namibia emergency-first nonprofit digital experience" width="100%">
+      <h3>E.M.A. Namibia — Care Before Circumstance</h3>
+      <p>An emergency-first digital command surface for an independent Namibian nonprofit: persistent 9112 access, guided response tools, privacy-conscious location and report flows, Kosmos 94.1 radio, resilient video pathways, supporter action and a new community-beacon identity.</p>
+      <p><b>Role:</b> organisation research, product separation, identity redesign, emergency UX strategy, information architecture, interaction design, frontend engineering, mobile hardening, accessibility and Cloudflare launch.</p>
+      <p><a href="https://ema-namibia.pages.dev/"><b>Live experience ↗</b></a> · <a href="https://github.com/freeman-ipumbu/ema-namibia-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/osh-med-international.png" alt="OSH-Med International Academy digital experience" width="100%">
+      <h3>OSH-Med International — Competence as a Reflex</h3>
+      <p>A distinct professional academy for accredited emergency-care, first-aid, occupational-safety and high-risk-work learning, with an interactive pathway finder, accreditation context, national training footprint and a new reflex-system identity.</p>
+      <p><b>Role:</b> organisation research, service architecture, identity redesign, learning-path UX, art direction, interaction design, frontend engineering, mobile hardening, accessibility and Cloudflare launch.</p>
+      <p><a href="https://osh-med-international.pages.dev/"><b>Live academy ↗</b></a> · <a href="https://github.com/freeman-ipumbu/osh-med-international-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/ontoko-foods.jpg" alt="Authentic Ontoko Foods egg packaging presented in the renewed product photography system" width="100%">
+      <h3>Ontoko Foods</h3>
+      <p>A premium, founder-led digital home for Jane Auala’s growing agricultural business—bringing Ontoko’s real identity, editorial product imagery, farm archive and food-security purpose together in one unmistakably Namibian experience.</p>
+      <p><b>Role:</b> public-source research, story architecture, brand translation, product art direction, UX/UI, frontend engineering, interaction design, mobile hardening, accessibility and Cloudflare launch.</p>
+      <p><a href="https://ontoko-foods.pages.dev/"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/ontoko-foods-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/magic-boys-fc-showcase.png" alt="Magic Boys Football Academy identity and digital experience showcase" width="100%">
+      <h3>Magic Boys Football Academy</h3>
+      <p>A joyful, mobile-first identity and public home for a Namibian community football academy founded to keep young people active, disciplined and connected to something positive—presented with its approved standalone academy crest.</p>
+      <p><b>Role:</b> discovery, brand direction, identity design, UX/UI, frontend engineering, accessibility, safeguarding boundary and Cloudflare launch.</p>
+      <p><a href="https://magicboys.pages.dev/"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/magic-boys-fc-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/utuseb.svg" alt="Utuseb Drinks and Delivery mobile commerce platform" width="100%">
+      <h3>Utuseb — Drinks &amp; Delivery</h3>
+      <p>A mobile commerce and operations platform for a private Namibian drinks business: delivery or arranged pickup, 47 product-specific catalogue lines, universal 18+ ID verification, cash/eWallet checkout, installable PWA, live fulfilment, inventory and downloadable sales/stock reports.</p>
+      <p><b>Role:</b> product strategy, UX/UI, product photography system, full-stack engineering, PWA performance, security hardening, Cloudflare D1 and launch.</p>
+      <p><a href="https://utuseb.pages.dev"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/utuseb-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/rightmatch.png" alt="RightMatch Namibia pathways for renters, owners and growing businesses" width="100%">
+      <h3>RightMatch Namibia</h3>
+      <p>An expanded controlled pilot for Namibia with dedicated pathways for renters, owners and small and growing businesses; a three-part product story; purpose-led vehicle discovery; a transparent owner-income calculator; verification; explicit agreements; sealed handover evidence; and a durable deal trail. Public bookings, payments and document submission remain gated pending final legal, insurance, identity and operational approvals.</p>
+      <p><b>Role:</b> product strategy, design research, UX/UI, brand refinement, full-stack engineering, trust architecture, infrastructure and launch.</p>
+      <p><a href="https://rightmatchnamibia.com"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/rightmatch-namibia-case-study">Public case study ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/handover.png" alt="IT Handover Continuance research artefact" width="100%">
+      <h3>IT Handover Continuance</h3>
+      <p>A design science research project that treats institutional knowledge continuity as a living system—not a document someone files and forgets.</p>
+      <p><b>Role:</b> researcher, artefact designer and author.</p>
+      <p><a href="https://github.com/freeman-ipumbu/it-handover-continuance-dsr"><b>Repository ↗</b></a> · <a href="https://doi.org/10.5281/zenodo.21840440">Published record ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/dream-high.png" alt="Dream High Learning Institute website" width="100%">
+      <h3>Dream High Learning Institute</h3>
+      <p>A research-led digital identity and responsive institutional experience unifying early learning, school support, vocational training and counselling.</p>
+      <p><b>Role:</b> design research, strategy, visual direction, frontend engineering, content systems and deployment.</p>
+      <p><a href="https://dream-high-learning.pages.dev/"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/dream-high-learning-case-study">Public case study ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/nammar-command.svg" alt="NamMar Command" width="100%">
+      <h3>NamMar Command</h3>
+      <p>A vessel-operations command centre unifying voyages, crew readiness, live coastal conditions, public vessel status and departure assurance.</p>
+      <p><b>Role:</b> product strategy, systems design, command UX, React engineering and marine-operational research.</p>
+      <p><a href="https://nammar.pages.dev/"><b>Controlled demo ↗</b></a> · <a href="https://github.com/freeman-ipumbu/nammar-command-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/ml-occupational-safety-showcase.jpg" alt="M &amp; L Occupational Safety badge over the Namib coast" width="100%">
+      <h3>M &amp; L Occupational Safety</h3>
+      <p>A bold, mobile-hardened business website for a Windhoek occupational health and safety consultancy—turning a dense working overview into a clear service story with a refined industrial identity and a distinctly Namibian sense of place.</p>
+      <p><b>Role:</b> business positioning, identity refinement, UX/UI, content architecture, frontend engineering, mobile hardening, performance and Cloudflare Pages deployment.</p>
+      <p><a href="https://ml-occupational-safety.pages.dev"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/ml-occupational-safety-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/borizago-refined-v2.png" alt="Refined BST identity for Borizago — Boriza Shuttle & Tours" width="100%">
+      <h3>Borizago — Boriza Shuttle & Tours</h3>
+      <p>An installable transport and operations platform connecting seven Namibian towns through 42 valid directional journeys, live segment capacity and server-priced bookings. Boriza staff can manage trips, directional fares, pickup and drop-off points, manifests, service requests and monthly financial/customer reports, with friendly setup warnings and plain-language help for future staff.</p>
+      <p><b>Role:</b> product strategy, identity refinement, UX/UI, full-stack engineering, booking integrity, operations and reporting workflow, mobile hardening, private GitHub release automation and Cloudflare deployment.</p>
+      <p><a href="https://borizashuttles.pages.dev/"><b>Live app ↗</b></a> · <a href="https://borizashuttles.pages.dev/borizago-staff-guide.pdf">Staff guide ↗</a> · <a href="https://github.com/freeman-ipumbu/borizago-case-study">Public case study ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/kickoff-nam.png" alt="KICKOFF NAM — Namibia Football Archive brand artwork" width="100%">
+      <h3>KICKOFF NAM</h3>
+      <p>A public, source-linked Namibian football archive connecting 103 player profiles, 28 club-directory entries, all 14 regional associations, competition pathways and attributed historical context. Coverage limits and source dates stay visible instead of being presented as live registration data.</p>
+      <p><b>Role:</b> product strategy, archival research, data modelling, UX/UI, full-stack engineering, security architecture and Cloudflare launch.</p>
+      <p><a href="https://kickoff-nam.pages.dev/"><b>Live archive ↗</b></a> · <a href="https://github.com/freeman-ipumbu/kickoff-nam-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/omutambo-mark.svg" alt="Omutambo Herd Operations" width="100%">
+      <h3>Omutambo Herd Operations</h3>
+      <p>A live, invitation-only farm-operations workspace joining cattle, goats, sheep, freely named livestock and flock-level poultry command. Field Command 2 unifies the identity, responsive navigation, branded access screens, startup states and evidence coverage behind poultry measures while retaining the 100-check release gate and visibly open owner-authenticated production smoke check.</p>
+      <p><b>Role:</b> product strategy, design science, identity system, UX/UI refresh, information architecture, multi-species data modelling, poultry operations, full-stack engineering, offline-first UX, access controls, release verification and Cloudflare deployment.</p>
+      <p><a href="https://omutambo.pages.dev"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/omutambo-herd-case-study">Public case study ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/runnerz-1.1.0.png" alt="Runnerz 1.1.0 controlled Field Test evidence" width="100%">
+      <h3>Runnerz Namibia</h3>
+      <p>A route-driven social running network built in Windhoek around compatible pace, intent, place, timing and earned trust—not empty follower counts. Version 1.1.0 hardens live tracking, draws the signature segmented trail, keeps persistent histories and banked miles, adds privacy-preserving nearby discovery and women-led run choices, and connects deliberately to UNIFIED as the official music layer.</p>
+      <p><b>Current boundary:</b> controlled handset evidence is complete, the signed code-16 Play bundle is validated and the store submission is in review. Outdoor endurance, genuine-run banking, watch mirroring, Google approval and the 12-testers-for-14-days production gate remain tracked work.</p>
+      <p><b>Role:</b> founder, product strategy, design research, Android and web engineering, mapping, safety architecture, secure operations and infrastructure.</p>
+      <p><a href="https://runnerznamibia.com"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/runnerz-android-case-study">Android case study ↗</a> · <a href="https://github.com/freeman-ipumbu/runnerz-namibia-website-case-study">Web case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/airmed-command.svg" alt="MOHSS AIRMED COMMAND" width="100%">
+      <h3>MOHSS AIRMED COMMAND</h3>
+      <p>A national air-medical coordination concept connecting mission intake, clinical and aviation readiness, authorization and attributable audit history.</p>
+      <p><b>Role:</b> systems design, design research, command UX, React engineering and Kotlin/Spring backend foundation.</p>
+      <p><a href="https://github.com/freeman-ipumbu/mohss-airmed-command-case-study"><b>Public case study ↗</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/namair-command.svg" alt="NamAir Command" width="100%">
+      <h3>NamAir Command</h3>
+      <p>An aviation command, crew-readiness and rostering prototype that makes duty assumptions, readiness state, mission pressure and audit evidence legible.</p>
+      <p><b>Role:</b> product design, systems engineering, interaction design and prototype development.</p>
+      <p><a href="https://namair-command.pages.dev/"><b>Controlled demo ↗</b></a> · <a href="https://github.com/freeman-ipumbu/namair-command-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/portfolio.png" alt="Freeman Ipumbu technical portfolio" width="100%">
+      <h3>Technical Portfolio</h3>
+      <p>An interactive view of the systems, networking, security, research and product work behind the job titles.</p>
+      <p><b>Signal:</b> ten years of field experience, documented and made inspectable.</p>
+      <p><a href="https://freeman-ipumbu.pages.dev/"><b>Explore portfolio ↗</b></a> · <a href="https://github.com/freeman-ipumbu/freeman-ipumbu-portfolio">Repository ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/unified-20-command-deck.png" alt="UNIFIED 20.0 Signal Command Deck on Android 15" width="280">
+      <h3>UNIFIED 20.0 — Signal Command</h3>
+      <p>The official Runnerz music player: a local-first Kotlin Multiplatform system with a live Command Deck, protected 3,795-track Library Vault, five evidence-led Smart Spaces, portable checksum-protected Capsule, Queue Director, Sonic Forge, Sonic Recall, thirty-five persistent badges and a signed native Runnerz relay that shares aggregate run completion—not tracks or routes.</p>
+      <p><b>Google Play:</b> the Namibia-only Alpha track is active; signed release <b>20.0 Signal Command (22)</b> is in review with the 36-person test group assigned.</p>
+      <p><b>Role:</b> product design, interaction system, Kotlin Multiplatform architecture, Android audio engineering and visual design.</p>
+      <p><a href="https://play.google.com/apps/testing/com.unified.music"><b>Tester opt-in ↗</b></a> · <a href="https://github.com/freeman-ipumbu/unified-music-case-study">Public case study ↗</a> · <a href="https://runnerznamibia.com/#official-music-player">Runnerz feature ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+## Product intelligence without exposing the product
+
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="https://solarspin-namibia.pages.dev/assets/projects/soek-iets.webp" alt="Soek.Iets Namibia-first discovery product" width="100%">
+      <h3>Soek.Iets</h3>
+      <p>A Namibia-first discovery product built around plain-language intent. The public use-case record shows the problem framing, search logic, product boundaries and operating decisions without turning private production code into marketing material.</p>
+      <p><b>Role:</b> product strategy, interaction model, information architecture, full-stack product direction, privacy boundary and public evidence design.</p>
+      <p><a href="https://github.com/freeman-ipumbu/soek-iets-use-case"><b>Inspect the public use case ↗</b></a></p>
+    </td>
+  </tr>
+</table>
+
+## Operational foundation
+
+The visual work sits on top of years spent close to the systems themselves.
+
+| Chapter | Responsibility and evidence |
+|---|---|
+| **TPTS Namibia** | Technical Director, leading the present technical chapter across financial technology, system direction, security and operational readiness |
+| **The Free Press of Namibia / The Namibian / Namibia Media Trust** | Senior IT System Administrator from 20 July to 15 September 2026 |
+| **Namibian Underwater Technologies and Mining** | IT Support Engineer from December 2018 to July 2026, supporting the infrastructure, people and continuity demands around offshore operations |
+| **Paratus Telecommunications** | NOC Support Engineer L1 from April 2017 to September 2018, working close to network operations and service assurance |
+| **University of Namibia** | BSc Honours in Computer Science and Information Technology |
+| **Published research** | IT Handover Continuance, a DOI-backed design science record connecting lived operational failure to a maintainable continuity artefact |
+
+## Engineering lens
+
+| Reliability | Security | Design science | Product engineering |
+|---|---|---|---|
+| Networks, systems, service continuity, observability and documentation | Firewalls, access boundaries, evidence, governance and operational risk | Problem framing, artefact design, demonstration, evaluation and iteration | Research, UX, frontend, backend, infrastructure, launch and lifecycle thinking |
 
 ## Working stack
 
-```text
-TECHNICAL DIRECTION  /  PRODUCT STRATEGY  /  SYSTEMS ARCHITECTURE
-INFRASTRUCTURE       /  NETWORKS          /  SECURITY
-FULL-STACK DELIVERY  /  ANDROID           /  CLOUDFLARE
-IT SERVICE           /  DOCUMENTATION     /  HANDOVER
-DESIGN SCIENCE       /  FIELD RESEARCH    /  OPERATIONAL READINESS
-```
+![Linux](https://img.shields.io/badge/Linux-111820?style=flat-square&logo=linux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-111820?style=flat-square&logo=windows&logoColor=5EE7FF)
+![Networking](https://img.shields.io/badge/Networking-111820?style=flat-square&logo=cisco&logoColor=5EE7FF)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111820?style=flat-square&logo=cloudflare&logoColor=FFB020)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-111820?style=flat-square&logo=digitalocean&logoColor=5EE7FF)
+![Docker](https://img.shields.io/badge/Docker-111820?style=flat-square&logo=docker&logoColor=5EE7FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111820?style=flat-square&logo=postgresql&logoColor=5EE7FF)
+![React](https://img.shields.io/badge/React-111820?style=flat-square&logo=react&logoColor=5EE7FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-111820?style=flat-square&logo=typescript&logoColor=5EE7FF)
+![Node.js](https://img.shields.io/badge/Node.js-111820?style=flat-square&logo=nodedotjs&logoColor=7ED79A)
+![Git](https://img.shields.io/badge/Git-111820?style=flat-square&logo=git&logoColor=FF8B63)
+![Design Research](https://img.shields.io/badge/Design_Science-111820?style=flat-square&logo=googlescholar&logoColor=FFB020)
 
-Tools change. The responsibility does not. Understand the problem properly, make the important decisions visible and leave the system in a state somebody else can operate.
+> **My standard:** simple enough to understand, strong enough to trust, and documented well enough to survive the person who built it.
 
-## Contact
+AI is part of the toolchain. Judgment, accountability and final ownership remain human.
 
-- Portfolio: [freeman-ipumbu.pages.dev](https://freeman-ipumbu.pages.dev/)
-- LinkedIn: [Freeman Paul Ipumbu](https://www.linkedin.com/in/freeman-paul-ipumbu/)
-- Email: [freeman.ipumbu@outlook.com](mailto:freeman.ipumbu@outlook.com)
-- Base: Windhoek, Namibia
+## Open channel
 
-<sub>Founder and CEO of SolarSpin Technologies. If there is another life, I will build there too.</sub>
+I am open to conversations around financial technology, resilient infrastructure, product architecture, network security, design science research and ambitious systems capable of creating practical value in Namibia.
+
+| Route | Address |
+|---|---|
+| TPTS Namibia | [freeman@tptsnam.com](mailto:freeman@tptsnam.com) |
+| SolarSpin and personal | [freeman.ipumbu@outlook.com](mailto:freeman.ipumbu@outlook.com) |
+| Runnerz Namibia | [freeman@runnerznamibia.com](mailto:freeman@runnerznamibia.com) |
+| RightMatch Namibia | [freeman@rightmatchnamibia.com](mailto:freeman@rightmatchnamibia.com) |
+
+**[Portfolio](https://freeman-ipumbu.pages.dev/)** · **[LinkedIn](https://www.linkedin.com/in/freeman-paul-ipumbu/)** · **[Research](https://doi.org/10.5281/zenodo.21840440)** · **[SolarSpin](https://solarspin-namibia.pages.dev/)**
+
+<sub>Built from Windhoek. Tested against reality.</sub><br>
+<sub>© 2026 Freeman Ipumbu. All rights reserved. · A Digital Experience by <a href="https://solarspin-namibia.pages.dev/">SolarSpin Technologies</a>.</sub>

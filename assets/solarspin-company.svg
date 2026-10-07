@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">SolarSpin Technologies GitHub banner</title>
+  <desc id="desc">Systems with gravity. A technology and product company from Windhoek, Namibia.</desc>
+  <rect width="1280" height="640" fill="#071522"/>
+  <g fill="none" transform="translate(1080 320) rotate(-12)">
+    <ellipse rx="360" ry="144" stroke="#304155" stroke-width="3" stroke-dasharray="7 17"/>
+    <ellipse rx="270" ry="95" stroke="#5655E8" stroke-width="5" stroke-dasharray="160 36"/>
+    <ellipse rx="188" ry="63" stroke="#28C7AD" stroke-width="3" stroke-dasharray="9 16"/>
+    <circle r="36" stroke="#FF4F7B" stroke-width="14"/>
+  </g>
+  <circle cx="1200" cy="160" r="11" fill="#36E1C3"/>
+  <circle cx="1010" cy="527" r="9" fill="#FF5E88"/>
+  <text x="70" y="72" fill="#36E1C3" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" letter-spacing="4">SOLARSPIN TECHNOLOGIES // WHK.NA</text>
+  <text x="70" y="244" fill="#F8FAFC" font-family="Avenir Next, Avenir, Helvetica Neue, Arial, sans-serif" font-size="82" font-weight="800" letter-spacing="-3">SYSTEMS</text>
+  <text x="70" y="326" fill="#8585FF" font-family="Avenir Next, Avenir, Helvetica Neue, Arial, sans-serif" font-size="82" font-weight="800" letter-spacing="-3">WITH GRAVITY.</text>
+  <text x="74" y="407" fill="#B7C2CF" font-family="Avenir Next, Avenir, Helvetica Neue, Arial, sans-serif" font-size="27" font-weight="500">Research real problems. Build useful systems.</text>
+  <text x="74" y="446" fill="#B7C2CF" font-family="Avenir Next, Avenir, Helvetica Neue, Arial, sans-serif" font-size="27" font-weight="500">Test the hard edges. Hand it over properly.</text>
+  <text x="74" y="562" fill="#F8FAFC" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" letter-spacing="3">INFRASTRUCTURE / PRODUCT / RESEARCH / EXPERIENCE</text>
+</svg>
