@@ -107,8 +107,8 @@ The public record covers mixed baskets, zero fuel-points enforcement, transactio
     <td colspan="2" valign="top">
       <img src="assets/monaluxe-card.webp" alt="Enhanced NAILED and Lashed by Mona logo in its pearl, blush and salon-gold identity" width="100%">
       <h3>NAILED &amp; Lashed by Mona: Your mood, made glossy.</h3>
-      <p>An installable client and operations platform for a Windhoek nail and lash studio. It joins a real-work editorial lookbook, transparent studio and house-call booking, secure return-client profiles, Mona Luxe Circle points, rewards and referrals, and a private CRM for appointments, payments, client value and retention insight.</p>
-      <p><b>Role:</b> product strategy, identity enhancement, service design, loyalty economics, UX/UI, motion design, full-stack engineering, client authentication, CRM and admin analytics, PWA engineering and Cloudflare launch.</p>
+      <p>An installable client and operations platform for a Windhoek nail and lash studio. It joins a real-work editorial lookbook, transparent studio and house-call booking, secure return-client accounts, Mona Luxe Circle points, rewards and referrals, and a private StudioDesk for appointments, payments, client value and retention insight. A dedicated training flow handles beginner options with or without a kit, advanced nail-art enquiries and lash training by request, while the enhanced identity carries through to a delivery-ready social brand kit.</p>
+      <p><b>Role:</b> product strategy, identity enhancement, service and training architecture, loyalty economics, UX/UI, motion design, full-stack engineering, client authentication, StudioDesk CRM and financial overview, social campaign design, PWA engineering and Cloudflare launch.</p>
       <p><a href="https://monaluxe.pages.dev/"><b>Live experience ↗</b></a> · <a href="https://github.com/freeman-ipumbu/monaluxe-case-study">Public case study ↗</a></p>
     </td>
   </tr>

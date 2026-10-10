@@ -30,7 +30,9 @@ assert(readme.includes('assets/monaluxe-card.webp'), 'Mona Luxe final brand card
 assert(readme.includes('https://monaluxe.pages.dev/'), 'Mona Luxe live experience link is missing');
 assert(readme.includes('https://github.com/freeman-ipumbu/monaluxe-case-study'), 'Mona Luxe public case-study link is missing');
 assert(readme.includes('Mona Luxe Circle points, rewards and referrals'), 'Mona Luxe retention scope is missing');
-assert(readme.includes('private CRM for appointments, payments, client value and retention insight'), 'Mona Luxe owner-system scope is missing');
+assert(readme.includes('private StudioDesk for appointments, payments, client value and retention insight'), 'Mona Luxe owner-system scope is missing');
+assert(readme.includes('beginner options with or without a kit, advanced nail-art enquiries and lash training by request'), 'Mona Luxe training scope is missing');
+assert(readme.includes('delivery-ready social brand kit'), 'Mona Luxe social brand system is missing');
 assert(readme.includes('assets/ecc-command.svg'), 'ECC Command project banner is missing');
 assert(readme.includes('assets/rightmatch.png'), 'RightMatch project banner is missing');
 assert(readme.includes('assets/kickoff-nam.png'), 'KICKOFF NAM project banner is missing');
