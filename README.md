@@ -37,6 +37,7 @@ My chapter at **The Free Press of Namibia / The Namibian / Namibia Media Trust**
 |---|---|
 | The complete body of work | **[Interactive portfolio](https://freeman-ipumbu.pages.dev/)** |
 | The company now holding the universe together | **[SolarSpin Technologies](https://solarspin-namibia.pages.dev/)** |
+| Latest client launch | **[NAILED & Lashed by Mona](https://monaluxe.pages.dev/)** · [public case study](https://github.com/freeman-ipumbu/monaluxe-case-study) |
 | Current product and systems thinking | **[Anonymous fuel-retail platform case study](https://github.com/freeman-ipumbu/fuel-retail-digital-platform-case-study)** |
 | Research method and published evidence | **[IT Handover Continuance](https://doi.org/10.5281/zenodo.21840440)** |
 | Product decisions without exposing private production code | **[Public case-study repositories](https://github.com/freeman-ipumbu?tab=repositories)** |
@@ -102,6 +103,15 @@ The public record covers mixed baskets, zero fuel-points enforcement, transactio
 </p>
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/monaluxe-card.webp" alt="Enhanced NAILED and Lashed by Mona logo in its pearl, blush and salon-gold identity" width="100%">
+      <h3>NAILED &amp; Lashed by Mona: Your mood, made glossy.</h3>
+      <p>An installable client and operations platform for a Windhoek nail and lash studio. It joins a real-work editorial lookbook, transparent studio and house-call booking, secure return-client profiles, Mona Luxe Circle points, rewards and referrals, and a private CRM for appointments, payments, client value and retention insight.</p>
+      <p><b>Role:</b> product strategy, identity enhancement, service design, loyalty economics, UX/UI, motion design, full-stack engineering, client authentication, CRM and admin analytics, PWA engineering and Cloudflare launch.</p>
+      <p><a href="https://monaluxe.pages.dev/"><b>Live experience ↗</b></a> · <a href="https://github.com/freeman-ipumbu/monaluxe-case-study">Public case study ↗</a></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%"><img src="assets/unified-19-continuum.png" alt="UNIFIED 19.0 Continuum Smart Spaces and protected Capsule on Android 15" width="100%"></td>
     <td width="50%"><img src="assets/unified-19-queue-director.png" alt="UNIFIED 19.0 Queue Director controlling the live local queue" width="100%"></td>

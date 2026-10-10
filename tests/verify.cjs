@@ -26,6 +26,11 @@ assert(readme.includes('assets/fuel-retail-platform.svg'), 'fuel-retail case-stu
 assert(readme.includes('fuel-retail-digital-platform-case-study'), 'fuel-retail case-study link is missing');
 assert(readme.includes('assets/pdm-namibia-hq.png'), 'PDM project banner is missing');
 assert(readme.includes('assets/tito-on-call.svg'), 'Tito On Call project banner is missing');
+assert(readme.includes('assets/monaluxe-card.webp'), 'Mona Luxe final brand card is missing');
+assert(readme.includes('https://monaluxe.pages.dev/'), 'Mona Luxe live experience link is missing');
+assert(readme.includes('https://github.com/freeman-ipumbu/monaluxe-case-study'), 'Mona Luxe public case-study link is missing');
+assert(readme.includes('Mona Luxe Circle points, rewards and referrals'), 'Mona Luxe retention scope is missing');
+assert(readme.includes('private CRM for appointments, payments, client value and retention insight'), 'Mona Luxe owner-system scope is missing');
 assert(readme.includes('assets/ecc-command.svg'), 'ECC Command project banner is missing');
 assert(readme.includes('assets/rightmatch.png'), 'RightMatch project banner is missing');
 assert(readme.includes('assets/kickoff-nam.png'), 'KICKOFF NAM project banner is missing');
