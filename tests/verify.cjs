@@ -50,6 +50,7 @@ assert(readme.includes('Exact trails stay local'), 'trail privacy boundary is mi
 assert(readme.includes('UNIFIED 20.0'), 'current UNIFIED release is missing');
 assert(readme.includes('version code 22'), 'UNIFIED version-code evidence is missing');
 assert(readme.includes('small and growing businesses'), 'RightMatch business pathway is missing');
+assert(readme.includes('Co-Founder & Chief Technology Officer, RightMatch Namibia'), 'Canonical RightMatch founder title is missing');
 assert(readme.includes('three-part product story'), 'RightMatch product-story refresh is missing');
 assert(readme.includes('transparent owner-income calculator'), 'RightMatch income calculator is missing');
 assert(readme.includes('Public bookings, payments and document submission remain gated'), 'RightMatch public transaction boundary is missing');

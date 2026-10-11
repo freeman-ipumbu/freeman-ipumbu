@@ -26,7 +26,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 - **Technical Director, TPTS Namibia:** leading technical direction for practical, secure financial technology and the systems around it
 - **Founder and CEO, SolarSpin Technologies:** building the company that gives my independent products, selected client work and long-term technical legacy one home
 - **Founder and CEO, Runnerz Namibia:** shaping a safer, privacy-conscious social running and walking ecosystem born in Windhoek
-- **Co-Founder and CTO, RightMatch Namibia:** engineering the trust, evidence and operating controls behind responsible vehicle access
+- **Co-Founder & Chief Technology Officer, RightMatch Namibia:** engineering the trust, evidence and operating controls behind responsible vehicle access
 - **Published design science researcher:** turning institutional IT handover from a forgotten document into a living continuity system
 
 My chapter at **The Free Press of Namibia / The Namibian / Namibia Media Trust** ended on 15 September 2026. It remains part of the foundation, not my present identity.
@@ -220,7 +220,7 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
       <img src="assets/rightmatch.png" alt="RightMatch Namibia pathways for renters, owners and growing businesses" width="100%">
       <h3>RightMatch Namibia</h3>
       <p>An expanded controlled pilot for Namibia with dedicated pathways for renters, owners and small and growing businesses; a three-part product story; purpose-led vehicle discovery; a transparent owner-income calculator; verification; explicit agreements; sealed handover evidence; and a durable deal trail. Public bookings, payments and document submission remain gated pending final legal, insurance, identity and operational approvals.</p>
-      <p><b>Role:</b> product strategy, design research, UX/UI, brand refinement, full-stack engineering, trust architecture, infrastructure and launch.</p>
+      <p><b>Role:</b> Co-Founder &amp; Chief Technology Officer; product strategy, design research, UX/UI, brand refinement, full-stack engineering, trust architecture, infrastructure and launch.</p>
       <p><a href="https://rightmatchnamibia.com"><b>Live product ↗</b></a> · <a href="https://github.com/freeman-ipumbu/rightmatch-namibia-case-study">Public case study ↗</a></p>
     </td>
     <td width="50%" valign="top">
