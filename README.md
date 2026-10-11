@@ -37,7 +37,7 @@ My chapter at **The Free Press of Namibia / The Namibian / Namibia Media Trust**
 |---|---|
 | The complete body of work | **[Interactive portfolio](https://freeman-ipumbu.pages.dev/)** |
 | The company now holding the universe together | **[SolarSpin Technologies](https://solarspin-namibia.pages.dev/)** |
-| Latest client launch | **[NAILED & Lashed by Mona](https://monaluxe.pages.dev/)** · [public case study](https://github.com/freeman-ipumbu/monaluxe-case-study) |
+| Latest client launch | **[NAILED & Lashed by Mona](https://monaluxe.pages.dev/)** · [public case study](https://freeman-ipumbu.github.io/monaluxe-case-study/) |
 | Current product and systems thinking | **[Anonymous fuel-retail platform case study](https://github.com/freeman-ipumbu/fuel-retail-digital-platform-case-study)** |
 | Research method and published evidence | **[IT Handover Continuance](https://doi.org/10.5281/zenodo.21840440)** |
 | Product decisions without exposing private production code | **[Public case-study repositories](https://github.com/freeman-ipumbu?tab=repositories)** |
@@ -74,6 +74,20 @@ SolarSpin is also personal. It is the body of work I intend to keep building for
 
 **[Enter the SolarSpin experience ↗](https://solarspin-namibia.pages.dev/)** · **[Explore the GitHub organisation ↗](https://github.com/SolarSpin-Technologies)**
 
+## Latest client launch: NAILED & Lashed by Mona
+
+<p align="center">
+  <a href="https://monaluxe.pages.dev/"><img src="assets/monaluxe-card.webp" alt="Enhanced NAILED and Lashed by Mona logo in its pearl, blush and salon-gold identity" width="100%"></a>
+</p>
+
+**NAILED & Lashed by Mona** is a client-approved, installable service and operations platform for a Windhoek nail and lash studio. The public experience brings Mona's work, services and training into one fluid journey, with clear studio or house-call booking, payment choices and a return-client path designed to make every next appointment easier.
+
+Behind it, client dashboards connect to **Mona Luxe Circle** points, tiered rewards and referrals, while the PIN-protected **StudioDesk** gives Mona one place to manage bookings, clients, money, loyalty, training, services and availability. It is a complete small-business system: expressive in public, practical in daily use and installable as a PWA on mobile and desktop.
+
+**Role:** product strategy, identity enhancement, service and training architecture, loyalty economics, UX/UI, motion design, full-stack engineering, client accounts, StudioDesk administration, PWA engineering, launch and owner handover.
+
+**[Experience the live platform ↗](https://monaluxe.pages.dev/)** · **[Explore the public case study ↗](https://freeman-ipumbu.github.io/monaluxe-case-study/)** · **[Inspect the case-study repository ↗](https://github.com/freeman-ipumbu/monaluxe-case-study)**
+
 ## Current frontier: an operational fuel-retail platform
 
 <p align="center">
@@ -103,15 +117,6 @@ The public record covers mixed baskets, zero fuel-points enforcement, transactio
 </p>
 
 <table>
-  <tr>
-    <td colspan="2" valign="top">
-      <img src="assets/monaluxe-card.webp" alt="Enhanced NAILED and Lashed by Mona logo in its pearl, blush and salon-gold identity" width="100%">
-      <h3>NAILED &amp; Lashed by Mona: Your mood, made glossy.</h3>
-      <p>An installable client and operations platform for a Windhoek nail and lash studio. It joins a real-work editorial lookbook, transparent studio and house-call booking, secure return-client accounts, Mona Luxe Circle points, rewards and referrals, and a private StudioDesk for appointments, payments, client value and retention insight. A dedicated training flow handles beginner options with or without a kit, advanced nail-art enquiries and lash training by request, while the enhanced identity carries through to a delivery-ready social brand kit.</p>
-      <p><b>Role:</b> product strategy, identity enhancement, service and training architecture, loyalty economics, UX/UI, motion design, full-stack engineering, client authentication, StudioDesk CRM and financial overview, social campaign design, PWA engineering and Cloudflare launch.</p>
-      <p><a href="https://monaluxe.pages.dev/"><b>Live experience ↗</b></a> · <a href="https://github.com/freeman-ipumbu/monaluxe-case-study">Public case study ↗</a></p>
-    </td>
-  </tr>
   <tr>
     <td width="50%"><img src="assets/unified-19-continuum.png" alt="UNIFIED 19.0 Continuum Smart Spaces and protected Capsule on Android 15" width="100%"></td>
     <td width="50%"><img src="assets/unified-19-queue-director.png" alt="UNIFIED 19.0 Queue Director controlling the live local queue" width="100%"></td>
