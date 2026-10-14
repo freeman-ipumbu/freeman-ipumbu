@@ -24,7 +24,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 ### Current command
 
 - **Technical Director, TPTS Namibia:** leading technical direction for practical, secure financial technology and the systems around it
-- **Founder and CEO, SolarSpin Technologies:** building the company that gives my independent products, selected client work and long-term technical legacy one home; currently leading PDM Namibia’s national digital-platform programme from public experience through participation, staff operations and a governed infrastructure roadmap
+- **Founder and CEO, SolarSpin Technologies:** building the company that gives my independent products, selected client work and long-term technical legacy one home; currently leading PDM Namibia’s N$100,000+ scope-valued national digital-platform programme from public experience through participation, staff operations and a governed infrastructure roadmap
 - **Founder and CEO, Runnerz Namibia:** shaping a safer, privacy-conscious social running and walking ecosystem born in Windhoek
 - **Co-Founder & Chief Technology Officer, RightMatch Namibia:** engineering the trust, evidence and operating controls behind responsible vehicle access
 - **Published design science researcher:** turning institutional IT handover from a forgotten document into a living continuity system
@@ -84,6 +84,8 @@ SolarSpin is also personal. It is the body of work I intend to keep building for
 I am leading this programme through **SolarSpin Technologies**. It began with a public website brief and has grown into a broader question: what would it take for a national political movement to listen, organise, publish evidence and serve people with the same care it gives the campaign stage?
 
 The live experience establishes the public direction: a cinematic, source-grounded and installable PWA covering PDM’s history, 2026 leadership, policy, parliamentary work, structures, media, events and membership pathways. The private production implementation now extends that foundation into four accountable layers:
+
+**Scope-based portfolio replacement-value estimate: N$100,000+.** This reflects the combined research, product strategy, current-information verification, visual and interaction design, public PWA, civic journeys, national map, operations architecture, security boundaries, QA, deployment and handoff work required to reproduce the present scope. It is a portfolio valuation, not a claim that PDM was invoiced, charged or paid that amount.
 
 | Layer | Implemented direction |
 |---|---|
@@ -172,6 +174,7 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
       <img src="assets/pdm-namibia-hq.png" alt="PDM Namibia community banner in the movement's blue, red and white identity" width="100%">
       <h3>PDM Namibia: a national digital participation platform</h3>
       <p>The live website gives PDM a cinematic, source-grounded and installable public identity across leadership, policy, Parliament, structures, media, events and membership. A release-gated private implementation extends the platform with structured civic intake, an evidence-backed national presence map, office and authority records, staff review workflows and party-asset lifecycle tracking.</p>
+      <p><b>Portfolio replacement-value estimate:</b> N$100,000+ for the current combined discovery, design, engineering, operations, governance, QA and handoff scope. This is not a statement of fees charged or received.</p>
       <p><b>Public boundary:</b> the live experience and public case study are inspectable; production source remains private. Payments, Microsoft 365, SharePoint and fine-grained staff roles are not presented as live.</p>
       <p><b>Role:</b> SolarSpin programme leadership, stakeholder discovery, political and organisational research, platform and data architecture, information design, art direction, UX/UI, full-stack engineering, motion and PWA engineering, mobile hardening, operational safeguards and Cloudflare delivery.</p>
       <p><a href="https://pdm-namibia.pages.dev/"><b>Live experience ↗</b></a> · <a href="https://github.com/freeman-ipumbu/pdm-namibia-case-study">Public case study ↗</a></p>

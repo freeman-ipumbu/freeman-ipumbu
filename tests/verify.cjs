@@ -25,6 +25,9 @@ assert(readme.includes('assets/solarspin-company.svg'), 'SolarSpin visual identi
 assert(readme.includes('assets/fuel-retail-platform.svg'), 'fuel-retail case-study artwork is missing');
 assert(readme.includes('fuel-retail-digital-platform-case-study'), 'fuel-retail case-study link is missing');
 assert(readme.includes('assets/pdm-namibia-hq.png'), 'PDM project banner is missing');
+assert(readme.includes('Scope-based portfolio replacement-value estimate: N$100,000+'), 'PDM flagship valuation is missing');
+assert((readme.match(/N\$100,000\+/g) || []).length >= 3, 'PDM valuation must be visible in the command, programme and proof sections');
+assert(readme.includes('not a claim that PDM was invoiced, charged or paid that amount'), 'PDM valuation boundary is missing');
 assert(readme.includes('assets/tito-on-call.svg'), 'Tito On Call project banner is missing');
 assert(readme.includes('assets/monaluxe-card.webp'), 'Mona Luxe final brand card is missing');
 assert(readme.includes('https://monaluxe.pages.dev/'), 'Mona Luxe live experience link is missing');
