@@ -133,6 +133,12 @@ The public record covers mixed baskets, zero fuel-points enforcement, transactio
 ## Current flagship: one Runnerz ecosystem
 
 <p align="center">
+  <a href="https://github.com/freeman-ipumbu/runnerz-android-case-study/blob/main/media/runnerz-showtime-official-soundtrack-teaser.mp4"><img src="https://raw.githubusercontent.com/freeman-ipumbu/runnerz-android-case-study/main/assets/showtime-soundtrack-teaser-cover.png" width="270" alt="ShowTime × Runnerz official soundtrack teaser; watch the 64-second Performance Cut"></a>
+</p>
+
+<p align="center"><strong>SHOWTIME × RUNNERZ · OFFICIAL SOUNDTRACK TEASER</strong><br>Breathe in. Something is coming. HARTLOOP · HARDLOOP · LOOP.<br><a href="https://github.com/freeman-ipumbu/runnerz-android-case-study/blob/main/media/runnerz-showtime-official-soundtrack-teaser.mp4">Watch the teaser ↗</a> · Full mastered track forthcoming.</p>
+
+<p align="center">
   <a href="https://github.com/freeman-ipumbu/runnerz-android-case-study"><img src="assets/runnerz-1.1.0.png" alt="Runnerz 1.1.0 controlled Field Test showing the signature trail, UNIFIED Music relay and persistent banked miles" width="100%"></a>
 </p>
 
@@ -164,7 +170,7 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
 | **Runnerz 1.1.0** | Controlled handset trail evidence; Live and Field Test unit suites at **145 tests each, 0 failures**; signed code-16 AAB validated; store setup complete and review submitted | Google approval, at least 12 continuous tester opt-ins for 14 days, then production-access review; outdoor endurance, genuine-run banking and paired-watch mirroring remain field gates |
 | **UNIFIED 20.0** | Signed code-22 AAB; active Alpha track; release in review; live Command Deck; exact Vault checksum preserved; Capsule export/restore and native relay path verified | Google approval, the same 12-testers-for-14-days production gate, genuine GPS completion callback and credentialled Apple Music / Spotify adapters |
 
-**[Join the UNIFIED Alpha ↗](https://play.google.com/apps/testing/com.unified.music)** · **[Inspect the UNIFIED engineering case study ↗](https://github.com/freeman-ipumbu/unified-music-case-study)** · **[Inspect the Runnerz Android case study ↗](https://github.com/freeman-ipumbu/runnerz-android-case-study)**
+**[Watch the official Runnerz soundtrack teaser ↗](https://github.com/freeman-ipumbu/runnerz-android-case-study/blob/main/media/runnerz-showtime-official-soundtrack-teaser.mp4)** · **[Join the UNIFIED Alpha ↗](https://play.google.com/apps/testing/com.unified.music)** · **[Inspect the UNIFIED engineering case study ↗](https://github.com/freeman-ipumbu/unified-music-case-study)** · **[Inspect the Runnerz Android case study ↗](https://github.com/freeman-ipumbu/runnerz-android-case-study)**
 
 ## Selected proof of work
 
