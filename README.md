@@ -24,7 +24,7 @@ OBSERVE → FRAME → DESIGN → BUILD → EVALUATE → HARDEN → SHIP
 ### Current command
 
 - **Technical Director, TPTS Namibia:** leading technical direction for practical, secure financial technology and the systems around it
-- **Founder and CEO, SolarSpin Technologies:** building the company that gives my independent products, selected client work and long-term technical legacy one home
+- **Founder and CEO, SolarSpin Technologies:** building the company that gives my independent products, selected client work and long-term technical legacy one home; currently leading PDM Namibia’s national digital-platform programme from public experience through participation, staff operations and a governed infrastructure roadmap
 - **Founder and CEO, Runnerz Namibia:** shaping a safer, privacy-conscious social running and walking ecosystem born in Windhoek
 - **Co-Founder & Chief Technology Officer, RightMatch Namibia:** engineering the trust, evidence and operating controls behind responsible vehicle access
 - **Published design science researcher:** turning institutional IT handover from a forgotten document into a living continuity system
@@ -37,6 +37,7 @@ My chapter at **The Free Press of Namibia / The Namibian / Namibia Media Trust**
 |---|---|
 | The complete body of work | **[Interactive portfolio](https://freeman-ipumbu.pages.dev/)** |
 | The company now holding the universe together | **[SolarSpin Technologies](https://solarspin-namibia.pages.dev/)** |
+| Current institutional programme | **[PDM Namibia live experience](https://pdm-namibia.pages.dev/)** · [public case study](https://github.com/freeman-ipumbu/pdm-namibia-case-study) |
 | Latest client launch | **[NAILED & Lashed by Mona](https://monaluxe.pages.dev/)** · [public case study](https://freeman-ipumbu.github.io/monaluxe-case-study/) |
 | Current product and systems thinking | **[Anonymous fuel-retail platform case study](https://github.com/freeman-ipumbu/fuel-retail-digital-platform-case-study)** |
 | Research method and published evidence | **[IT Handover Continuance](https://doi.org/10.5281/zenodo.21840440)** |
@@ -73,6 +74,29 @@ It brings infrastructure discipline, product thinking, visual craft, operational
 SolarSpin is also personal. It is the body of work I intend to keep building for the rest of my life and, ultimately, part of the legacy I leave to my son, Kingsley.
 
 **[Enter the SolarSpin experience ↗](https://solarspin-namibia.pages.dev/)** · **[Explore the GitHub organisation ↗](https://github.com/SolarSpin-Technologies)**
+
+## Current institutional programme: PDM Namibia’s national digital platform
+
+<p align="center">
+  <a href="https://pdm-namibia.pages.dev/"><img src="assets/pdm-namibia-hq.png" alt="PDM Namibia national digital platform presented through its blue, red and white identity" width="100%"></a>
+</p>
+
+I am leading this programme through **SolarSpin Technologies**. It began with a public website brief and has grown into a broader question: what would it take for a national political movement to listen, organise, publish evidence and serve people with the same care it gives the campaign stage?
+
+The live experience establishes the public direction: a cinematic, source-grounded and installable PWA covering PDM’s history, 2026 leadership, policy, parliamentary work, structures, media, events and membership pathways. The private production implementation now extends that foundation into four accountable layers:
+
+| Layer | Implemented direction |
+|---|---|
+| **Public participation** | Structured membership, parliamentary-question, policy-idea, constituency-issue, service-delivery, contact and support-interest journeys with consent, routing and reference numbers |
+| **National presence** | An OpenStreetMap-based authority and office experience whose public records require verification and retained source evidence before publication |
+| **Staff operations** | A protected console for intake review, office and authority records, case notes and party-asset lifecycle metadata, backed by an auditable Cloudflare D1 model |
+| **Organisational continuity** | A separately governed roadmap for custom-domain identity, Microsoft 365, SharePoint, Teams, document stewardship and managed PDM devices |
+
+> **Current boundary:** the website is live, the case study is public and production source remains private. The rebuilt intake and staff services are release-gated until PDM approves the operating rules and the production D1, Cloudflare Access, administrator allowlist and Turnstile controls are provisioned. The support journey records an expression of intent only—it does not accept money or connect to a payment provider. Microsoft 365, SharePoint, custom-domain email and fine-grained administrator roles are roadmap work, not live integrations.
+
+**Role:** programme and technical lead under SolarSpin Technologies; stakeholder discovery, political and organisational research, platform architecture, information design, UX/UI, full-stack engineering, PWA and mobile hardening, data-boundary design, Cloudflare delivery, operational controls and implementation-roadmap direction.
+
+**[Open the live experience ↗](https://pdm-namibia.pages.dev/)** · **[Inspect the public case study ↗](https://github.com/freeman-ipumbu/pdm-namibia-case-study)**
 
 ## Latest client launch: NAILED & Lashed by Mona
 
@@ -146,9 +170,10 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
   <tr>
     <td colspan="2" valign="top">
       <img src="assets/pdm-namibia-hq.png" alt="PDM Namibia community banner in the movement's blue, red and white identity" width="100%">
-      <h3>PDM Namibia: Move Namibia Forward</h3>
-      <p>A cinematic, source-grounded and installable national political experience bringing PDM’s history, Top 9, policies, parliamentary work, news, events, structures and membership pathways into one unmistakably PDM digital identity.</p>
-      <p><b>Role:</b> political and organisational research, identity translation, information architecture, art direction, UX/UI, frontend engineering, motion design, PWA engineering, mobile hardening, accessibility and Cloudflare Pages deployment.</p>
+      <h3>PDM Namibia: a national digital participation platform</h3>
+      <p>The live website gives PDM a cinematic, source-grounded and installable public identity across leadership, policy, Parliament, structures, media, events and membership. A release-gated private implementation extends the platform with structured civic intake, an evidence-backed national presence map, office and authority records, staff review workflows and party-asset lifecycle tracking.</p>
+      <p><b>Public boundary:</b> the live experience and public case study are inspectable; production source remains private. Payments, Microsoft 365, SharePoint and fine-grained staff roles are not presented as live.</p>
+      <p><b>Role:</b> SolarSpin programme leadership, stakeholder discovery, political and organisational research, platform and data architecture, information design, art direction, UX/UI, full-stack engineering, motion and PWA engineering, mobile hardening, operational safeguards and Cloudflare delivery.</p>
       <p><a href="https://pdm-namibia.pages.dev/"><b>Live experience ↗</b></a> · <a href="https://github.com/freeman-ipumbu/pdm-namibia-case-study">Public case study ↗</a></p>
     </td>
   </tr>
@@ -381,7 +406,7 @@ AI is part of the toolchain. Judgment, accountability and final ownership remain
 
 ## Open channel
 
-I am open to conversations around financial technology, resilient infrastructure, product architecture, network security, design science research and ambitious systems capable of creating practical value in Namibia.
+I am open to conversations around financial technology, civic and institutional platforms, resilient infrastructure, product architecture, network security, design science research and ambitious systems capable of creating practical value in Namibia.
 
 | Route | Address |
 |---|---|
