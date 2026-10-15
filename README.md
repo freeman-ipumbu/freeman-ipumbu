@@ -38,7 +38,7 @@ My chapter at **The Free Press of Namibia / The Namibian / Namibia Media Trust**
 | The complete body of work | **[Interactive portfolio](https://freeman-ipumbu.pages.dev/)** |
 | The company now holding the universe together | **[SolarSpin Technologies](https://solarspin-namibia.pages.dev/)** |
 | Current institutional programme | **[PDM Namibia live experience](https://pdm-namibia.pages.dev/)** · [public case study](https://github.com/freeman-ipumbu/pdm-namibia-case-study) |
-| Latest client launch | **[NAILED & Lashed by Mona](https://monaluxe.pages.dev/)** · [public case study](https://freeman-ipumbu.github.io/monaluxe-case-study/) |
+| Latest client launch | **[JB.Braids](https://jb-braids.pages.dev/)** · [public case study](https://github.com/freeman-ipumbu/jb-braids-case-study) |
 | Current product and systems thinking | **[Anonymous fuel-retail platform case study](https://github.com/freeman-ipumbu/fuel-retail-digital-platform-case-study)** |
 | Research method and published evidence | **[IT Handover Continuance](https://doi.org/10.5281/zenodo.21840440)** |
 | Product decisions without exposing private production code | **[Public case-study repositories](https://github.com/freeman-ipumbu?tab=repositories)** |
@@ -100,7 +100,23 @@ The live experience establishes the public direction: a cinematic, source-ground
 
 **[Open the live experience ↗](https://pdm-namibia.pages.dev/)** · **[Inspect the public case study ↗](https://github.com/freeman-ipumbu/pdm-namibia-case-study)**
 
-## Latest client launch: NAILED & Lashed by Mona
+## Latest client launch: JB.Braids
+
+<p align="center">
+  <a href="https://jb-braids.pages.dev/"><img src="assets/jb-braids-launch.webp" alt="JB.Braids monochrome editorial booking experience for Jessica Autoni in Windhoek" width="100%"></a>
+</p>
+
+**JB.Braids** is a live, installable booking flagship and private studio system for Windhoek hairstylist Jessica Autoni. It translates a founder-led home studio with a strong Instagram and TikTok audience into a focused monochrome experience where the hair—not a template—owns the colour.
+
+The public journey combines a curated home edit, complete gallery and price list, 7–90 day availability, home-studio, house-call and away-call booking, Namibia-only contact validation, server-calculated pricing and 50% deposits, optional map pins and custom requests, and the **Crown Club** return-client reward system. Jessica's authenticated studio desk manages bookings, proof review, pricing, availability, client history, rewards and referrals without exposing private production data.
+
+The deployed release completed its production verification gate at **110 passed · 0 failed**, with desktop and compact-mobile visual review, collision protection, daily capacity controls, private payment-proof storage and a truthful offline boundary around the live booking desk.
+
+**Role:** research and content audit, product strategy, identity and logo refinement, art direction, service and pricing architecture, loyalty design, UX/UI, motion, full-stack engineering, booking integrity, PWA engineering, Cloudflare deployment, QA and owner handover.
+
+**[Enter the live experience ↗](https://jb-braids.pages.dev/)** · **[Inspect the public case study ↗](https://github.com/freeman-ipumbu/jb-braids-case-study)**
+
+## Beauty operations precedent: NAILED & Lashed by Mona
 
 <p align="center">
   <a href="https://monaluxe.pages.dev/"><img src="assets/monaluxe-card.webp" alt="Enhanced NAILED and Lashed by Mona logo in its pearl, blush and salon-gold identity" width="100%"></a>
