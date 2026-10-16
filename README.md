@@ -35,8 +35,9 @@ My chapter at **The Free Press of Namibia / The Namibian / Namibia Media Trust**
 
 | What you want to inspect | Best entry point |
 |---|---|
-| The complete body of work | **[Interactive portfolio](https://freeman-ipumbu.pages.dev/)** |
+| The complete body of work | **[29-project interactive portfolio](https://freeman-ipumbu.pages.dev/)** |
 | The company now holding the universe together | **[SolarSpin Technologies](https://solarspin-namibia.pages.dev/)** |
+| Current TPTS platform launch | **[TPTS Grid](https://tpts-grid.pages.dev/)** · [public case study](https://github.com/freeman-ipumbu/tpts-grid-case-study) |
 | Current institutional programme | **[PDM Namibia live experience](https://pdm-namibia.pages.dev/)** · [public case study](https://github.com/freeman-ipumbu/pdm-namibia-case-study) |
 | Latest client launch | **[JB.Braids](https://jb-braids.pages.dev/)** · [public case study](https://github.com/freeman-ipumbu/jb-braids-case-study) |
 | Current product and systems thinking | **[Anonymous fuel-retail platform case study](https://github.com/freeman-ipumbu/fuel-retail-digital-platform-case-study)** |
@@ -45,13 +46,39 @@ My chapter at **The Free Press of Namibia / The Namibian / Namibia Media Trust**
 | Namibian football data and its original sources | **[KICKOFF NAM](https://kickoff-nam.pages.dev/)** |
 | A direct conversation | **[LinkedIn](https://www.linkedin.com/in/freeman-paul-ipumbu/)** or **[email](mailto:freeman.ipumbu@outlook.com)** |
 
+## 29 selected projects, one evidence trail
+
+The interactive portfolio now curates **29 selected builds**. Five records complete this edition while keeping their present operating boundaries visible:
+
+| Project | Public status | Inspect |
+|---|---|---|
+| **TPTS Grid** | Live discovery and host-onboarding pilot; destination anchors are not bookable inventory, applications do not self-publish, and commercial activation remains gated | [Pilot](https://tpts-grid.pages.dev/) · [case study](https://github.com/freeman-ipumbu/tpts-grid-case-study) |
+| **Namibia FinePay** | Illustrative public system case study; it takes no payments, queries no notices and connects to no institution | [Case study](https://namibia-finepay-case-study.pages.dev/) · [repository](https://github.com/freeman-ipumbu/namibia-finepay-case-study) |
+| **Soek.Iets** | Access-code-controlled Windhoek test pilot; platform trade completion, reputation, regulated payment, OTP handover and integrated delivery are not active | [Test pilot](https://soek-iets.pages.dev/) · [public use case](https://github.com/freeman-ipumbu/soek-iets-use-case) |
+| **Stephanie Madl Portfolio** | Live editorial portfolio for a Namibian travel specialist and remote-administration professional | [Live portfolio](https://stephanie-madl.pages.dev/) |
+| **SolarSpin Digital Headquarters** | Live company home and project observatory with a separate public build record | [Live experience](https://solarspin-namibia.pages.dev/) · [build record](https://github.com/freeman-ipumbu/solarspin-website-case-study) |
+
+The other 24 selected systems and experiences remain in the [interactive portfolio](https://freeman-ipumbu.pages.dev/#builds). The detailed evidence below expands the major current programmes without exposing production source, credentials or protected operational data.
+
 ## TPTS Namibia: technical leadership in motion
+
+My present professional chapter leads from **TPTS Namibia**, where I serve as Technical Director. The work sits at the point where financial technology, operational accountability, secure system design and institutional readiness meet.
+
+### Current platform: TPTS Grid
+
+**TPTS Grid** is a Namibia-first travel network built around the journey, not only the room. Its live pilot lets travellers compose, reorder, save and share their own routes across 21 public destination anchors on a real map, while independent properties can apply directly to join a human-verification queue.
+
+The trust boundary is visible by design: destination anchors are not presented as bookable properties, host applications do not publish themselves, and commercial inventory, merchant payments and third-party travel channels activate only after their own supply, credential and approval gates are satisfied.
+
+**Role:** technical direction and product architecture through TPTS Namibia; map-led experience strategy, booking and onboarding boundaries, product engineering and release framing. **A Digital Experience by [SolarSpin Technologies](https://solarspin-namibia.pages.dev/).**
+
+**[Enter the live pilot ↗](https://tpts-grid.pages.dev/)** · **[Inspect the public case study ↗](https://github.com/freeman-ipumbu/tpts-grid-case-study)**
+
+### Financial-systems proof: Namibia FinePay
 
 <p align="center">
   <a href="https://namibia-finepay-case-study.pages.dev/"><img src="assets/finepay-case-study.svg" alt="Namibia FinePay public system case study led through TPTS Namibia" width="100%"></a>
 </p>
-
-My present professional chapter leads from **TPTS Namibia**, where I serve as Technical Director. The work sits at the point where financial technology, operational accountability, secure system design and institutional readiness meet.
 
 **FinePay** is one public illustration of that discipline. It follows a traffic-fine journey from notice through payment, settlement and authority acknowledgement using one traceable reference. Seven purposeful surfaces make the responsibilities visible across motorists, operations, finance and participating authorities.
 

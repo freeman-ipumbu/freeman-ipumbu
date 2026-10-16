@@ -18,10 +18,23 @@ function pngSize(relativePath) {
 
 assert(readme.includes('## Current flagship: one Runnerz ecosystem'), 'current flagship section is missing');
 assert(readme.includes('Technical Director, TPTS Namibia'), 'TPTS must lead the current command');
+assert(readme.includes('## 29 selected projects, one evidence trail'), '29-project portfolio catalogue is missing');
+assert(readme.includes('29-project interactive portfolio'), '29-project portfolio count is missing from Start here');
+assert(readme.includes('https://tpts-grid.pages.dev/'), 'TPTS Grid pilot link is missing');
+assert(readme.includes('https://github.com/freeman-ipumbu/tpts-grid-case-study'), 'TPTS Grid public case study is missing');
+assert(readme.includes('destination anchors are not bookable inventory'), 'TPTS Grid inventory boundary is missing');
 assert(readme.includes('assets/finepay-case-study.svg'), 'TPTS-led FinePay proof is missing');
 assert(readme.includes('namibia-finepay-case-study'), 'FinePay public evidence links are missing');
+assert(readme.includes('takes no payments, queries no notices and connects to no institution'), 'FinePay public-demo boundary is missing');
+assert(readme.includes('https://soek-iets.pages.dev/'), 'Soek.Iets test-pilot link is missing');
+assert(readme.includes('https://github.com/freeman-ipumbu/soek-iets-use-case'), 'Soek.Iets public use case is missing');
+assert(readme.includes('regulated payment, OTP handover and integrated delivery are not active'), 'Soek.Iets inactive rails are missing');
+assert(readme.includes('Stephanie Madl Portfolio'), 'Stephanie Madl portfolio record is missing');
+assert(readme.includes('https://stephanie-madl.pages.dev/'), 'Stephanie Madl live portfolio is missing');
 assert(readme.includes('Founder and CEO, SolarSpin Technologies'), 'SolarSpin founder identity is missing');
 assert(readme.includes('assets/solarspin-company.svg'), 'SolarSpin visual identity is missing');
+assert(readme.includes('SolarSpin Digital Headquarters'), 'SolarSpin headquarters record is missing');
+assert(readme.includes('https://github.com/freeman-ipumbu/solarspin-website-case-study'), 'SolarSpin public build record is missing');
 assert(readme.includes('assets/fuel-retail-platform.svg'), 'fuel-retail case-study artwork is missing');
 assert(readme.includes('fuel-retail-digital-platform-case-study'), 'fuel-retail case-study link is missing');
 assert(readme.includes('assets/pdm-namibia-hq.png'), 'PDM project banner is missing');
