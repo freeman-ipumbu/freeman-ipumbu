@@ -43,12 +43,13 @@ assert(readme.includes('manage bookings, clients, money, loyalty, training, serv
 assert(readme.includes('installable as a PWA on mobile and desktop'), 'Mona Luxe PWA scope is missing');
 assert((readme.match(/assets\/monaluxe-card\.webp/g) || []).length === 1, 'Mona Luxe card should appear exactly once');
 assert(readme.includes('## Latest client launch: JB.Braids'), 'JB.Braids launch section is missing');
-assert(readme.includes('assets/jb-braids-launch.webp'), 'JB.Braids launch artwork is missing');
+assert(readme.includes('assets/jb-braids-launch-final.webp'), 'JB.Braids final launch artwork is missing');
 assert(readme.includes('https://jb-braids.pages.dev/'), 'JB.Braids live experience link is missing');
 assert(readme.includes('https://github.com/freeman-ipumbu/jb-braids-case-study'), 'JB.Braids public case-study link is missing');
 assert(readme.includes('Crown Club'), 'JB.Braids return-client system is missing');
-assert(readme.includes('110 passed · 0 failed'), 'JB.Braids release verification is missing');
-assert((readme.match(/assets\/jb-braids-launch\.webp/g) || []).length === 1, 'JB.Braids artwork should appear exactly once');
+assert(readme.includes('133 passed · 0 failed'), 'JB.Braids release verification is missing');
+assert(readme.includes('12-look gallery, six original studio films'), 'JB.Braids final media curation is missing');
+assert((readme.match(/assets\/jb-braids-launch-final\.webp/g) || []).length === 1, 'JB.Braids final artwork should appear exactly once');
 assert(readme.includes('assets/ecc-command.svg'), 'ECC Command project banner is missing');
 assert(readme.includes('assets/rightmatch.png'), 'RightMatch project banner is missing');
 assert(readme.includes('assets/kickoff-nam.png'), 'KICKOFF NAM project banner is missing');

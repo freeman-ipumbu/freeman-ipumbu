@@ -103,14 +103,14 @@ The live experience establishes the public direction: a cinematic, source-ground
 ## Latest client launch: JB.Braids
 
 <p align="center">
-  <a href="https://jb-braids.pages.dev/"><img src="assets/jb-braids-launch.webp" alt="JB.Braids monochrome editorial booking experience for Jessica Autoni in Windhoek" width="100%"></a>
+  <a href="https://jb-braids.pages.dev/"><img src="assets/jb-braids-launch-final.webp" alt="JB.Braids final monochrome editorial booking experience with Jessica Autoni and her hair artistry" width="100%"></a>
 </p>
 
-**JB.Braids** is a live, installable booking flagship and private studio system for Windhoek hairstylist Jessica Autoni. It translates a founder-led home studio with a strong Instagram and TikTok audience into a focused monochrome experience where the hair—not a template—owns the colour.
+**JB.Braids** is a live, installable booking flagship and private studio system for Windhoek hairstylist Jessica Autoni. The final release gives Jessica a clear founder presence and turns her audience, real client work and new studio footage into a focused monochrome experience where the hair—not a template—owns the colour.
 
-The public journey combines a curated home edit, complete gallery and price list, 7–90 day availability, home-studio, house-call and away-call booking, Namibia-only contact validation, server-calculated pricing and 50% deposits, optional map pins and custom requests, and the **Crown Club** return-client reward system. Jessica's authenticated studio desk manages bookings, proof review, pricing, availability, client history, rewards and referrals without exposing private production data.
+The public journey combines a tightly edited home experience, a 12-look gallery, six original studio films, a complete price list, 7–90 day availability, home-studio, house-call and away-call booking, Namibia-only contact validation, server-calculated pricing and 50% deposits, optional map pins and custom requests, and the **Crown Club** return-client reward system. Jessica's authenticated studio desk manages bookings, proof review, pricing, availability, client history, rewards and referrals without exposing private production data.
 
-The deployed release completed its production verification gate at **110 passed · 0 failed**, with desktop and compact-mobile visual review, collision protection, daily capacity controls, private payment-proof storage and a truthful offline boundary around the live booking desk.
+The deployed release completed its production verification gate at **133 passed · 0 failed**, backed by desktop, mobile and compact-landscape visual review, metadata and social-card validation, collision protection, daily capacity controls, private payment-proof storage and a truthful offline boundary around the live booking desk.
 
 **Role:** research and content audit, product strategy, identity and logo refinement, art direction, service and pricing architecture, loyalty design, UX/UI, motion, full-stack engineering, booking integrity, PWA engineering, Cloudflare deployment, QA and owner handover.
 
