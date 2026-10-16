@@ -66,11 +66,11 @@ My present professional chapter leads from **TPTS Namibia**, where I serve as Te
 
 ### Current platform: TPTS Grid
 
-**TPTS Grid** is a Namibia-first travel network built around the journey, not only the room. Its live pilot lets travellers compose, reorder, save and share their own routes across 21 public destination anchors on a real map, while independent properties can apply directly to join a human-verification queue.
+**TPTS Grid** is a Namibia-first travel network built around the journey, not only the room. Its live pilot now brings 21 public destination anchors and 28 factual stay records into one Grid Navigator with **Discover, Build and Stays** lenses. Travellers can compose, reorder, save and share their own routes without losing geographic context, while independent properties can apply directly to join a human-verification queue.
 
 The trust boundary is visible by design: destination anchors are not presented as bookable properties, host applications do not publish themselves, and commercial inventory, merchant payments and third-party travel channels activate only after their own supply, credential and approval gates are satisfied.
 
-**Role:** technical direction and product architecture through TPTS Namibia; map-led experience strategy, booking and onboarding boundaries, product engineering and release framing. **A Digital Experience by [SolarSpin Technologies](https://solarspin-namibia.pages.dev/).**
+**Role:** technical direction and product architecture through TPTS Namibia; one-map information architecture, map-led experience strategy, booking and onboarding boundaries, product engineering and release framing. **A Digital Experience by [SolarSpin Technologies](https://solarspin-namibia.pages.dev/).**
 
 **[Enter the live pilot ↗](https://tpts-grid.pages.dev/)** · **[Inspect the public case study ↗](https://github.com/freeman-ipumbu/tpts-grid-case-study)**
 
