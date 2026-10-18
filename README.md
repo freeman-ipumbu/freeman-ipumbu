@@ -52,7 +52,7 @@ The interactive portfolio now curates **29 selected builds**. Five records compl
 
 | Project | Public status | Inspect |
 |---|---|---|
-| **TPTS Grid** | Live discovery and host-onboarding pilot; destination anchors are not bookable inventory, applications do not self-publish, and commercial activation remains gated | [Pilot](https://tpts-grid.pages.dev/) · [case study](https://github.com/freeman-ipumbu/tpts-grid-case-study) |
+| **TPTS Grid** | Live route-intelligence and host-intake experience; public stay records are discovery context, applications do not self-publish, and booking, payment and external-channel activation remain gated | [Experience](https://tpts-grid.pages.dev/) · [case study](https://github.com/freeman-ipumbu/tpts-grid-case-study) |
 | **Namibia FinePay** | Illustrative public system case study; it takes no payments, queries no notices and connects to no institution | [Case study](https://namibia-finepay-case-study.pages.dev/) · [repository](https://github.com/freeman-ipumbu/namibia-finepay-case-study) |
 | **Soek.Iets** | Access-code-controlled Windhoek test pilot; platform trade completion, reputation, regulated payment, OTP handover and integrated delivery are not active | [Test pilot](https://soek-iets.pages.dev/) · [public use case](https://github.com/freeman-ipumbu/soek-iets-use-case) |
 | **Stephanie Madl Portfolio** | Live editorial portfolio for a Namibian travel specialist and remote-administration professional | [Live portfolio](https://stephanie-madl.pages.dev/) |
@@ -66,13 +66,17 @@ My present professional chapter leads from **TPTS Namibia**, where I serve as Te
 
 ### Current platform: TPTS Grid
 
-**TPTS Grid** is a Namibia-first travel network built around the journey, not only the room. Its live pilot now brings 21 public destination anchors and 28 factual stay records into one Grid Navigator with **Discover, Build and Stays** lenses. Travellers can compose, reorder, save and share their own routes without losing geographic context, while independent properties can apply directly to join a human-verification queue.
+<p align="center">
+  <a href="https://tpts-grid.pages.dev/"><img src="https://freeman-ipumbu.pages.dev/projects/tpts-grid-route-studio-live.jpg" alt="TPTS Grid route composer and shared MapLibre journey workspace" width="100%"></a>
+</p>
 
-The trust boundary is visible by design: destination anchors are not presented as bookable properties, host applications do not publish themselves, and commercial inventory, merchant payments and third-party travel channels activate only after their own supply, credential and approval gates are satisfied.
+**TPTS Grid** is a Namibia-first travel network built around the journey, not only the room. One interactive Grid Navigator carries travellers from destination discovery into a custom, reorderable route, route intelligence and a factual stays directory without multiplying maps or losing geographic context. Its current visual system lets the road, desert, coast, wildlife and river regions tell the Namibia story, while independent properties can claim or apply for a listing through a human-verification queue.
 
-**Role:** technical direction and product architecture through TPTS Namibia; one-map information architecture, map-led experience strategy, booking and onboarding boundaries, product engineering and release framing. **A Digital Experience by [SolarSpin Technologies](https://solarspin-namibia.pages.dev/).**
+The trust boundary is visible by design: public stay records are discovery context rather than confirmed live room inventory; host applications cannot publish themselves; and booking, merchant-payment and external-channel activation remain gated until their respective commercial and partner approvals are complete.
 
-**[Enter the live pilot ↗](https://tpts-grid.pages.dev/)** · **[Inspect the public case study ↗](https://github.com/freeman-ipumbu/tpts-grid-case-study)**
+**Role:** technical direction and product architecture through TPTS Namibia; one-map information architecture, route-intelligence design, Namibian editorial direction, booking and onboarding boundaries, product engineering and release framing. **A Digital Experience by [SolarSpin Technologies](https://solarspin-namibia.pages.dev/).**
+
+**[Explore TPTS Grid ↗](https://tpts-grid.pages.dev/)** · **[Inspect the public case study ↗](https://github.com/freeman-ipumbu/tpts-grid-case-study)**
 
 ### Financial-systems proof: Namibia FinePay
 
