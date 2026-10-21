@@ -39,7 +39,8 @@ My chapter at **The Free Press of Namibia / The Namibian / Namibia Media Trust**
 | The company now holding the universe together | **[SolarSpin Technologies](https://solarspin-namibia.pages.dev/)** |
 | Current TPTS platform launch | **[TPTS Grid](https://tpts-grid.pages.dev/)** · [public case study](https://github.com/freeman-ipumbu/tpts-grid-case-study) |
 | Current institutional programme | **[PDM Namibia live experience](https://pdm-namibia.pages.dev/)** · [public case study](https://github.com/freeman-ipumbu/pdm-namibia-case-study) |
-| Latest client launch | **[JB.Braids](https://jb-braids.pages.dev/)** · [public case study](https://github.com/freeman-ipumbu/jb-braids-case-study) |
+| Current client commerce platform | **[Ontoko Foods](https://ontoko-foods.pages.dev/)** · [public case study](https://github.com/freeman-ipumbu/ontoko-foods-case-study) |
+| Recent beauty client launch | **[JB.Braids](https://jb-braids.pages.dev/)** · [public case study](https://github.com/freeman-ipumbu/jb-braids-case-study) |
 | Current product and systems thinking | **[Anonymous fuel-retail platform case study](https://github.com/freeman-ipumbu/fuel-retail-digital-platform-case-study)** |
 | Research method and published evidence | **[IT Handover Continuance](https://doi.org/10.5281/zenodo.21840440)** |
 | Product decisions without exposing private production code | **[Public case-study repositories](https://github.com/freeman-ipumbu?tab=repositories)** |
@@ -131,7 +132,7 @@ The live experience establishes the public direction: a cinematic, source-ground
 
 **[Open the live experience ↗](https://pdm-namibia.pages.dev/)** · **[Inspect the public case study ↗](https://github.com/freeman-ipumbu/pdm-namibia-case-study)**
 
-## Latest client launch: JB.Braids
+## Recent beauty client launch: JB.Braids
 
 <p align="center">
   <a href="https://jb-braids.pages.dev/"><img src="assets/jb-braids-linework-2026.webp" alt="JB.Braids black-and-white line-art identity and booking experience for Jessica Autoni" width="100%"></a>
@@ -271,10 +272,12 @@ UNIFIED 20.0 **Signal Command** turns the top-left brand mark into a working Com
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <img src="assets/ontoko-foods.jpg" alt="Authentic Ontoko Foods egg packaging presented in the renewed product photography system" width="100%">
+      <img src="assets/ontoko-order-platform.jpg" alt="Ontoko Foods live egg-order experience with Jane Auala, fresh eggs and a clear order summary" width="100%">
       <h3>Ontoko Foods</h3>
-      <p>A premium, founder-led digital home for Jane Auala’s growing agricultural business. It brings Ontoko’s real identity, editorial product imagery, farm archive and food-security purpose together in one unmistakably Namibian experience.</p>
-      <p><b>Role:</b> public-source research, story architecture, brand translation, product art direction, UX/UI, frontend engineering, interaction design, mobile hardening, accessibility and Cloudflare launch.</p>
+      <p>A live, installable egg-order and enquiry request system for Jane Auala’s woman-led Groot Aub food business. The experience brings Ontoko’s real identity, enhanced farm imagery, founder story and privacy-conscious official growth film together with a device-private return-client profile, OpenStreetMap delivery pinning and a protected admin order desk.</p>
+      <p><b>Current commerce boundary:</b> cash requests are live, and every order or enquiry remains subject to Jane or her team’s confirmation. EFT / Pay by Bank, Google Pay and Apple Pay remain payment preferences and activation-ready OneGate-hosted methods—not live processing—until Ontoko receives its own payment-capable merchant organisation and confirmed settlement configuration. The website does not receive or store bank, card or wallet credentials.</p>
+      <p><b>Operations:</b> Jane’s protected admin corner supports order review, fulfilment status, exports, admin-confirmed totals, secure payment-link creation and verified payment status without exposing private production data.</p>
+      <p><b>Role:</b> public-source research, story architecture, brand translation, product art direction, UX/UI, motion, full-stack engineering, order and admin workflow design, map UX, payment-readiness architecture, PWA engineering, security hardening, Cloudflare Pages Functions and KV, QA and launch.</p>
       <p><a href="https://ontoko-foods.pages.dev/"><b>Live website ↗</b></a> · <a href="https://github.com/freeman-ipumbu/ontoko-foods-case-study">Public case study ↗</a></p>
     </td>
   </tr>
