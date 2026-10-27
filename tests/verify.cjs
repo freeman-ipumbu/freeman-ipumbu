@@ -22,7 +22,7 @@ assert(readme.includes('## 29 selected projects, one evidence trail'), '29-proje
 assert(readme.includes('29-project interactive portfolio'), '29-project portfolio count is missing from Start here');
 assert(readme.includes('https://tpts-grid.pages.dev/'), 'TPTS Grid pilot link is missing');
 assert(readme.includes('https://github.com/freeman-ipumbu/tpts-grid-case-study'), 'TPTS Grid public case study is missing');
-assert(readme.includes('destination anchors are not bookable inventory'), 'TPTS Grid inventory boundary is missing');
+assert(readme.includes('public stay records are discovery context rather than confirmed live room inventory'), 'TPTS Grid inventory boundary is missing');
 assert(readme.includes('assets/finepay-case-study.svg'), 'TPTS-led FinePay proof is missing');
 assert(readme.includes('namibia-finepay-case-study'), 'FinePay public evidence links are missing');
 assert(readme.includes('takes no payments, queries no notices and connects to no institution'), 'FinePay public-demo boundary is missing');
@@ -61,7 +61,7 @@ assert(readme.includes('assets/jb-braids-linework-2026.webp'), 'JB.Braids final 
 assert(readme.includes('https://jb-braids.pages.dev/'), 'JB.Braids live experience link is missing');
 assert(readme.includes('https://github.com/freeman-ipumbu/jb-braids-case-study'), 'JB.Braids public case-study link is missing');
 assert(readme.includes('Crown Club'), 'JB.Braids return-client system is missing');
-assert(readme.includes('143 passed · 0 failed'), 'JB.Braids release verification is missing');
+assert(readme.includes('146 passed · 0 failed'), 'JB.Braids release verification is missing');
 assert(readme.includes('12-look gallery, six original studio films'), 'JB.Braids final media curation is missing');
 assert((readme.match(/assets\/jb-braids-linework-2026\.webp/g) || []).length === 1, 'JB.Braids final artwork should appear exactly once');
 assert(readme.includes('| Current client commerce platform | **[Ontoko Foods](https://ontoko-foods.pages.dev/)**'), 'Ontoko current commerce entry is missing');
