@@ -39,6 +39,7 @@ const catalogue = [
   'Dream High Learning Institute',
   'Stephanie Madl Portfolio',
   'IT Handover Continuance',
+  'Career Arc Lab',
   'SolarSpin digital headquarters',
   'Freeman technical portfolio'
 ];
@@ -49,11 +50,12 @@ assert(readme.includes('Technical Director, TPTS Namibia'), 'TPTS must lead the 
 assert(readme.includes('Founder and CEO, SolarSpin Technologies'), 'SolarSpin founder role is missing');
 assert(readme.includes('Founder and CEO, Runnerz Namibia'), 'Runnerz founder role is missing');
 assert(readme.includes('Co-Founder and CTO, RightMatch Namibia'), 'RightMatch founder role is missing');
-assert(readme.includes('## Thirty systems. One evidence trail.'), '30-system catalogue heading is missing');
+assert(readme.includes('## Thirty-one systems. One evidence trail.'), '31-system catalogue heading is missing');
 assert(readme.includes('Owned universe · 04 systems'), 'owned-universe count is missing');
 assert(readme.includes('Command and operations · 12 systems'), 'command count is missing');
 assert(readme.includes('Digital experiences · 11 systems'), 'experience count is missing');
-assert(readme.includes('Research and build records · 03 systems'), 'evidence count is missing');
+assert(readme.includes('Research and build records · 04 systems'), 'evidence count is missing');
+assert(readme.includes('https://github.com/freeman-ipumbu/career-arc-lab-case-study'), 'Career Arc Lab public case study is missing');
 assert(readme.includes('Public Atlas'), 'SolarSpin Public Atlas is missing');
 assert(readme.includes('Gravity Table'), 'SolarSpin Gravity Table is missing');
 assert(readme.includes('TPTS owns the platform'), 'TPTS ownership boundary is missing');

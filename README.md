@@ -78,9 +78,9 @@ Runnerz turns the run into a living system: route guidance, accepted-fix GPS har
 
 **[Enter Runnerz ↗](https://runnerznamibia.com/)** · **[Runnerz engineering record ↗](https://github.com/freeman-ipumbu/runnerz-android-case-study)** · **[UNIFIED engineering record ↗](https://github.com/freeman-ipumbu/unified-music-case-study)**
 
-## Thirty systems. One evidence trail.
+## Thirty-one systems. One evidence trail.
 
-The full body of work is best experienced in the **[interactive portfolio](https://freeman-ipumbu.pages.dev/#builds)** or through SolarSpin’s **[Public Atlas](https://www.solarspin-namibia.xyz/#work)**. The catalogue below keeps every public claim, operating boundary and inspection route in one place without turning this profile into thirty repeated case studies.
+The full body of work is best experienced in the **[interactive portfolio](https://freeman-ipumbu.pages.dev/#builds)** or through SolarSpin’s **[Public Atlas](https://www.solarspin-namibia.xyz/#work)**. The catalogue below keeps every public claim, operating boundary and inspection route in one place without turning this profile into thirty-one repeated case studies.
 
 <details open>
 <summary><strong>Owned universe · 04 systems</strong></summary>
@@ -134,11 +134,12 @@ The full body of work is best experienced in the **[interactive portfolio](https
 </details>
 
 <details>
-<summary><strong>Research and build records · 03 systems</strong></summary>
+<summary><strong>Research and build records · 04 systems</strong></summary>
 
 | Record | Current signal | Inspect |
 |---|---|---|
 | **IT Handover Continuance** | Published, DOI-backed design science research | [Published record](https://doi.org/10.5281/zenodo.21840440) · [repository](https://github.com/freeman-ipumbu/it-handover-continuance-dsr) |
+| **Career Arc Lab** | Live explainable career-route and 30-day proof-sprint pilot; no employment or income outcomes claimed | [Live pilot](https://career-arc-lab.onrender.com/) · [public case study](https://github.com/freeman-ipumbu/career-arc-lab-case-study) |
 | **SolarSpin digital headquarters** | Live company experience with a public build record | [Headquarters](https://www.solarspin-namibia.xyz/) · [build record](https://github.com/freeman-ipumbu/solarspin-website-case-study) |
 | **Freeman technical portfolio** | Live career and project evidence system | [Portfolio](https://freeman-ipumbu.pages.dev/) |
 
@@ -188,4 +189,4 @@ You can also find me on **[LinkedIn](https://www.linkedin.com/in/freeman-paul-ip
 
 <p align="center"><strong>Built from Windhoek. Tested against reality.</strong></p>
 
-<p align="center"><sub>Thirty systems across owned products, command and operations, digital experiences, research and public build records. Production boundaries remain explicit.</sub></p>
+<p align="center"><sub>Thirty-one systems across owned products, command and operations, digital experiences, research and public build records. Production boundaries remain explicit.</sub></p>
