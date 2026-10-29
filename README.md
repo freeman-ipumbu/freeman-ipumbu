@@ -149,7 +149,7 @@ The full body of work is best experienced in the **[interactive portfolio](https
 
 | Chapter | What it taught me |
 |---|---|
-| **MTC Namibia** | Telecom operations, incident pressure, network discipline and service continuity |
+| **Paratus Telecommunications** | NOC Support Engineer L1 (April 2017–September 2018): telecom network operations, incident response, service continuity and disciplined handover |
 | **Offshore and marine ICT** | Remote support, constrained connectivity, safety context and precise handover |
 | **The Namibian / Namibia Media Trust / The Free Press of Namibia** | Enterprise systems, security, newsroom continuity, public-interest technology and institutional stewardship |
 | **Design science research** | How to turn a recurring organisational failure into an evaluated artefact rather than another memo |
