@@ -74,9 +74,19 @@ An installable food-and-commerce experience for Jane Auala’s Groot Aub farm. R
   <a href="https://github.com/freeman-ipumbu/runnerz-android-case-study"><img src="assets/runnerz-1.1.0.png" width="100%" alt="Runnerz Namibia controlled field release and UNIFIED Music relay"></a>
 </p>
 
-Runnerz turns the run into a living system: route guidance, accepted-fix GPS hardening, movement metrics, history, banked miles, broad-area discovery and a deliberate music handoff. **UNIFIED Music** is its privacy-conscious, local-first companion with a protected library, queue intelligence, movement-aware spaces and a signed Runnerz relay. Exact trails stay local. Controlled candidates are never described here as public-production releases.
+Runnerz turns the run into a living system: route guidance, accepted-fix GPS hardening, movement metrics, history, banked miles, broad-area discovery and a deliberate music handoff. **UNIFIED Music 50.0 — Deep Current** expands that local-first companion into a personal music studio: Living Lyrics with live following and refined Inter typography, Editorial / Orbit / Afterhours share cards, a living Pulseprint, Tag Studio, folder-based music sources and a signed Runnerz relay. Build 56 is installed on the test handset; the worldwide Google Play closed test currently distributes the earlier 20.0 release. Exact trails stay local. Controlled candidates are never described here as public-production releases.
 
 **[Enter Runnerz ↗](https://runnerznamibia.com/)** · **[Runnerz engineering record ↗](https://github.com/freeman-ipumbu/runnerz-android-case-study)** · **[UNIFIED engineering record ↗](https://github.com/freeman-ipumbu/unified-music-case-study)**
+
+### UNIFIED 50.0 Deep Current
+
+<p align="center">
+  <a href="https://github.com/freeman-ipumbu/unified-music-case-study"><img src="https://raw.githubusercontent.com/freeman-ipumbu/unified-music-case-study/main/assets/unified-50-studio-editions.jpg" width="100%" alt="UNIFIED Signal Studio native Editorial, Orbit and Afterhours exports with original demonstration artwork"></a>
+</p>
+
+Your music, words and listening memory in one private system. Living Lyrics follows the playback clock; Signal Studio makes high-resolution images worth sharing; Tag Studio edits actual file metadata; Music sources keeps folder exceptions under the listener’s control without hiding short skits or interludes. Android Auto surfaces, a Wear OS companion, Google Drive Capsules and Nearby Signal Drop extend the player beyond the screen, with hardware acceptance tracked separately.
+
+**[Explore the v50 case study ↗](https://github.com/freeman-ipumbu/unified-music-case-study)** · **[Join worldwide testers ↗](https://groups.google.com/g/unified-music-worldwide)** · **[Then opt into Google Play ↗](https://play.google.com/apps/testing/com.unified.music)**
 
 ## Thirty-one systems. One evidence trail.
 
@@ -88,7 +98,7 @@ The full body of work is best experienced in the **[interactive portfolio](https
 | System | Current signal | Inspect |
 |---|---|---|
 | **Runnerz Namibia** | Controlled release; public web live, Android candidate controlled | [Experience](https://runnerznamibia.com/) · [engineering record](https://github.com/freeman-ipumbu/runnerz-android-case-study) |
-| **UNIFIED Music** | Namibia alpha; local-first music system and Runnerz relay | [Ecosystem](https://runnerznamibia.com/#official-music-player) · [engineering record](https://github.com/freeman-ipumbu/unified-music-case-study) |
+| **UNIFIED Music** | 50.0 Deep Current candidate; worldwide closed testing on Play | [Ecosystem](https://runnerznamibia.com/#official-music-player) · [engineering record](https://github.com/freeman-ipumbu/unified-music-case-study) |
 | **RightMatch Namibia** | Controlled pilot; trust-first vehicle access | [Experience](https://rightmatchnamibia.com/) · [case study](https://github.com/freeman-ipumbu/rightmatch-namibia-case-study) |
 | **Soek.Iets** | Access-code Windhoek pilot; regulated payment and integrated delivery not active | [Public use case](https://github.com/freeman-ipumbu/soek-iets-use-case) |
 
@@ -190,3 +200,4 @@ You can also find me on **[LinkedIn](https://www.linkedin.com/in/freeman-paul-ip
 <p align="center"><strong>Built from Windhoek. Tested against reality.</strong></p>
 
 <p align="center"><sub>Thirty-one systems across owned products, command and operations, digital experiences, research and public build records. Production boundaries remain explicit.</sub></p>
+
